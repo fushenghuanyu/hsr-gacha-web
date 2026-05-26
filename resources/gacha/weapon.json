@@ -1,0 +1,3304 @@
+[
+	{
+		"version": "4.2.2",
+		"items": [
+			{
+				"itemId": 23058,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/05a962d84d0b6049ea90d1c73951f659.png",
+				"itemType": "Weapon",
+				"name": "邂逅于下一个花季",
+				"nameEn": "邂逅于下一个花季",
+				"rankType": 5,
+				"avatarBaseType": "9",
+				"weaponType": "elation"
+			},
+			{
+				"itemId": 23038,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/304eddbcbb4c1d120cedc95b4ee5cc87.png",
+				"itemType": "Weapon",
+				"name": "如果时间是一朵花",
+				"nameEn": "如果时间是一朵花",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 23034,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/dc0b0ed560bceeb9fc9709a1e8110cb9.png",
+				"itemType": "Weapon",
+				"name": "回到大地的飞行",
+				"nameEn": "回到大地的飞行",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 23031,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/6b087bd5b9ded56abb7243a2e5d8c36e.png",
+				"itemType": "Weapon",
+				"name": "我将，巡征追猎",
+				"nameEn": "我将，巡征追猎",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21010,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/62ff4dc91a0e39955d92fe6e8a669ed7.png",
+				"itemType": "Weapon",
+				"name": "论剑",
+				"nameEn": "论剑",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21004,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/80d69d41b75320e96bca63d73773cfce.png",
+				"itemType": "Weapon",
+				"name": "记忆中的模样",
+				"nameEn": "记忆中的模样",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21007,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e59306000a2cca822e49fc5a037587f0.png",
+				"itemType": "Weapon",
+				"name": "同一种心情",
+				"nameEn": "同一种心情",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			}
+		],
+		"start": "2026-05-13 12:00:00",
+		"end": "2026-06-01 03:59:59"
+	},
+	{
+		"version": "4.2.1",
+		"items": [
+			{
+				"itemId": 23057,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e8a5adf9cf245734777cfe676acb1b2b.png",
+				"itemType": "Weapon",
+				"name": "欢迎来到银河城",
+				"nameEn": "欢迎来到银河城",
+				"rankType": 5,
+				"avatarBaseType": "9",
+				"weaponType": "elation"
+			},
+			{
+				"itemId": 23050,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f8a673f914d6a0e9a7a717efdd1a06cc.png",
+				"itemType": "Weapon",
+				"name": "勿忘她的火焰",
+				"nameEn": "勿忘她的火焰",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 23040,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e408e4ec60b4db0515a2644921671740.png",
+				"itemType": "Weapon",
+				"name": "让告别，更美一些",
+				"nameEn": "让告别，更美一些",
+				"rankType": 5,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 23025,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/886a0288a6d24c2373f9b080417d6224.png",
+				"itemType": "Weapon",
+				"name": "梦应归于何处",
+				"nameEn": "梦应归于何处",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21046,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/2578c7466fe6e0177b75fa521cb2174c.png",
+				"itemType": "Weapon",
+				"name": "芳华待灼",
+				"nameEn": "芳华待灼",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21042,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b767e4360de65b9638f1c284ba3557c3.png",
+				"itemType": "Weapon",
+				"name": "铭记于心的约定",
+				"nameEn": "铭记于心的约定",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21008,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/432711810d6fd53051617f1773617fe4.png",
+				"itemType": "Weapon",
+				"name": "猎物的视线",
+				"nameEn": "猎物的视线",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			}
+		],
+		"start": "2026-04-22 06:30:00",
+		"end": "2026-05-13 11:59:00"
+	},
+	{
+		"version": "4.1.2",
+		"items": [
+			{
+				"itemId": 23056,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/7ba1a371bad7f8dc34e85ff79e19a52a.png",
+				"itemType": "Weapon",
+				"name": "一场谎言的终幕",
+				"nameEn": "一场谎言的终幕",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 23027,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8a837df9cc22f6a0b21a5f15d338941e.png",
+				"itemType": "Weapon",
+				"name": "驶向第二次生命",
+				"nameEn": "驶向第二次生命",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21047,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/dc896ee1ddd2edda5c9cacfd8e7a1187.png",
+				"itemType": "Weapon",
+				"name": "黑夜如影随行",
+				"nameEn": "黑夜如影随行",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21013,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/c5b008db6f96538c12dd2e7a2947fd70.png",
+				"itemType": "Weapon",
+				"name": "别让世界静下来",
+				"nameEn": "别让世界静下来",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21048,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/38c47e0f561150b17f3b278c4a21dede.png",
+				"itemType": "Weapon",
+				"name": "梦的蒙太奇",
+				"nameEn": "梦的蒙太奇",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			}
+		],
+		"start": "2026-04-08 12:00:00",
+		"end": "2026-04-21 15:00:00"
+	},
+	{
+		"version": "4.1.1",
+		"items": [
+			{
+				"itemId": 23056,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/7ba1a371bad7f8dc34e85ff79e19a52a.png",
+				"itemType": "Weapon",
+				"name": "一场谎言的终幕",
+				"nameEn": "一场谎言的终幕",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 23042,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/3e4e1a06d76d8c48a08744b2d324ba79.png",
+				"itemType": "Weapon",
+				"name": "愿虹光永驻天空",
+				"nameEn": "愿虹光永驻天空",
+				"rankType": 5,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 21047,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/dc896ee1ddd2edda5c9cacfd8e7a1187.png",
+				"itemType": "Weapon",
+				"name": "黑夜如影随行",
+				"nameEn": "黑夜如影随行",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21013,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/c5b008db6f96538c12dd2e7a2947fd70.png",
+				"itemType": "Weapon",
+				"name": "别让世界静下来",
+				"nameEn": "别让世界静下来",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21048,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/38c47e0f561150b17f3b278c4a21dede.png",
+				"itemType": "Weapon",
+				"name": "梦的蒙太奇",
+				"nameEn": "梦的蒙太奇",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			}
+		],
+		"start": "2026-03-25 06:30:00",
+		"end": "2026-04-08 11:59:00"
+	},
+	{
+		"version": "4.0.2",
+		"items": [
+			{
+				"itemId": 23054,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/711a0cdfd9abe0cd50e4dce65a0f1145.png",
+				"itemType": "Weapon",
+				"name": "当她决定看见",
+				"nameEn": "当她决定看见",
+				"rankType": 5,
+				"avatarBaseType": "9",
+				"weaponType": "elation"
+			},
+			{
+				"itemId": 23053,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/2fa947701dd32800f0c6d074b6f5ddb5.png",
+				"itemType": "Weapon",
+				"name": "花花世界迷人眼",
+				"nameEn": "花花世界迷人眼",
+				"rankType": 5,
+				"avatarBaseType": "9",
+				"weaponType": "elation"
+			},
+			{
+				"itemId": 23048,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/92f4d0507be40cccf141ee00ef94b124.png",
+				"itemType": "Weapon",
+				"name": "金血铭刻的时代",
+				"nameEn": "金血铭刻的时代",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 23033,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b6fa2f02b686eb47f87c7dfafd35c622.png",
+				"itemType": "Weapon",
+				"name": "忍法帖•缭乱破魔",
+				"nameEn": "忍法帖•缭乱破魔",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 23021,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/d4bfdefcc7412ebcfff34f6d98c34f97.png",
+				"itemType": "Weapon",
+				"name": "游戏尘寰",
+				"nameEn": "游戏尘寰",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21054,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8aa2107ca89c53c1faac578c6b3ab82d.png",
+				"itemType": "Weapon",
+				"name": "故事的下一页",
+				"nameEn": "故事的下一页",
+				"rankType": 4,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 21011,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bdaafc923c5007594353b44c36988986.png",
+				"itemType": "Weapon",
+				"name": "与行星相会",
+				"nameEn": "与行星相会",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21015,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f0756c708f5a083c74cd8fc373ec07fa.png",
+				"itemType": "Weapon",
+				"name": "决心如汗珠般闪耀",
+				"nameEn": "决心如汗珠般闪耀",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			}
+		],
+		"start": "2026-03-03 12:00:00",
+		"end": "2026-03-24 15:00:00"
+	},
+	{
+		"version": "4.0.1",
+		"items": [
+			{
+				"itemId": 23054,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/711a0cdfd9abe0cd50e4dce65a0f1145.png",
+				"itemType": "Weapon",
+				"name": "当她决定看见",
+				"nameEn": "当她决定看见",
+				"rankType": 5,
+				"avatarBaseType": "9",
+				"weaponType": "elation"
+			},
+			{
+				"itemId": 23049,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/96cfd8217ccb5e3670a90d5f83ce81da.png",
+				"itemType": "Weapon",
+				"name": "致长夜的星光",
+				"nameEn": "致长夜的星光",
+				"rankType": 5,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 23047,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/30bf5ee43f45cba03a19ff12f63506e0.png",
+				"itemType": "Weapon",
+				"name": "海洋为何而歌",
+				"nameEn": "海洋为何而歌",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 23022,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/84105cf4e1c34d303dbe94f6f5bd4570.png",
+				"itemType": "Weapon",
+				"name": "重塑时光之忆",
+				"nameEn": "重塑时光之忆",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21054,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8aa2107ca89c53c1faac578c6b3ab82d.png",
+				"itemType": "Weapon",
+				"name": "故事的下一页",
+				"nameEn": "故事的下一页",
+				"rankType": 4,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 21011,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bdaafc923c5007594353b44c36988986.png",
+				"itemType": "Weapon",
+				"name": "与行星相会",
+				"nameEn": "与行星相会",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21015,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f0756c708f5a083c74cd8fc373ec07fa.png",
+				"itemType": "Weapon",
+				"name": "决心如汗珠般闪耀",
+				"nameEn": "决心如汗珠般闪耀",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			}
+		],
+		"start": "2026-02-13 06:30:00",
+		"end": "2026-03-03 11:59:00"
+	},
+	{
+		"version": "3.8.3",
+		"items": [
+			{
+				"itemId": 23036,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/287005a30a23ee9590c2206f53aa9a74.png",
+				"itemType": "Weapon",
+				"name": "将光阴织成黄金",
+				"nameEn": "将光阴织成黄金",
+				"rankType": 5,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 23034,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/dc0b0ed560bceeb9fc9709a1e8110cb9.png",
+				"itemType": "Weapon",
+				"name": "回到大地的飞行",
+				"nameEn": "回到大地的飞行",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21051,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/3915cfc78e5c93f337352398c95af2e5.png",
+				"itemType": "Weapon",
+				"name": "天才们的问候",
+				"nameEn": "天才们的问候",
+				"rankType": 4,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 21016,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e6757a17cf26785a444e2b8fdb0f129f.png",
+				"itemType": "Weapon",
+				"name": "宇宙市场趋势",
+				"nameEn": "宇宙市场趋势",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			},
+			{
+				"itemId": 21018,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/851c7317b000dee0da44ad47bf637322.png",
+				"itemType": "Weapon",
+				"name": "舞！舞！舞！",
+				"nameEn": "舞！舞！舞！",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			}
+		],
+		"start": "2026-01-28 12:00:00",
+		"end": "2026-02-12 15:00:00"
+	},
+	{
+		"version": "3.8.2",
+		"items": [
+			{
+				"itemId": 23035,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/9aff6d2eec685284b7670f06c7da783d.png",
+				"itemType": "Weapon",
+				"name": "长路终有归途",
+				"nameEn": "长路终有归途",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 23032,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/abcac76194afd189a04029d6efb4bc14.png",
+				"itemType": "Weapon",
+				"name": "唯有香如故",
+				"nameEn": "唯有香如故",
+				"rankType": 5,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21020,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b3835ab2edab28f10258900f82c1bb5a.png",
+				"itemType": "Weapon",
+				"name": "天才们的休憩",
+				"nameEn": "天才们的休憩",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21000,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8d499cf73bbc103933204aa5f338e987.png",
+				"itemType": "Weapon",
+				"name": "一场术后对话",
+				"nameEn": "一场术后对话",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21005,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4fd1e4f10fff851280a0a5683caf600f.png",
+				"itemType": "Weapon",
+				"name": "鼹鼠党欢迎你",
+				"nameEn": "鼹鼠党欢迎你",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			}
+		],
+		"start": "2026-01-07 12:00:00",
+		"end": "2026-01-28 11:59:00"
+	},
+	{
+		"version": "3.8.1",
+		"items": [
+			{
+				"itemId": 23050,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f8a673f914d6a0e9a7a717efdd1a06cc.png",
+				"itemType": "Weapon",
+				"name": "勿忘她的火焰",
+				"nameEn": "勿忘她的火焰",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 23025,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/886a0288a6d24c2373f9b080417d6224.png",
+				"itemType": "Weapon",
+				"name": "梦应归于何处",
+				"nameEn": "梦应归于何处",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21043,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bd7093688f1f33f8ea51ba268a35d3f3.png",
+				"itemType": "Weapon",
+				"name": "两个人的演唱会",
+				"nameEn": "两个人的演唱会",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			},
+			{
+				"itemId": 21004,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/80d69d41b75320e96bca63d73773cfce.png",
+				"itemType": "Weapon",
+				"name": "记忆中的模样",
+				"nameEn": "记忆中的模样",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21001,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4657a44d00ffcfa6160d8b95005df267.png",
+				"itemType": "Weapon",
+				"name": "晚安与睡颜",
+				"nameEn": "晚安与睡颜",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			}
+		],
+		"start": "2025-12-17 06:30:00",
+		"end": "2026-01-07 11:59:00"
+	},
+	{
+		"version": "3.7.2",
+		"items": [
+			{
+				"itemId": 23052,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/6407f9c5ac184c8a26b29fa17991434a.png",
+				"itemType": "Weapon",
+				"name": "爱如此刻永恒",
+				"nameEn": "爱如此刻永恒",
+				"rankType": 5,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 23044,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/24a8f9a713359cf1824f9e601e40f6b7.png",
+				"itemType": "Weapon",
+				"name": "黎明恰如此燃烧",
+				"nameEn": "黎明恰如此燃烧",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 23043,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/27f445d2ba12221d5e617e40e78bd6a5.png",
+				"itemType": "Weapon",
+				"name": "谎言在风中飘扬",
+				"nameEn": "谎言在风中飘扬",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 23039,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/731441fabef552ea9d4dc9e9a724bcb8.png",
+				"itemType": "Weapon",
+				"name": "血火啊，燃烧前路",
+				"nameEn": "血火啊，燃烧前路",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21054,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8aa2107ca89c53c1faac578c6b3ab82d.png",
+				"itemType": "Weapon",
+				"name": "故事的下一页",
+				"nameEn": "故事的下一页",
+				"rankType": 4,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 21043,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bd7093688f1f33f8ea51ba268a35d3f3.png",
+				"itemType": "Weapon",
+				"name": "两个人的演唱会",
+				"nameEn": "两个人的演唱会",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			},
+			{
+				"itemId": 21044,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/84e3eb1c24d9c681028067cdc42c0b84.png",
+				"itemType": "Weapon",
+				"name": "无边曼舞",
+				"nameEn": "无边曼舞",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			}
+		],
+		"start": "2025-11-26 12:00:00",
+		"end": "2025-12-16 15:00:00"
+	},
+	{
+		"version": "3.7.1",
+		"items": [
+			{
+				"itemId": 23052,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/6407f9c5ac184c8a26b29fa17991434a.png",
+				"itemType": "Weapon",
+				"name": "爱如此刻永恒",
+				"nameEn": "爱如此刻永恒",
+				"rankType": 5,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 23042,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/3e4e1a06d76d8c48a08744b2d324ba79.png",
+				"itemType": "Weapon",
+				"name": "愿虹光永驻天空",
+				"nameEn": "愿虹光永驻天空",
+				"rankType": 5,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 23040,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e408e4ec60b4db0515a2644921671740.png",
+				"itemType": "Weapon",
+				"name": "让告别，更美一些",
+				"nameEn": "让告别，更美一些",
+				"rankType": 5,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 23038,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/304eddbcbb4c1d120cedc95b4ee5cc87.png",
+				"itemType": "Weapon",
+				"name": "如果时间是一朵花",
+				"nameEn": "如果时间是一朵花",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21054,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8aa2107ca89c53c1faac578c6b3ab82d.png",
+				"itemType": "Weapon",
+				"name": "故事的下一页",
+				"nameEn": "故事的下一页",
+				"rankType": 4,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 21043,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bd7093688f1f33f8ea51ba268a35d3f3.png",
+				"itemType": "Weapon",
+				"name": "两个人的演唱会",
+				"nameEn": "两个人的演唱会",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			},
+			{
+				"itemId": 21044,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/84e3eb1c24d9c681028067cdc42c0b84.png",
+				"itemType": "Weapon",
+				"name": "无边曼舞",
+				"nameEn": "无边曼舞",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			}
+		],
+		"start": "2025-11-05 06:30:00",
+		"end": "2025-11-26 11:59:00"
+	},
+	{
+		"version": "3.6.2",
+		"items": [
+			{
+				"itemId": 23051,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b3d78e8974ea2e80480c73c974cff538.png",
+				"itemType": "Weapon",
+				"name": "纵然山河万程",
+				"nameEn": "纵然山河万程",
+				"rankType": 5,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			},
+			{
+				"itemId": 23041,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f5c82087d04abfe1a834344cb0efbd5b.png",
+				"itemType": "Weapon",
+				"name": "生命当付之一炬",
+				"nameEn": "生命当付之一炬",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21009,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/7742b300e8e1ac82a7870699e8e76580.png",
+				"itemType": "Weapon",
+				"name": "朗道的选择",
+				"nameEn": "朗道的选择",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			},
+			{
+				"itemId": 21003,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0d48d667fb5e38c72e098a80aefca1ab.png",
+				"itemType": "Weapon",
+				"name": "唯有沉默",
+				"nameEn": "唯有沉默",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21014,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/412d42b4e85a9c114ac574b8ea78b0c6.png",
+				"itemType": "Weapon",
+				"name": "此时恰好",
+				"nameEn": "此时恰好",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			}
+		],
+		"start": "2025-10-15 12:00:00",
+		"end": "2025-11-04 15:00:00"
+	},
+	{
+		"version": "3.6.1",
+		"items": [
+			{
+				"itemId": 23049,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/96cfd8217ccb5e3670a90d5f83ce81da.png",
+				"itemType": "Weapon",
+				"name": "致长夜的星光",
+				"nameEn": "致长夜的星光",
+				"rankType": 5,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 23037,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/faf6101eb19c3a8b49929beb74433057.png",
+				"itemType": "Weapon",
+				"name": "向着不可追问处",
+				"nameEn": "向着不可追问处",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21048,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/38c47e0f561150b17f3b278c4a21dede.png",
+				"itemType": "Weapon",
+				"name": "梦的蒙太奇",
+				"nameEn": "梦的蒙太奇",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21045,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4e92e77077f3fbb86c2728a3d338955e.png",
+				"itemType": "Weapon",
+				"name": "谐乐静默之后",
+				"nameEn": "谐乐静默之后",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21018,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/851c7317b000dee0da44ad47bf637322.png",
+				"itemType": "Weapon",
+				"name": "舞！舞！舞！",
+				"nameEn": "舞！舞！舞！",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			}
+		],
+		"start": "2025-09-24 06:30:00",
+		"end": "2025-10-15 11:59:00"
+	},
+	{
+		"version": "3.5.2",
+		"items": [
+			{
+				"itemId": 23048,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/92f4d0507be40cccf141ee00ef94b124.png",
+				"itemType": "Weapon",
+				"name": "金血铭刻的时代",
+				"nameEn": "金血铭刻的时代",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 23007,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/154eee9ddb118a919f903dd2e5792f83.png",
+				"itemType": "Weapon",
+				"name": "雨一直下",
+				"nameEn": "雨一直下",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21006,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/88b05c4aa55d5dd14bcc2659c95500ec.png",
+				"itemType": "Weapon",
+				"name": "「我」的诞生",
+				"nameEn": "「我」的诞生",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21010,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/62ff4dc91a0e39955d92fe6e8a669ed7.png",
+				"itemType": "Weapon",
+				"name": "论剑",
+				"nameEn": "论剑",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21001,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4657a44d00ffcfa6160d8b95005df267.png",
+				"itemType": "Weapon",
+				"name": "晚安与睡颜",
+				"nameEn": "晚安与睡颜",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			}
+		],
+		"start": "2025-09-02 12:00:00",
+		"end": "2025-09-23 15:00:00"
+	},
+	{
+		"version": "3.5.1",
+		"items": [
+			{
+				"itemId": 23047,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/30bf5ee43f45cba03a19ff12f63506e0.png",
+				"itemType": "Weapon",
+				"name": "海洋为何而歌",
+				"nameEn": "海洋为何而歌",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 23006,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/51737d41e01e7fe4424bb3f36fc9d17f.png",
+				"itemType": "Weapon",
+				"name": "只需等待",
+				"nameEn": "只需等待",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21008,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/432711810d6fd53051617f1773617fe4.png",
+				"itemType": "Weapon",
+				"name": "猎物的视线",
+				"nameEn": "猎物的视线",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21046,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/2578c7466fe6e0177b75fa521cb2174c.png",
+				"itemType": "Weapon",
+				"name": "芳华待灼",
+				"nameEn": "芳华待灼",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21042,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b767e4360de65b9638f1c284ba3557c3.png",
+				"itemType": "Weapon",
+				"name": "铭记于心的约定",
+				"nameEn": "铭记于心的约定",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			}
+		],
+		"start": "2025-08-13 06:30:00",
+		"end": "2025-09-02 11:59:00"
+	},
+	{
+		"version": "3.4.2",
+		"items": [
+			{
+				"itemId": 23025,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/886a0288a6d24c2373f9b080417d6224.png",
+				"itemType": "Weapon",
+				"name": "梦应归于何处",
+				"nameEn": "梦应归于何处",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 23014,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/af9eebbf9c92c7ddcebb9fbefafd3a32.png",
+				"itemType": "Weapon",
+				"name": "此身为剑",
+				"nameEn": "此身为剑",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 23009,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/570db04681f03617912f86bd7079fafd.png",
+				"itemType": "Weapon",
+				"name": "到不了的彼岸",
+				"nameEn": "到不了的彼岸",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21012,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0c7ed05870657e293b3b70d7c1b98c64.png",
+				"itemType": "Weapon",
+				"name": "秘密誓心",
+				"nameEn": "秘密誓心",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21017,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/ac03ddfaf67fb71be0fe59e15c0260dd.png",
+				"itemType": "Weapon",
+				"name": "点个关注吧！",
+				"nameEn": "点个关注吧！",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21015,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f0756c708f5a083c74cd8fc373ec07fa.png",
+				"itemType": "Weapon",
+				"name": "决心如汗珠般闪耀",
+				"nameEn": "决心如汗珠般闪耀",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			}
+		],
+		"start": "2025-07-23 12:00:00",
+		"end": "2025-08-12 14:59:59"
+	},
+	{
+		"version": "1.0.1",
+		"items": [
+			{
+				"itemId": 23045,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/a82db051832b09bae148e8e9518d0b33.png",
+				"itemType": "Weapon",
+				"name": "没有回报的加冕",
+				"nameEn": "没有回报的加冕",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 23046,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8a45fbe1867d9fd8e294d5ecedcd9aa2.png",
+				"itemType": "Weapon",
+				"name": "理想燃烧的地狱",
+				"nameEn": "理想燃烧的地狱",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			}
+		],
+		"start": "2025-07-11 12:00:00",
+		"end": "2099-05-16 00:00:00"
+	},
+	{
+		"version": "3.4.1",
+		"items": [
+			{
+				"itemId": 23044,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/24a8f9a713359cf1824f9e601e40f6b7.png",
+				"itemType": "Weapon",
+				"name": "黎明恰如此燃烧",
+				"nameEn": "黎明恰如此燃烧",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 23038,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/304eddbcbb4c1d120cedc95b4ee5cc87.png",
+				"itemType": "Weapon",
+				"name": "如果时间是一朵花",
+				"nameEn": "如果时间是一朵花",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 23034,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/dc0b0ed560bceeb9fc9709a1e8110cb9.png",
+				"itemType": "Weapon",
+				"name": "回到大地的飞行",
+				"nameEn": "回到大地的飞行",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 23021,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/d4bfdefcc7412ebcfff34f6d98c34f97.png",
+				"itemType": "Weapon",
+				"name": "游戏尘寰",
+				"nameEn": "游戏尘寰",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21054,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8aa2107ca89c53c1faac578c6b3ab82d.png",
+				"itemType": "Weapon",
+				"name": "故事的下一页",
+				"nameEn": "故事的下一页",
+				"rankType": 4,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 21011,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bdaafc923c5007594353b44c36988986.png",
+				"itemType": "Weapon",
+				"name": "与行星相会",
+				"nameEn": "与行星相会",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21019,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/78e79d9a162f55838c1fef39983ad28f.png",
+				"itemType": "Weapon",
+				"name": "在蓝天下",
+				"nameEn": "在蓝天下",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			}
+		],
+		"start": "2025-07-02 06:00:00",
+		"end": "2025-07-23 11:59:59"
+	},
+	{
+		"version": "3.3.2",
+		"items": [
+			{
+				"itemId": 23043,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/27f445d2ba12221d5e617e40e78bd6a5.png",
+				"itemType": "Weapon",
+				"name": "谎言在风中飘扬",
+				"nameEn": "谎言在风中飘扬",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 23036,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/287005a30a23ee9590c2206f53aa9a74.png",
+				"itemType": "Weapon",
+				"name": "将光阴织成黄金",
+				"nameEn": "将光阴织成黄金",
+				"rankType": 5,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 21051,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/3915cfc78e5c93f337352398c95af2e5.png",
+				"itemType": "Weapon",
+				"name": "天才们的问候",
+				"nameEn": "天才们的问候",
+				"rankType": 4,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 21008,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/432711810d6fd53051617f1773617fe4.png",
+				"itemType": "Weapon",
+				"name": "猎物的视线",
+				"nameEn": "猎物的视线",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21007,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e59306000a2cca822e49fc5a037587f0.png",
+				"itemType": "Weapon",
+				"name": "同一种心情",
+				"nameEn": "同一种心情",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			}
+		],
+		"start": "2025-06-11 12:00:00",
+		"end": "2025-07-01 14:59:59"
+	},
+	{
+		"version": "3.3.1",
+		"items": [
+			{
+				"itemId": 23042,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/3e4e1a06d76d8c48a08744b2d324ba79.png",
+				"itemType": "Weapon",
+				"name": "愿虹光永驻天空",
+				"nameEn": "愿虹光永驻天空",
+				"rankType": 5,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 23037,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/faf6101eb19c3a8b49929beb74433057.png",
+				"itemType": "Weapon",
+				"name": "向着不可追问处",
+				"nameEn": "向着不可追问处",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21013,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/c5b008db6f96538c12dd2e7a2947fd70.png",
+				"itemType": "Weapon",
+				"name": "别让世界静下来",
+				"nameEn": "别让世界静下来",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21047,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/dc896ee1ddd2edda5c9cacfd8e7a1187.png",
+				"itemType": "Weapon",
+				"name": "黑夜如影随行",
+				"nameEn": "黑夜如影随行",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21002,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/553c6f9296cbcb8aec184b8949462454.png",
+				"itemType": "Weapon",
+				"name": "余生的第一天",
+				"nameEn": "余生的第一天",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			}
+		],
+		"start": "2025-05-21 06:00:00",
+		"end": "2025-06-11 11:59:59"
+	},
+	{
+		"version": "3.2.2",
+		"items": [
+			{
+				"itemId": 23041,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f5c82087d04abfe1a834344cb0efbd5b.png",
+				"itemType": "Weapon",
+				"name": "生命当付之一炬",
+				"nameEn": "生命当付之一炬",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 23020,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b97cdfa3034d757fe747156606cf2ce2.png",
+				"itemType": "Weapon",
+				"name": "纯粹思维的洗礼",
+				"nameEn": "纯粹思维的洗礼",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21016,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e6757a17cf26785a444e2b8fdb0f129f.png",
+				"itemType": "Weapon",
+				"name": "宇宙市场趋势",
+				"nameEn": "宇宙市场趋势",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			},
+			{
+				"itemId": 21045,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4e92e77077f3fbb86c2728a3d338955e.png",
+				"itemType": "Weapon",
+				"name": "谐乐静默之后",
+				"nameEn": "谐乐静默之后",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21005,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4fd1e4f10fff851280a0a5683caf600f.png",
+				"itemType": "Weapon",
+				"name": "鼹鼠党欢迎你",
+				"nameEn": "鼹鼠党欢迎你",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			}
+		],
+		"start": "2025-04-30 12:00:00",
+		"end": "2025-05-20 14:59:59"
+	},
+	{
+		"version": "3.2.1",
+		"items": [
+			{
+				"itemId": 23040,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e408e4ec60b4db0515a2644921671740.png",
+				"itemType": "Weapon",
+				"name": "让告别，更美一些",
+				"nameEn": "让告别，更美一些",
+				"rankType": 5,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 23035,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/9aff6d2eec685284b7670f06c7da783d.png",
+				"itemType": "Weapon",
+				"name": "长路终有归途",
+				"nameEn": "长路终有归途",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 23029,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/fda42c6d48cee9bed63cc45040f09c0e.png",
+				"itemType": "Weapon",
+				"name": "那无数个春天",
+				"nameEn": "那无数个春天",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 23024,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/da18901d4e35bb755e4cf99d7ec474f7.png",
+				"itemType": "Weapon",
+				"name": "行于流逝的岸",
+				"nameEn": "行于流逝的岸",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21001,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4657a44d00ffcfa6160d8b95005df267.png",
+				"itemType": "Weapon",
+				"name": "晚安与睡颜",
+				"nameEn": "晚安与睡颜",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21000,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8d499cf73bbc103933204aa5f338e987.png",
+				"itemType": "Weapon",
+				"name": "一场术后对话",
+				"nameEn": "一场术后对话",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21044,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/84e3eb1c24d9c681028067cdc42c0b84.png",
+				"itemType": "Weapon",
+				"name": "无边曼舞",
+				"nameEn": "无边曼舞",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			}
+		],
+		"start": "2025-04-09 06:00:00",
+		"end": "2025-04-30 11:59:59"
+	},
+	{
+		"version": "3.1.2",
+		"items": [
+			{
+				"itemId": 23039,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/731441fabef552ea9d4dc9e9a724bcb8.png",
+				"itemType": "Weapon",
+				"name": "血火啊，燃烧前路",
+				"nameEn": "血火啊，燃烧前路",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 23017,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b12cdfa0a8aca9422c573ea4ce8b9bc1.png",
+				"itemType": "Weapon",
+				"name": "惊魂夜",
+				"nameEn": "惊魂夜",
+				"rankType": 5,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21014,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/412d42b4e85a9c114ac574b8ea78b0c6.png",
+				"itemType": "Weapon",
+				"name": "此时恰好",
+				"nameEn": "此时恰好",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21012,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0c7ed05870657e293b3b70d7c1b98c64.png",
+				"itemType": "Weapon",
+				"name": "秘密誓心",
+				"nameEn": "秘密誓心",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21004,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/80d69d41b75320e96bca63d73773cfce.png",
+				"itemType": "Weapon",
+				"name": "记忆中的模样",
+				"nameEn": "记忆中的模样",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			}
+		],
+		"start": "2025-03-19 12:00:00",
+		"end": "2025-04-08 14:59:59"
+	},
+	{
+		"version": "3.1.1",
+		"items": [
+			{
+				"itemId": 23038,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/304eddbcbb4c1d120cedc95b4ee5cc87.png",
+				"itemType": "Weapon",
+				"name": "如果时间是一朵花",
+				"nameEn": "如果时间是一朵花",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 23030,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/5b4b9ec648a1c8946340e08334f296a7.png",
+				"itemType": "Weapon",
+				"name": "落日时起舞",
+				"nameEn": "落日时起舞",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21011,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bdaafc923c5007594353b44c36988986.png",
+				"itemType": "Weapon",
+				"name": "与行星相会",
+				"nameEn": "与行星相会",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21000,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8d499cf73bbc103933204aa5f338e987.png",
+				"itemType": "Weapon",
+				"name": "一场术后对话",
+				"nameEn": "一场术后对话",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21016,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e6757a17cf26785a444e2b8fdb0f129f.png",
+				"itemType": "Weapon",
+				"name": "宇宙市场趋势",
+				"nameEn": "宇宙市场趋势",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			}
+		],
+		"start": "2025-02-26 06:00:00",
+		"end": "2025-03-19 11:59:59"
+	},
+	{
+		"version": "3.0.2",
+		"items": [
+			{
+				"itemId": 23036,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/287005a30a23ee9590c2206f53aa9a74.png",
+				"itemType": "Weapon",
+				"name": "将光阴织成黄金",
+				"nameEn": "将光阴织成黄金",
+				"rankType": 5,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 23027,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8a837df9cc22f6a0b21a5f15d338941e.png",
+				"itemType": "Weapon",
+				"name": "驶向第二次生命",
+				"nameEn": "驶向第二次生命",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 23026,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b59856b23c5b4448378b6113127d6e37.png",
+				"itemType": "Weapon",
+				"name": "夜色流光溢彩",
+				"nameEn": "夜色流光溢彩",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 23007,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/154eee9ddb118a919f903dd2e5792f83.png",
+				"itemType": "Weapon",
+				"name": "雨一直下",
+				"nameEn": "雨一直下",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21051,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/3915cfc78e5c93f337352398c95af2e5.png",
+				"itemType": "Weapon",
+				"name": "天才们的问候",
+				"nameEn": "天才们的问候",
+				"rankType": 4,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 21017,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/ac03ddfaf67fb71be0fe59e15c0260dd.png",
+				"itemType": "Weapon",
+				"name": "点个关注吧！",
+				"nameEn": "点个关注吧！",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21018,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/851c7317b000dee0da44ad47bf637322.png",
+				"itemType": "Weapon",
+				"name": "舞！舞！舞！",
+				"nameEn": "舞！舞！舞！",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			}
+		],
+		"start": "2025-02-05 12:00:00",
+		"end": "2025-02-25 14:59:59"
+	},
+	{
+		"version": "3.0.1",
+		"items": [
+			{
+				"itemId": 23037,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/faf6101eb19c3a8b49929beb74433057.png",
+				"itemType": "Weapon",
+				"name": "向着不可追问处",
+				"nameEn": "向着不可追问处",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 23032,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/abcac76194afd189a04029d6efb4bc14.png",
+				"itemType": "Weapon",
+				"name": "唯有香如故",
+				"nameEn": "唯有香如故",
+				"rankType": 5,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 23031,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/6b087bd5b9ded56abb7243a2e5d8c36e.png",
+				"itemType": "Weapon",
+				"name": "我将，巡征追猎",
+				"nameEn": "我将，巡征追猎",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 23028,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/76b0aeda29dc6dc19c9f13f957df79e9.png",
+				"itemType": "Weapon",
+				"name": "偏偏希望无价",
+				"nameEn": "偏偏希望无价",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21003,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0d48d667fb5e38c72e098a80aefca1ab.png",
+				"itemType": "Weapon",
+				"name": "唯有沉默",
+				"nameEn": "唯有沉默",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21009,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/7742b300e8e1ac82a7870699e8e76580.png",
+				"itemType": "Weapon",
+				"name": "朗道的选择",
+				"nameEn": "朗道的选择",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			},
+			{
+				"itemId": 21020,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b3835ab2edab28f10258900f82c1bb5a.png",
+				"itemType": "Weapon",
+				"name": "天才们的休憩",
+				"nameEn": "天才们的休憩",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			}
+		],
+		"start": "2025-01-15 06:00:00",
+		"end": "2025-02-05 11:59:59"
+	},
+	{
+		"version": "2.7.2",
+		"items": [
+			{
+				"itemId": 23035,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/9aff6d2eec685284b7670f06c7da783d.png",
+				"itemType": "Weapon",
+				"name": "长路终有归途",
+				"nameEn": "长路终有归途",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 23025,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/886a0288a6d24c2373f9b080417d6224.png",
+				"itemType": "Weapon",
+				"name": "梦应归于何处",
+				"nameEn": "梦应归于何处",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21042,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b767e4360de65b9638f1c284ba3557c3.png",
+				"itemType": "Weapon",
+				"name": "铭记于心的约定",
+				"nameEn": "铭记于心的约定",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21015,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f0756c708f5a083c74cd8fc373ec07fa.png",
+				"itemType": "Weapon",
+				"name": "决心如汗珠般闪耀",
+				"nameEn": "决心如汗珠般闪耀",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21043,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bd7093688f1f33f8ea51ba268a35d3f3.png",
+				"itemType": "Weapon",
+				"name": "两个人的演唱会",
+				"nameEn": "两个人的演唱会",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			}
+		],
+		"start": "2024-12-25 12:00:00",
+		"end": "2025-01-14 14:59:59"
+	},
+	{
+		"version": "2.7.1",
+		"items": [
+			{
+				"itemId": 23034,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/dc0b0ed560bceeb9fc9709a1e8110cb9.png",
+				"itemType": "Weapon",
+				"name": "回到大地的飞行",
+				"nameEn": "回到大地的飞行",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 23010,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/2fb300623168c56651285bd66bb55b94.png",
+				"itemType": "Weapon",
+				"name": "拂晓之前",
+				"nameEn": "拂晓之前",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21046,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/2578c7466fe6e0177b75fa521cb2174c.png",
+				"itemType": "Weapon",
+				"name": "芳华待灼",
+				"nameEn": "芳华待灼",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21006,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/88b05c4aa55d5dd14bcc2659c95500ec.png",
+				"itemType": "Weapon",
+				"name": "「我」的诞生",
+				"nameEn": "「我」的诞生",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21010,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/62ff4dc91a0e39955d92fe6e8a669ed7.png",
+				"itemType": "Weapon",
+				"name": "论剑",
+				"nameEn": "论剑",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			}
+		],
+		"start": "2024-12-04 06:00:00",
+		"end": "2024-12-25 11:59:59"
+	},
+	{
+		"version": "2.6.2",
+		"items": [
+			{
+				"itemId": 23024,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/da18901d4e35bb755e4cf99d7ec474f7.png",
+				"itemType": "Weapon",
+				"name": "行于流逝的岸",
+				"nameEn": "行于流逝的岸",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 23023,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/422002a136848c2eeb11566983b34783.png",
+				"itemType": "Weapon",
+				"name": "命运从未公平",
+				"nameEn": "命运从未公平",
+				"rankType": 5,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			},
+			{
+				"itemId": 21002,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/553c6f9296cbcb8aec184b8949462454.png",
+				"itemType": "Weapon",
+				"name": "余生的第一天",
+				"nameEn": "余生的第一天",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			},
+			{
+				"itemId": 21044,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/84e3eb1c24d9c681028067cdc42c0b84.png",
+				"itemType": "Weapon",
+				"name": "无边曼舞",
+				"nameEn": "无边曼舞",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21013,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/c5b008db6f96538c12dd2e7a2947fd70.png",
+				"itemType": "Weapon",
+				"name": "别让世界静下来",
+				"nameEn": "别让世界静下来",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			}
+		],
+		"start": "2024-11-13 12:00:00",
+		"end": "2024-12-03 14:59:59"
+	},
+	{
+		"version": "2.6.1",
+		"items": [
+			{
+				"itemId": 23033,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b6fa2f02b686eb47f87c7dfafd35c622.png",
+				"itemType": "Weapon",
+				"name": "忍法帖•缭乱破魔",
+				"nameEn": "忍法帖•缭乱破魔",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 23015,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/009473f2d1b4fc6f32bdbeaccf6537b2.png",
+				"itemType": "Weapon",
+				"name": "比阳光更明亮的",
+				"nameEn": "比阳光更明亮的",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21048,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/38c47e0f561150b17f3b278c4a21dede.png",
+				"itemType": "Weapon",
+				"name": "梦的蒙太奇",
+				"nameEn": "梦的蒙太奇",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21045,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4e92e77077f3fbb86c2728a3d338955e.png",
+				"itemType": "Weapon",
+				"name": "谐乐静默之后",
+				"nameEn": "谐乐静默之后",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21019,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/78e79d9a162f55838c1fef39983ad28f.png",
+				"itemType": "Weapon",
+				"name": "在蓝天下",
+				"nameEn": "在蓝天下",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			}
+		],
+		"start": "2024-10-23 06:00:00",
+		"end": "2024-11-13 11:59:59"
+	},
+	{
+		"version": "2.5.2",
+		"items": [
+			{
+				"itemId": 23032,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/abcac76194afd189a04029d6efb4bc14.png",
+				"itemType": "Weapon",
+				"name": "唯有香如故",
+				"nameEn": "唯有香如故",
+				"rankType": 5,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 23016,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/d66d4ab03f26f196b4605972bca4245d.png",
+				"itemType": "Weapon",
+				"name": "烦恼着，幸福着",
+				"nameEn": "烦恼着，幸福着",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21047,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/dc896ee1ddd2edda5c9cacfd8e7a1187.png",
+				"itemType": "Weapon",
+				"name": "黑夜如影随行",
+				"nameEn": "黑夜如影随行",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21007,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e59306000a2cca822e49fc5a037587f0.png",
+				"itemType": "Weapon",
+				"name": "同一种心情",
+				"nameEn": "同一种心情",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21011,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bdaafc923c5007594353b44c36988986.png",
+				"itemType": "Weapon",
+				"name": "与行星相会",
+				"nameEn": "与行星相会",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			}
+		],
+		"start": "2024-10-02 12:00:00",
+		"end": "2024-10-22 14:59:59"
+	},
+	{
+		"version": "2.5.1",
+		"items": [
+			{
+				"itemId": 23031,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/6b087bd5b9ded56abb7243a2e5d8c36e.png",
+				"itemType": "Weapon",
+				"name": "我将，巡征追猎",
+				"nameEn": "我将，巡征追猎",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 23006,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/51737d41e01e7fe4424bb3f36fc9d17f.png",
+				"itemType": "Weapon",
+				"name": "只需等待",
+				"nameEn": "只需等待",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 23022,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/84105cf4e1c34d303dbe94f6f5bd4570.png",
+				"itemType": "Weapon",
+				"name": "重塑时光之忆",
+				"nameEn": "重塑时光之忆",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 23026,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b59856b23c5b4448378b6113127d6e37.png",
+				"itemType": "Weapon",
+				"name": "夜色流光溢彩",
+				"nameEn": "夜色流光溢彩",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21010,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/62ff4dc91a0e39955d92fe6e8a669ed7.png",
+				"itemType": "Weapon",
+				"name": "论剑",
+				"nameEn": "论剑",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21015,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f0756c708f5a083c74cd8fc373ec07fa.png",
+				"itemType": "Weapon",
+				"name": "决心如汗珠般闪耀",
+				"nameEn": "决心如汗珠般闪耀",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21006,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/88b05c4aa55d5dd14bcc2659c95500ec.png",
+				"itemType": "Weapon",
+				"name": "「我」的诞生",
+				"nameEn": "「我」的诞生",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			}
+		],
+		"start": "2024-09-10 06:00:00",
+		"end": "2024-10-02 11:59:59"
+	},
+	{
+		"version": "2.4.2",
+		"items": [
+			{
+				"itemId": 23029,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/fda42c6d48cee9bed63cc45040f09c0e.png",
+				"itemType": "Weapon",
+				"name": "那无数个春天",
+				"nameEn": "那无数个春天",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 23021,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/d4bfdefcc7412ebcfff34f6d98c34f97.png",
+				"itemType": "Weapon",
+				"name": "游戏尘寰",
+				"nameEn": "游戏尘寰",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21046,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/2578c7466fe6e0177b75fa521cb2174c.png",
+				"itemType": "Weapon",
+				"name": "芳华待灼",
+				"nameEn": "芳华待灼",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21008,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/432711810d6fd53051617f1773617fe4.png",
+				"itemType": "Weapon",
+				"name": "猎物的视线",
+				"nameEn": "猎物的视线",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21012,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0c7ed05870657e293b3b70d7c1b98c64.png",
+				"itemType": "Weapon",
+				"name": "秘密誓心",
+				"nameEn": "秘密誓心",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			}
+		],
+		"start": "2024-08-21 12:00:00",
+		"end": "2024-09-09 14:59:59"
+	},
+	{
+		"version": "2.4.1",
+		"items": [
+			{
+				"itemId": 23030,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/5b4b9ec648a1c8946340e08334f296a7.png",
+				"itemType": "Weapon",
+				"name": "落日时起舞",
+				"nameEn": "落日时起舞",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 23017,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b12cdfa0a8aca9422c573ea4ce8b9bc1.png",
+				"itemType": "Weapon",
+				"name": "惊魂夜",
+				"nameEn": "惊魂夜",
+				"rankType": 5,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21005,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4fd1e4f10fff851280a0a5683caf600f.png",
+				"itemType": "Weapon",
+				"name": "鼹鼠党欢迎你",
+				"nameEn": "鼹鼠党欢迎你",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21014,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/412d42b4e85a9c114ac574b8ea78b0c6.png",
+				"itemType": "Weapon",
+				"name": "此时恰好",
+				"nameEn": "此时恰好",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21006,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/88b05c4aa55d5dd14bcc2659c95500ec.png",
+				"itemType": "Weapon",
+				"name": "「我」的诞生",
+				"nameEn": "「我」的诞生",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			}
+		],
+		"start": "2024-07-31 06:00:00",
+		"end": "2024-08-21 11:59:59"
+	},
+	{
+		"version": "2.3.2",
+		"items": [
+			{
+				"itemId": 23028,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/76b0aeda29dc6dc19c9f13f957df79e9.png",
+				"itemType": "Weapon",
+				"name": "偏偏希望无价",
+				"nameEn": "偏偏希望无价",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 23018,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0ad8470d0cac98e2163f5329f9f65986.png",
+				"itemType": "Weapon",
+				"name": "片刻，留在眼底",
+				"nameEn": "片刻，留在眼底",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21045,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4e92e77077f3fbb86c2728a3d338955e.png",
+				"itemType": "Weapon",
+				"name": "谐乐静默之后",
+				"nameEn": "谐乐静默之后",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21007,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e59306000a2cca822e49fc5a037587f0.png",
+				"itemType": "Weapon",
+				"name": "同一种心情",
+				"nameEn": "同一种心情",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21016,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e6757a17cf26785a444e2b8fdb0f129f.png",
+				"itemType": "Weapon",
+				"name": "宇宙市场趋势",
+				"nameEn": "宇宙市场趋势",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			}
+		],
+		"start": "2024-07-10 12:00:00",
+		"end": "2024-07-30 14:59:59"
+	},
+	{
+		"version": "2.3.1",
+		"items": [
+			{
+				"itemId": 23025,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/886a0288a6d24c2373f9b080417d6224.png",
+				"itemType": "Weapon",
+				"name": "梦应归于何处",
+				"nameEn": "梦应归于何处",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 23019,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8f130dc42d19fb2531de735a7aaaf8d3.png",
+				"itemType": "Weapon",
+				"name": "镜中故我",
+				"nameEn": "镜中故我",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21004,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/80d69d41b75320e96bca63d73773cfce.png",
+				"itemType": "Weapon",
+				"name": "记忆中的模样",
+				"nameEn": "记忆中的模样",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21002,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/553c6f9296cbcb8aec184b8949462454.png",
+				"itemType": "Weapon",
+				"name": "余生的第一天",
+				"nameEn": "余生的第一天",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			},
+			{
+				"itemId": 21008,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/432711810d6fd53051617f1773617fe4.png",
+				"itemType": "Weapon",
+				"name": "猎物的视线",
+				"nameEn": "猎物的视线",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			}
+		],
+		"start": "2024-06-19 06:00:00",
+		"end": "2024-07-10 11:59:59"
+	},
+	{
+		"version": "2.2.2",
+		"items": [
+			{
+				"itemId": 23027,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8a837df9cc22f6a0b21a5f15d338941e.png",
+				"itemType": "Weapon",
+				"name": "驶向第二次生命",
+				"nameEn": "驶向第二次生命",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 23011,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/96f6fcfbc3dd8b3908d2e045f1590056.png",
+				"itemType": "Weapon",
+				"name": "她已闭上双眼",
+				"nameEn": "她已闭上双眼",
+				"rankType": 5,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			},
+			{
+				"itemId": 21020,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b3835ab2edab28f10258900f82c1bb5a.png",
+				"itemType": "Weapon",
+				"name": "天才们的休憩",
+				"nameEn": "天才们的休憩",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21012,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0c7ed05870657e293b3b70d7c1b98c64.png",
+				"itemType": "Weapon",
+				"name": "秘密誓心",
+				"nameEn": "秘密誓心",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21009,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/7742b300e8e1ac82a7870699e8e76580.png",
+				"itemType": "Weapon",
+				"name": "朗道的选择",
+				"nameEn": "朗道的选择",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			}
+		],
+		"start": "2024-05-29 12:00:00",
+		"end": "2024-06-18 14:59:59"
+	},
+	{
+		"version": "2.2.1",
+		"items": [
+			{
+				"itemId": 23026,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b59856b23c5b4448378b6113127d6e37.png",
+				"itemType": "Weapon",
+				"name": "夜色流光溢彩",
+				"nameEn": "夜色流光溢彩",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 23016,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/d66d4ab03f26f196b4605972bca4245d.png",
+				"itemType": "Weapon",
+				"name": "烦恼着，幸福着",
+				"nameEn": "烦恼着，幸福着",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21044,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/84e3eb1c24d9c681028067cdc42c0b84.png",
+				"itemType": "Weapon",
+				"name": "无边曼舞",
+				"nameEn": "无边曼舞",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21010,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/62ff4dc91a0e39955d92fe6e8a669ed7.png",
+				"itemType": "Weapon",
+				"name": "论剑",
+				"nameEn": "论剑",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21014,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/412d42b4e85a9c114ac574b8ea78b0c6.png",
+				"itemType": "Weapon",
+				"name": "此时恰好",
+				"nameEn": "此时恰好",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			}
+		],
+		"start": "2024-05-08 06:00:00",
+		"end": "2024-05-29 11:59:59"
+	},
+	{
+		"version": "2.1.2",
+		"items": [
+			{
+				"itemId": 23023,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/422002a136848c2eeb11566983b34783.png",
+				"itemType": "Weapon",
+				"name": "命运从未公平",
+				"nameEn": "命运从未公平",
+				"rankType": 5,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			},
+			{
+				"itemId": 23014,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/af9eebbf9c92c7ddcebb9fbefafd3a32.png",
+				"itemType": "Weapon",
+				"name": "此身为剑",
+				"nameEn": "此身为剑",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21043,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bd7093688f1f33f8ea51ba268a35d3f3.png",
+				"itemType": "Weapon",
+				"name": "两个人的演唱会",
+				"nameEn": "两个人的演唱会",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			},
+			{
+				"itemId": 21007,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e59306000a2cca822e49fc5a037587f0.png",
+				"itemType": "Weapon",
+				"name": "同一种心情",
+				"nameEn": "同一种心情",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21013,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/c5b008db6f96538c12dd2e7a2947fd70.png",
+				"itemType": "Weapon",
+				"name": "别让世界静下来",
+				"nameEn": "别让世界静下来",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			}
+		],
+		"start": "2024-04-17 12:00:00",
+		"end": "2024-05-07 14:59:59"
+	},
+	{
+		"version": "2.1.1",
+		"items": [
+			{
+				"itemId": 23024,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/da18901d4e35bb755e4cf99d7ec474f7.png",
+				"itemType": "Weapon",
+				"name": "行于流逝的岸",
+				"nameEn": "行于流逝的岸",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 23008,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f96ee8693f5969286841d42537f24628.png",
+				"itemType": "Weapon",
+				"name": "棺的回响",
+				"nameEn": "棺的回响",
+				"rankType": 5,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21001,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4657a44d00ffcfa6160d8b95005df267.png",
+				"itemType": "Weapon",
+				"name": "晚安与睡颜",
+				"nameEn": "晚安与睡颜",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21000,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8d499cf73bbc103933204aa5f338e987.png",
+				"itemType": "Weapon",
+				"name": "一场术后对话",
+				"nameEn": "一场术后对话",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21017,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/ac03ddfaf67fb71be0fe59e15c0260dd.png",
+				"itemType": "Weapon",
+				"name": "点个关注吧！",
+				"nameEn": "点个关注吧！",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			}
+		],
+		"start": "2024-03-27 06:00:00",
+		"end": "2024-04-17 11:59:59"
+	},
+	{
+		"version": "2.0.2",
+		"items": [
+			{
+				"itemId": 23021,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/d4bfdefcc7412ebcfff34f6d98c34f97.png",
+				"itemType": "Weapon",
+				"name": "游戏尘寰",
+				"nameEn": "游戏尘寰",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 23010,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/2fb300623168c56651285bd66bb55b94.png",
+				"itemType": "Weapon",
+				"name": "拂晓之前",
+				"nameEn": "拂晓之前",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21011,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bdaafc923c5007594353b44c36988986.png",
+				"itemType": "Weapon",
+				"name": "与行星相会",
+				"nameEn": "与行星相会",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21019,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/78e79d9a162f55838c1fef39983ad28f.png",
+				"itemType": "Weapon",
+				"name": "在蓝天下",
+				"nameEn": "在蓝天下",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21020,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b3835ab2edab28f10258900f82c1bb5a.png",
+				"itemType": "Weapon",
+				"name": "天才们的休憩",
+				"nameEn": "天才们的休憩",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			}
+		],
+		"start": "2024-02-29 12:00:00",
+		"end": "2024-03-26 14:59:59"
+	},
+	{
+		"version": "2.0.1",
+		"items": [
+			{
+				"itemId": 23022,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/84105cf4e1c34d303dbe94f6f5bd4570.png",
+				"itemType": "Weapon",
+				"name": "重塑时光之忆",
+				"nameEn": "重塑时光之忆",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 23015,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/009473f2d1b4fc6f32bdbeaccf6537b2.png",
+				"itemType": "Weapon",
+				"name": "比阳光更明亮的",
+				"nameEn": "比阳光更明亮的",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21042,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b767e4360de65b9638f1c284ba3557c3.png",
+				"itemType": "Weapon",
+				"name": "铭记于心的约定",
+				"nameEn": "铭记于心的约定",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21015,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f0756c708f5a083c74cd8fc373ec07fa.png",
+				"itemType": "Weapon",
+				"name": "决心如汗珠般闪耀",
+				"nameEn": "决心如汗珠般闪耀",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21018,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/851c7317b000dee0da44ad47bf637322.png",
+				"itemType": "Weapon",
+				"name": "舞！舞！舞！",
+				"nameEn": "舞！舞！舞！",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			}
+		],
+		"start": "2024-02-06 06:00:00",
+		"end": "2024-02-29 11:59:59"
+	},
+	{
+		"version": "1.6.2",
+		"items": [
+			{
+				"itemId": 23020,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b97cdfa3034d757fe747156606cf2ce2.png",
+				"itemType": "Weapon",
+				"name": "纯粹思维的洗礼",
+				"nameEn": "纯粹思维的洗礼",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 23006,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/51737d41e01e7fe4424bb3f36fc9d17f.png",
+				"itemType": "Weapon",
+				"name": "只需等待",
+				"nameEn": "只需等待",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21014,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/412d42b4e85a9c114ac574b8ea78b0c6.png",
+				"itemType": "Weapon",
+				"name": "此时恰好",
+				"nameEn": "此时恰好",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21003,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0d48d667fb5e38c72e098a80aefca1ab.png",
+				"itemType": "Weapon",
+				"name": "唯有沉默",
+				"nameEn": "唯有沉默",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21009,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/7742b300e8e1ac82a7870699e8e76580.png",
+				"itemType": "Weapon",
+				"name": "朗道的选择",
+				"nameEn": "朗道的选择",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			}
+		],
+		"start": "2024-01-17 12:00:00",
+		"end": "2024-02-05 14:59:59"
+	},
+	{
+		"version": "1.6.1",
+		"items": [
+			{
+				"itemId": 23019,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8f130dc42d19fb2531de735a7aaaf8d3.png",
+				"itemType": "Weapon",
+				"name": "镜中故我",
+				"nameEn": "镜中故我",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 23009,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/570db04681f03617912f86bd7079fafd.png",
+				"itemType": "Weapon",
+				"name": "到不了的彼岸",
+				"nameEn": "到不了的彼岸",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21011,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bdaafc923c5007594353b44c36988986.png",
+				"itemType": "Weapon",
+				"name": "与行星相会",
+				"nameEn": "与行星相会",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21002,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/553c6f9296cbcb8aec184b8949462454.png",
+				"itemType": "Weapon",
+				"name": "余生的第一天",
+				"nameEn": "余生的第一天",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			},
+			{
+				"itemId": 21012,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0c7ed05870657e293b3b70d7c1b98c64.png",
+				"itemType": "Weapon",
+				"name": "秘密誓心",
+				"nameEn": "秘密誓心",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			}
+		],
+		"start": "2023-12-27 06:00:00",
+		"end": "2024-01-17 11:59:59"
+	},
+	{
+		"version": "1.5.2",
+		"items": [
+			{
+				"itemId": 23018,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0ad8470d0cac98e2163f5329f9f65986.png",
+				"itemType": "Weapon",
+				"name": "片刻，留在眼底",
+				"nameEn": "片刻，留在眼底",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 23007,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/154eee9ddb118a919f903dd2e5792f83.png",
+				"itemType": "Weapon",
+				"name": "雨一直下",
+				"nameEn": "雨一直下",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21019,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/78e79d9a162f55838c1fef39983ad28f.png",
+				"itemType": "Weapon",
+				"name": "在蓝天下",
+				"nameEn": "在蓝天下",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21000,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8d499cf73bbc103933204aa5f338e987.png",
+				"itemType": "Weapon",
+				"name": "一场术后对话",
+				"nameEn": "一场术后对话",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21006,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/88b05c4aa55d5dd14bcc2659c95500ec.png",
+				"itemType": "Weapon",
+				"name": "「我」的诞生",
+				"nameEn": "「我」的诞生",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			}
+		],
+		"start": "2023-12-06 12:00:00",
+		"end": "2023-12-26 14:59:59"
+	},
+	{
+		"version": "1.5.1",
+		"items": [
+			{
+				"itemId": 23017,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b12cdfa0a8aca9422c573ea4ce8b9bc1.png",
+				"itemType": "Weapon",
+				"name": "惊魂夜",
+				"nameEn": "惊魂夜",
+				"rankType": 5,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21007,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e59306000a2cca822e49fc5a037587f0.png",
+				"itemType": "Weapon",
+				"name": "同一种心情",
+				"nameEn": "同一种心情",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21017,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/ac03ddfaf67fb71be0fe59e15c0260dd.png",
+				"itemType": "Weapon",
+				"name": "点个关注吧！",
+				"nameEn": "点个关注吧！",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21016,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e6757a17cf26785a444e2b8fdb0f129f.png",
+				"itemType": "Weapon",
+				"name": "宇宙市场趋势",
+				"nameEn": "宇宙市场趋势",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			}
+		],
+		"start": "2023-11-15 06:00:00",
+		"end": "2023-12-06 11:59:59"
+	},
+	{
+		"version": "1.4.2",
+		"items": [
+			{
+				"itemId": 23016,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/d66d4ab03f26f196b4605972bca4245d.png",
+				"itemType": "Weapon",
+				"name": "烦恼着，幸福着",
+				"nameEn": "烦恼着，幸福着",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 23001,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/75edd4ed967326d4106a91dfc6af9971.png",
+				"itemType": "Weapon",
+				"name": "于夜色中",
+				"nameEn": "于夜色中",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21005,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4fd1e4f10fff851280a0a5683caf600f.png",
+				"itemType": "Weapon",
+				"name": "鼹鼠党欢迎你",
+				"nameEn": "鼹鼠党欢迎你",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21015,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f0756c708f5a083c74cd8fc373ec07fa.png",
+				"itemType": "Weapon",
+				"name": "决心如汗珠般闪耀",
+				"nameEn": "决心如汗珠般闪耀",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21003,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0d48d667fb5e38c72e098a80aefca1ab.png",
+				"itemType": "Weapon",
+				"name": "唯有沉默",
+				"nameEn": "唯有沉默",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			}
+		],
+		"start": "2023-10-27 12:00:00",
+		"end": "2023-11-14 14:59:59"
+	},
+	{
+		"version": "1.4.1",
+		"items": [
+			{
+				"itemId": 23014,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/af9eebbf9c92c7ddcebb9fbefafd3a32.png",
+				"itemType": "Weapon",
+				"name": "此身为剑",
+				"nameEn": "此身为剑",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21004,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/80d69d41b75320e96bca63d73773cfce.png",
+				"itemType": "Weapon",
+				"name": "记忆中的模样",
+				"nameEn": "记忆中的模样",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21013,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/c5b008db6f96538c12dd2e7a2947fd70.png",
+				"itemType": "Weapon",
+				"name": "别让世界静下来",
+				"nameEn": "别让世界静下来",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21008,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/432711810d6fd53051617f1773617fe4.png",
+				"itemType": "Weapon",
+				"name": "猎物的视线",
+				"nameEn": "猎物的视线",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			}
+		],
+		"start": "2023-10-11 06:00:00",
+		"end": "2023-10-27 11:59:59"
+	},
+	{
+		"version": "1.3.2",
+		"items": [
+			{
+				"itemId": 23011,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/96f6fcfbc3dd8b3908d2e045f1590056.png",
+				"itemType": "Weapon",
+				"name": "她已闭上双眼",
+				"nameEn": "她已闭上双眼",
+				"rankType": 5,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			},
+			{
+				"itemId": 21014,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/412d42b4e85a9c114ac574b8ea78b0c6.png",
+				"itemType": "Weapon",
+				"name": "此时恰好",
+				"nameEn": "此时恰好",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21016,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e6757a17cf26785a444e2b8fdb0f129f.png",
+				"itemType": "Weapon",
+				"name": "宇宙市场趋势",
+				"nameEn": "宇宙市场趋势",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			},
+			{
+				"itemId": 21019,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/78e79d9a162f55838c1fef39983ad28f.png",
+				"itemType": "Weapon",
+				"name": "在蓝天下",
+				"nameEn": "在蓝天下",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			}
+		],
+		"start": "2023-09-20 12:00:00",
+		"end": "2023-10-10 14:59:59"
+	},
+	{
+		"version": "1.3.1",
+		"items": [
+			{
+				"itemId": 23015,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/009473f2d1b4fc6f32bdbeaccf6537b2.png",
+				"itemType": "Weapon",
+				"name": "比阳光更明亮的",
+				"nameEn": "比阳光更明亮的",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21018,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/851c7317b000dee0da44ad47bf637322.png",
+				"itemType": "Weapon",
+				"name": "舞！舞！舞！",
+				"nameEn": "舞！舞！舞！",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21011,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bdaafc923c5007594353b44c36988986.png",
+				"itemType": "Weapon",
+				"name": "与行星相会",
+				"nameEn": "与行星相会",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21009,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/7742b300e8e1ac82a7870699e8e76580.png",
+				"itemType": "Weapon",
+				"name": "朗道的选择",
+				"nameEn": "朗道的选择",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			}
+		],
+		"start": "2023-08-30 06:00:00",
+		"end": "2023-09-20 11:59:59"
+	},
+	{
+		"version": "1.2.2",
+		"items": [
+			{
+				"itemId": 23006,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/51737d41e01e7fe4424bb3f36fc9d17f.png",
+				"itemType": "Weapon",
+				"name": "只需等待",
+				"nameEn": "只需等待",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21015,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f0756c708f5a083c74cd8fc373ec07fa.png",
+				"itemType": "Weapon",
+				"name": "决心如汗珠般闪耀",
+				"nameEn": "决心如汗珠般闪耀",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21008,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/432711810d6fd53051617f1773617fe4.png",
+				"itemType": "Weapon",
+				"name": "猎物的视线",
+				"nameEn": "猎物的视线",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21006,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/88b05c4aa55d5dd14bcc2659c95500ec.png",
+				"itemType": "Weapon",
+				"name": "「我」的诞生",
+				"nameEn": "「我」的诞生",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			}
+		],
+		"start": "2023-08-09 12:00:00",
+		"end": "2023-08-29 14:59:59"
+	},
+	{
+		"version": "1.2.1",
+		"items": [
+			{
+				"itemId": 23009,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/570db04681f03617912f86bd7079fafd.png",
+				"itemType": "Weapon",
+				"name": "到不了的彼岸",
+				"nameEn": "到不了的彼岸",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21012,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0c7ed05870657e293b3b70d7c1b98c64.png",
+				"itemType": "Weapon",
+				"name": "秘密誓心",
+				"nameEn": "秘密誓心",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21007,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e59306000a2cca822e49fc5a037587f0.png",
+				"itemType": "Weapon",
+				"name": "同一种心情",
+				"nameEn": "同一种心情",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21010,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/62ff4dc91a0e39955d92fe6e8a669ed7.png",
+				"itemType": "Weapon",
+				"name": "论剑",
+				"nameEn": "论剑",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			}
+		],
+		"start": "2023-07-19 06:00:00",
+		"end": "2023-08-09 11:59:59"
+	},
+	{
+		"version": "1.1.2",
+		"items": [
+			{
+				"itemId": 23008,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f96ee8693f5969286841d42537f24628.png",
+				"itemType": "Weapon",
+				"name": "棺的回响",
+				"nameEn": "棺的回响",
+				"rankType": 5,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21001,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4657a44d00ffcfa6160d8b95005df267.png",
+				"itemType": "Weapon",
+				"name": "晚安与睡颜",
+				"nameEn": "晚安与睡颜",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21020,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b3835ab2edab28f10258900f82c1bb5a.png",
+				"itemType": "Weapon",
+				"name": "天才们的休憩",
+				"nameEn": "天才们的休憩",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21018,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/851c7317b000dee0da44ad47bf637322.png",
+				"itemType": "Weapon",
+				"name": "舞！舞！舞！",
+				"nameEn": "舞！舞！舞！",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			}
+		],
+		"start": "2023-06-28 12:00:00",
+		"end": "2023-07-18 14:59:59"
+	},
+	{
+		"version": "1.1.1",
+		"items": [
+			{
+				"itemId": 23007,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/154eee9ddb118a919f903dd2e5792f83.png",
+				"itemType": "Weapon",
+				"name": "雨一直下",
+				"nameEn": "雨一直下",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21017,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/ac03ddfaf67fb71be0fe59e15c0260dd.png",
+				"itemType": "Weapon",
+				"name": "点个关注吧！",
+				"nameEn": "点个关注吧！",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21004,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/80d69d41b75320e96bca63d73773cfce.png",
+				"itemType": "Weapon",
+				"name": "记忆中的模样",
+				"nameEn": "记忆中的模样",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21013,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/c5b008db6f96538c12dd2e7a2947fd70.png",
+				"itemType": "Weapon",
+				"name": "别让世界静下来",
+				"nameEn": "别让世界静下来",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			}
+		],
+		"start": "2023-06-07 06:00:00",
+		"end": "2023-06-28 11:59:59"
+	},
+	{
+		"version": "1.0.2",
+		"items": [
+			{
+				"itemId": 23010,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/2fb300623168c56651285bd66bb55b94.png",
+				"itemType": "Weapon",
+				"name": "拂晓之前",
+				"nameEn": "拂晓之前",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21011,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bdaafc923c5007594353b44c36988986.png",
+				"itemType": "Weapon",
+				"name": "与行星相会",
+				"nameEn": "与行星相会",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21003,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0d48d667fb5e38c72e098a80aefca1ab.png",
+				"itemType": "Weapon",
+				"name": "唯有沉默",
+				"nameEn": "唯有沉默",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21002,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/553c6f9296cbcb8aec184b8949462454.png",
+				"itemType": "Weapon",
+				"name": "余生的第一天",
+				"nameEn": "余生的第一天",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			}
+		],
+		"start": "2023-05-17 18:00:00",
+		"end": "2023-06-06 14:59:59"
+	},
+	{
+		"version": "1.0.1",
+		"items": [
+			{
+				"itemId": 23001,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/75edd4ed967326d4106a91dfc6af9971.png",
+				"itemType": "Weapon",
+				"name": "于夜色中",
+				"nameEn": "于夜色中",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21000,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8d499cf73bbc103933204aa5f338e987.png",
+				"itemType": "Weapon",
+				"name": "一场术后对话",
+				"nameEn": "一场术后对话",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			},
+			{
+				"itemId": 21001,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4657a44d00ffcfa6160d8b95005df267.png",
+				"itemType": "Weapon",
+				"name": "晚安与睡颜",
+				"nameEn": "晚安与睡颜",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 21005,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4fd1e4f10fff851280a0a5683caf600f.png",
+				"itemType": "Weapon",
+				"name": "鼹鼠党欢迎你",
+				"nameEn": "鼹鼠党欢迎你",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			}
+		],
+		"start": "2023-04-26 06:00:00",
+		"end": "2023-05-17 17:59:59"
+	}
+]

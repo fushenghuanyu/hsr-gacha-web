@@ -1,0 +1,28 @@
+# npm 依赖（不提交）
+node_modules/
+frontend/node_modules/
+
+# 前端构建产物
+dist/
+frontend/dist/
+.vite/
+
+# Rust 编译产物
+backend-rust/target/
+
+# 运行时用户数据
+userData/
+
+# 一键构建输出（scripts/release.mjs）
+out/
+
+# 日志与环境变量
+*.log
+.env
+.env.*
+
+# 系统 / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

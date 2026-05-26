@@ -1,0 +1,722 @@
+{
+  "丹恒": {
+    "cn": "丹恒",
+    "damageType": "16",
+    "EN": "丹恒",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/a14216e9da98bf210b2af33f50637024.png",
+    "id": "1002",
+    "rank": "4",
+    "baseType": "2"
+  },
+  "姬子": {
+    "cn": "姬子",
+    "damageType": "2",
+    "EN": "姬子",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/602f8eac54da774f163e858791eebeef.png",
+    "id": "1003",
+    "rank": "5",
+    "baseType": "3"
+  },
+  "瓦尔特": {
+    "cn": "瓦尔特",
+    "damageType": "64",
+    "EN": "瓦尔特",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/48f8d9f05ddf9bcca444461937ef6bfa.png",
+    "id": "1004",
+    "rank": "5",
+    "baseType": "5"
+  },
+  "卡芙卡": {
+    "cn": "卡芙卡",
+    "damageType": "8",
+    "EN": "卡芙卡",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/92eb3fe1fd15332a15f76d542d71b010.png",
+    "id": "1005",
+    "rank": "5",
+    "baseType": "5"
+  },
+  "银狼": {
+    "cn": "银狼",
+    "damageType": "32",
+    "EN": "银狼",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b4327c805b07b512261ffa1b8b7d906c.png",
+    "id": "1006",
+    "rank": "5",
+    "baseType": "5"
+  },
+  "阿兰": {
+    "cn": "阿兰",
+    "damageType": "8",
+    "EN": "阿兰",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/c084fd36f8960c69d16a4a20daed4c1d.png",
+    "id": "1008",
+    "rank": "4",
+    "baseType": "1"
+  },
+  "艾丝妲": {
+    "cn": "艾丝妲",
+    "damageType": "2",
+    "EN": "艾丝妲",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/5bf45a7ec5869b7167a6c2e69dee044e.png",
+    "id": "1009",
+    "rank": "4",
+    "baseType": "4"
+  },
+  "黑塔": {
+    "cn": "黑塔",
+    "damageType": "4",
+    "EN": "黑塔",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/9481189050eaaeac47afb4e59efb50f6.png",
+    "id": "1013",
+    "rank": "4",
+    "baseType": "3"
+  },
+  "Saber": {
+    "cn": "Saber",
+    "damageType": "16",
+    "EN": "Saber",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0e8f31a9ef96d53703e24e9239f59b98.png",
+    "id": "1014",
+    "rank": "5",
+    "baseType": "1"
+  },
+  "Archer": {
+    "cn": "Archer",
+    "damageType": "32",
+    "EN": "Archer",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/c223b9838d3069cbd65f76d4ab568214.png",
+    "id": "1015",
+    "rank": "5",
+    "baseType": "2"
+  },
+  "布洛妮娅": {
+    "cn": "布洛妮娅",
+    "damageType": "16",
+    "EN": "布洛妮娅",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e344cdd7b7b1b409663ca7c52afea3a3.png",
+    "id": "1101",
+    "rank": "5",
+    "baseType": "4"
+  },
+  "希儿": {
+    "cn": "希儿",
+    "damageType": "32",
+    "EN": "希儿",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/d6e0f4ee7cb0d6b448a1e5da6ff1ec45.png",
+    "id": "1102",
+    "rank": "5",
+    "baseType": "2"
+  },
+  "希露瓦": {
+    "cn": "希露瓦",
+    "damageType": "8",
+    "EN": "希露瓦",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/24fd2f3dbd345a7fc8763dca46943145.png",
+    "id": "1103",
+    "rank": "4",
+    "baseType": "3"
+  },
+  "杰帕德": {
+    "cn": "杰帕德",
+    "damageType": "4",
+    "EN": "杰帕德",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/efd22eb75a5031659a59678991ff00e0.png",
+    "id": "1104",
+    "rank": "5",
+    "baseType": "6"
+  },
+  "娜塔莎": {
+    "cn": "娜塔莎",
+    "damageType": "1",
+    "EN": "娜塔莎",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4d591cb49f39a686d1946c349533e890.png",
+    "id": "1105",
+    "rank": "4",
+    "baseType": "7"
+  },
+  "佩拉": {
+    "cn": "佩拉",
+    "damageType": "4",
+    "EN": "佩拉",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f6c155e1766d53091afde8ba50e9b125.png",
+    "id": "1106",
+    "rank": "4",
+    "baseType": "5"
+  },
+  "克拉拉": {
+    "cn": "克拉拉",
+    "damageType": "1",
+    "EN": "克拉拉",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/6119fceb9bc8f7658ff723c05de2b456.png",
+    "id": "1107",
+    "rank": "5",
+    "baseType": "1"
+  },
+  "桑博": {
+    "cn": "桑博",
+    "damageType": "16",
+    "EN": "桑博",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b7f1b0aad2325c936ec09db38d5e46cf.png",
+    "id": "1108",
+    "rank": "4",
+    "baseType": "5"
+  },
+  "虎克": {
+    "cn": "虎克",
+    "damageType": "2",
+    "EN": "虎克",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/ec5582be09e9aa61d813f172da2cc1b6.png",
+    "id": "1109",
+    "rank": "4",
+    "baseType": "1"
+  },
+  "玲可": {
+    "cn": "玲可",
+    "damageType": "32",
+    "EN": "玲可",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/77e7b3d97f12bb26e777f7574f69dab3.png",
+    "id": "1110",
+    "rank": "4",
+    "baseType": "7"
+  },
+  "卢卡": {
+    "cn": "卢卡",
+    "damageType": "1",
+    "EN": "卢卡",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/9c39e57459ce23f116e8e6f624634042.png",
+    "id": "1111",
+    "rank": "4",
+    "baseType": "5"
+  },
+  "托帕&账账": {
+    "cn": "托帕&账账",
+    "damageType": "2",
+    "EN": "托帕&账账",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/7a540cb7a611f56501b4edf8af114bc6.png",
+    "id": "1112",
+    "rank": "5",
+    "baseType": "2"
+  },
+  "青雀": {
+    "cn": "青雀",
+    "damageType": "32",
+    "EN": "青雀",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/61f31e00892d20143c79b9d213a89245.png",
+    "id": "1201",
+    "rank": "4",
+    "baseType": "3"
+  },
+  "停云": {
+    "cn": "停云",
+    "damageType": "8",
+    "EN": "停云",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/de305d8d3afe212c980a52c01c65c38d.png",
+    "id": "1202",
+    "rank": "4",
+    "baseType": "4"
+  },
+  "罗刹": {
+    "cn": "罗刹",
+    "damageType": "64",
+    "EN": "罗刹",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/fd2f7597d28d4a7a24ffed44d96aadae.png",
+    "id": "1203",
+    "rank": "5",
+    "baseType": "7"
+  },
+  "景元": {
+    "cn": "景元",
+    "damageType": "8",
+    "EN": "景元",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/ce35b3b2fc7751a61eae8113fd802d3a.png",
+    "id": "1204",
+    "rank": "5",
+    "baseType": "3"
+  },
+  "刃": {
+    "cn": "刃",
+    "damageType": "16",
+    "EN": "刃",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/1f7d045c4f0577eada6f17a118dc2fbd.png",
+    "id": "1205",
+    "rank": "5",
+    "baseType": "1"
+  },
+  "素裳": {
+    "cn": "素裳",
+    "damageType": "1",
+    "EN": "素裳",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/c604b06b43ab00bef1d1689a35692203.png",
+    "id": "1206",
+    "rank": "4",
+    "baseType": "2"
+  },
+  "驭空": {
+    "cn": "驭空",
+    "damageType": "64",
+    "EN": "驭空",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/7bbfbb4c9e259d4fff7dea230c2284d3.png",
+    "id": "1207",
+    "rank": "4",
+    "baseType": "4"
+  },
+  "符玄": {
+    "cn": "符玄",
+    "damageType": "32",
+    "EN": "符玄",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0e8a80c96fde8cd4b04048d4e00d7927.png",
+    "id": "1208",
+    "rank": "5",
+    "baseType": "6"
+  },
+  "彦卿": {
+    "cn": "彦卿",
+    "damageType": "4",
+    "EN": "彦卿",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/931a545a1979067fc625965f8ed1b159.png",
+    "id": "1209",
+    "rank": "5",
+    "baseType": "2"
+  },
+  "桂乃芬": {
+    "cn": "桂乃芬",
+    "damageType": "2",
+    "EN": "桂乃芬",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/a729189ed5cc59db86072d8723081f7b.png",
+    "id": "1210",
+    "rank": "4",
+    "baseType": "5"
+  },
+  "白露": {
+    "cn": "白露",
+    "damageType": "8",
+    "EN": "白露",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/47ebf94941cb73aca06ba21e04b642fd.png",
+    "id": "1211",
+    "rank": "5",
+    "baseType": "7"
+  },
+  "镜流": {
+    "cn": "镜流",
+    "damageType": "4",
+    "EN": "镜流",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/7bad3bfb6be28d28e7e30639009dc8e7.png",
+    "id": "1212",
+    "rank": "5",
+    "baseType": "1"
+  },
+  "丹恒•饮月": {
+    "cn": "丹恒•饮月",
+    "damageType": "64",
+    "EN": "丹恒•饮月",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8a3892631032b540ea321d1c3d4e6669.png",
+    "id": "1213",
+    "rank": "5",
+    "baseType": "1"
+  },
+  "雪衣": {
+    "cn": "雪衣",
+    "damageType": "32",
+    "EN": "雪衣",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/68e6227a42f1778cdf0cda59ecb65cc0.png",
+    "id": "1214",
+    "rank": "4",
+    "baseType": "1"
+  },
+  "寒鸦": {
+    "cn": "寒鸦",
+    "damageType": "1",
+    "EN": "寒鸦",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/cbe61b368008d0f96c454de4db4d7dc1.png",
+    "id": "1215",
+    "rank": "4",
+    "baseType": "4"
+  },
+  "藿藿": {
+    "cn": "藿藿",
+    "damageType": "16",
+    "EN": "藿藿",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/a8d27aafc9528850550131152ab4e5b5.png",
+    "id": "1217",
+    "rank": "5",
+    "baseType": "7"
+  },
+  "椒丘": {
+    "cn": "椒丘",
+    "damageType": "2",
+    "EN": "椒丘",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/88986bdc4f510c9d578a48764d61d885.png",
+    "id": "1218",
+    "rank": "5",
+    "baseType": "5"
+  },
+  "飞霄": {
+    "cn": "飞霄",
+    "damageType": "16",
+    "EN": "飞霄",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/ff237d35b4d59ceaab7cc4472a732cdc.png",
+    "id": "1220",
+    "rank": "5",
+    "baseType": "2"
+  },
+  "云璃": {
+    "cn": "云璃",
+    "damageType": "1",
+    "EN": "云璃",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/47f52f4096a43f230f5250d700c44c14.png",
+    "id": "1221",
+    "rank": "5",
+    "baseType": "1"
+  },
+  "灵砂": {
+    "cn": "灵砂",
+    "damageType": "2",
+    "EN": "灵砂",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/124b31d922cbd3312b0248892c8fc688.png",
+    "id": "1222",
+    "rank": "5",
+    "baseType": "7"
+  },
+  "貊泽": {
+    "cn": "貊泽",
+    "damageType": "8",
+    "EN": "貊泽",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/11a46cbde4cf7172cbaa0bc9175c43a2.png",
+    "id": "1223",
+    "rank": "4",
+    "baseType": "2"
+  },
+  "三月七": {
+    "cn": "三月七",
+    "damageType": "64",
+    "EN": "三月七",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/3ccd3e3ab53d1a9de9aaf476393aff88.png",
+    "id": "1224",
+    "rank": "4",
+    "baseType": "2"
+  },
+  "忘归人": {
+    "cn": "忘归人",
+    "damageType": "2",
+    "EN": "忘归人",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/74d7c2954cd77e75295d73584dc40595.png",
+    "id": "1225",
+    "rank": "5",
+    "baseType": "5"
+  },
+  "加拉赫": {
+    "cn": "加拉赫",
+    "damageType": "2",
+    "EN": "加拉赫",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/64119d5506f60fa0c93357aa07dca5dc.png",
+    "id": "1301",
+    "rank": "4",
+    "baseType": "7"
+  },
+  "银枝": {
+    "cn": "银枝",
+    "damageType": "1",
+    "EN": "银枝",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/54e7bc67bbf0bc092daffcb302a1c5c3.png",
+    "id": "1302",
+    "rank": "5",
+    "baseType": "3"
+  },
+  "阮•梅": {
+    "cn": "阮•梅",
+    "damageType": "4",
+    "EN": "阮•梅",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f0bf0371428d39ddb8ca264af4c13276.png",
+    "id": "1303",
+    "rank": "5",
+    "baseType": "4"
+  },
+  "砂金": {
+    "cn": "砂金",
+    "damageType": "64",
+    "EN": "砂金",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/462ca712976dc4ab01eb14f9d1886e78.png",
+    "id": "1304",
+    "rank": "5",
+    "baseType": "6"
+  },
+  "真理医生": {
+    "cn": "真理医生",
+    "damageType": "64",
+    "EN": "真理医生",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/386186ea37130f3bbe8d151eae7999aa.png",
+    "id": "1305",
+    "rank": "5",
+    "baseType": "2"
+  },
+  "花火": {
+    "cn": "花火",
+    "damageType": "32",
+    "EN": "花火",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f51ac87cd3fde5ec1e251877020b3806.png",
+    "id": "1306",
+    "rank": "5",
+    "baseType": "4"
+  },
+  "黑天鹅": {
+    "cn": "黑天鹅",
+    "damageType": "16",
+    "EN": "黑天鹅",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/82e8bf887305c9b4bddf6afb0244ed47.png",
+    "id": "1307",
+    "rank": "5",
+    "baseType": "5"
+  },
+  "黄泉": {
+    "cn": "黄泉",
+    "damageType": "8",
+    "EN": "黄泉",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/767cf0ee6f21b9a565134e526690dd23.png",
+    "id": "1308",
+    "rank": "5",
+    "baseType": "5"
+  },
+  "知更鸟": {
+    "cn": "知更鸟",
+    "damageType": "1",
+    "EN": "知更鸟",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/62db915c9d94ab84df35ee38b0b2cb41.png",
+    "id": "1309",
+    "rank": "5",
+    "baseType": "4"
+  },
+  "流萤": {
+    "cn": "流萤",
+    "damageType": "2",
+    "EN": "流萤",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e7685fd7a3f675d6091afee871858eec.png",
+    "id": "1310",
+    "rank": "5",
+    "baseType": "1"
+  },
+  "米沙": {
+    "cn": "米沙",
+    "damageType": "4",
+    "EN": "米沙",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e227206546196e8308acd012604509ef.png",
+    "id": "1312",
+    "rank": "4",
+    "baseType": "1"
+  },
+  "星期日": {
+    "cn": "星期日",
+    "damageType": "64",
+    "EN": "星期日",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4c96bde1a223d166835e240ba2cc0b98.png",
+    "id": "1313",
+    "rank": "5",
+    "baseType": "4"
+  },
+  "翡翠": {
+    "cn": "翡翠",
+    "damageType": "32",
+    "EN": "翡翠",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f25bdd8c9ba12f8cbe8b1e889ee89462.png",
+    "id": "1314",
+    "rank": "5",
+    "baseType": "3"
+  },
+  "波提欧": {
+    "cn": "波提欧",
+    "damageType": "1",
+    "EN": "波提欧",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bb746c5ce83af4cea16f854292809b89.png",
+    "id": "1315",
+    "rank": "5",
+    "baseType": "2"
+  },
+  "乱破": {
+    "cn": "乱破",
+    "damageType": "64",
+    "EN": "乱破",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/a25174b8a06f29ad7d4fa3e9fd92018d.png",
+    "id": "1317",
+    "rank": "5",
+    "baseType": "3"
+  },
+  "大丽花": {
+    "cn": "大丽花",
+    "damageType": "2",
+    "EN": "大丽花",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/9b3a9c972035ba8593b93379af4ff295.png",
+    "id": "1321",
+    "rank": "5",
+    "baseType": "5"
+  },
+  "大黑塔": {
+    "cn": "大黑塔",
+    "damageType": "4",
+    "EN": "大黑塔",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b3da2128faed446dc48bc50a04ae435b.png",
+    "id": "1401",
+    "rank": "5",
+    "baseType": "3"
+  },
+  "阿格莱雅": {
+    "cn": "阿格莱雅",
+    "damageType": "8",
+    "EN": "阿格莱雅",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/c777f386cbe09b769ade989109f00955.png",
+    "id": "1402",
+    "rank": "5",
+    "baseType": "8"
+  },
+  "缇宝": {
+    "cn": "缇宝",
+    "damageType": "32",
+    "EN": "缇宝",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/3ac381888228f40e5eca0649097f9aac.png",
+    "id": "1403",
+    "rank": "5",
+    "baseType": "4"
+  },
+  "万敌": {
+    "cn": "万敌",
+    "damageType": "64",
+    "EN": "万敌",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/afe8d806c8b3d0fe14df8b85b9c48790.png",
+    "id": "1404",
+    "rank": "5",
+    "baseType": "1"
+  },
+  "那刻夏": {
+    "cn": "那刻夏",
+    "damageType": "16",
+    "EN": "那刻夏",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/67b4c7be75b4fa32b04a450f397feb57.png",
+    "id": "1405",
+    "rank": "5",
+    "baseType": "3"
+  },
+  "赛飞儿": {
+    "cn": "赛飞儿",
+    "damageType": "32",
+    "EN": "赛飞儿",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/768274a977a2e426d063ab7f9e41f0d4.png",
+    "id": "1406",
+    "rank": "5",
+    "baseType": "5"
+  },
+  "遐蝶": {
+    "cn": "遐蝶",
+    "damageType": "32",
+    "EN": "遐蝶",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/523604a5d0a729ce824f1e7369c7ec58.png",
+    "id": "1407",
+    "rank": "5",
+    "baseType": "8"
+  },
+  "白厄": {
+    "cn": "白厄",
+    "damageType": "1",
+    "EN": "白厄",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/055ac7a4b331637b9673414746fd2a04.png",
+    "id": "1408",
+    "rank": "5",
+    "baseType": "1"
+  },
+  "风堇": {
+    "cn": "风堇",
+    "damageType": "16",
+    "EN": "风堇",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/a0479c864d09d3c03923d9a2ff35dbe0.png",
+    "id": "1409",
+    "rank": "5",
+    "baseType": "8"
+  },
+  "海瑟音": {
+    "cn": "海瑟音",
+    "damageType": "1",
+    "EN": "海瑟音",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/da9214d3191a5c7d3639e0a38a66e29a.png",
+    "id": "1410",
+    "rank": "5",
+    "baseType": "5"
+  },
+  "刻律德菈": {
+    "cn": "刻律德菈",
+    "damageType": "16",
+    "EN": "刻律德菈",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4e6deda1904c674f61a99662f7e8f468.png",
+    "id": "1412",
+    "rank": "5",
+    "baseType": "4"
+  },
+  "长夜月": {
+    "cn": "长夜月",
+    "damageType": "4",
+    "EN": "长夜月",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0967f6898eaef6f0e0793ed6acef1e95.png",
+    "id": "1413",
+    "rank": "5",
+    "baseType": "8"
+  },
+  "丹恒•腾荒": {
+    "cn": "丹恒•腾荒",
+    "damageType": "1",
+    "EN": "丹恒•腾荒",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/a728362f57bf09100eafbe7fc19ea128.png",
+    "id": "1414",
+    "rank": "5",
+    "baseType": "6"
+  },
+  "昔涟": {
+    "cn": "昔涟",
+    "damageType": "4",
+    "EN": "昔涟",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4e28bd0bd8232a1b32b105b59cd99a8d.png",
+    "id": "1415",
+    "rank": "5",
+    "baseType": "8"
+  },
+  "火花": {
+    "cn": "火花",
+    "damageType": "2",
+    "EN": "火花",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/3a25cee8fae0ceb9acc887802ca5149c.png",
+    "id": "1501",
+    "rank": "5",
+    "baseType": "9"
+  },
+  "爻光": {
+    "cn": "爻光",
+    "damageType": "1",
+    "EN": "爻光",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/a848e215c9d22621145cd78a4d7737d6.png",
+    "id": "1502",
+    "rank": "5",
+    "baseType": "9"
+  },
+  "不死途": {
+    "cn": "不死途",
+    "damageType": "8",
+    "EN": "不死途",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/40b53f121a4989d29f56f3f51a896a65.png",
+    "id": "1504",
+    "rank": "5",
+    "baseType": "2"
+  },
+  "绯英": {
+    "cn": "绯英",
+    "damageType": "1",
+    "EN": "绯英",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e798e19e93e8b3996b5fdbeaa27d10c7.png",
+    "id": "1505",
+    "rank": "5",
+    "baseType": "9"
+  },
+  "银狼LV.999": {
+    "cn": "银狼LV.999",
+    "damageType": "64",
+    "EN": "银狼LV.999",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/527fd5a160440882d2b6d2645224bb6a.png",
+    "id": "1506",
+    "rank": "5",
+    "baseType": "9"
+  }
+}

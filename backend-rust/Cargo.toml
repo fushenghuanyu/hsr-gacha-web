@@ -1,0 +1,31 @@
+[package]
+name = "hsr-gacha-api"
+version = "1.0.0"
+edition = "2021"
+description = "HSR 抽卡历史 API（Rust / Axum）"
+
+[[bin]]
+name = "hsr-gacha-launcher"
+path = "src/bin/launcher.rs"
+
+[dependencies]
+async-stream = "0.3"
+axum = { version = "0.7", features = ["macros", "json"] }
+bytes = "1"
+chrono = "0.4"
+dirs = "5"
+eframe = { version = "0.29", default-features = false, features = ["default_fonts", "glow"] }
+webbrowser = "1"
+indexmap = "2"
+futures-util = "0.3"
+regex = "1"
+reqwest = { version = "0.12", default-features = false, features = ["json", "rustls-tls"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+thiserror = "1"
+tokio = { version = "1", features = ["full"] }
+tower = "0.4"
+tower-http = { version = "0.5", features = ["cors", "fs", "trace"] }
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+url = "2"
