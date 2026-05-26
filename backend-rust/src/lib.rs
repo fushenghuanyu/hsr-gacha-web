@@ -25,8 +25,11 @@ mod auto_url;
 mod error;
 mod hsr_client;
 mod hsr_history;
-mod paths;
+pub mod paths;
+mod resource_sync;
 mod user_data;
+
+pub use resource_sync::{phase_label, start_background_sync, ResourceSyncHandle, ResourceSyncPhase, ResourceSyncStatus};
 
 use analytics::{build_overview, build_pool_summary, sort_records_by_id};
 use error::AppError;

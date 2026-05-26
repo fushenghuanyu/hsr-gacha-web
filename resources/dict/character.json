@@ -718,5 +718,14 @@
     "id": "1506",
     "rank": "5",
     "baseType": "9"
+  },
+  "千冶•刃": {
+    "cn": "千冶•刃",
+    "damageType": "2",
+    "EN": "千冶•刃",
+    "iconUrl": "/hkrpg/pre_webtool_cn/item_icon_u43ejc/9c8e957580521aaa896f43bf01fce115.png",
+    "id": "1507",
+    "rank": "5",
+    "baseType": "5"
   }
 }

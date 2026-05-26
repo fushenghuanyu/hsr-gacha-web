@@ -3,6 +3,7 @@
 
 use eframe::egui;
 use std::path::PathBuf;
+use std::sync::{Arc, Mutex};
 use std::thread::JoinHandle;
 use std::time::Duration;
 
@@ -88,11 +89,31 @@ fn try_load_cjk_font_bytes() -> Option<(String, Vec<u8>)> {
 struct LauncherApp {
     url: String,
     status: String,
+    sync_status: Arc<Mutex<hsr_gacha_api::ResourceSyncStatus>>,
+    _sync_handle: hsr_gacha_api::ResourceSyncHandle,
     /// 后台 Tokio 服务线程；若已结束则下次点击会重新拉起。
     server_thread: Option<JoinHandle<()>>,
 }
 
 impl LauncherApp {
+    fn poll_resource_sync(&self, ctx: &egui::Context) {
+        let phase = self.sync_status.lock().ok().map(|s| s.phase.clone());
+        if matches!(
+            phase.as_ref(),
+            Some(hsr_gacha_api::ResourceSyncPhase::Checking)
+                | Some(hsr_gacha_api::ResourceSyncPhase::Downloading { .. })
+        ) {
+            ctx.request_repaint_after(Duration::from_millis(200));
+        }
+    }
+
+    fn resource_sync_label(&self) -> Option<String> {
+        self.sync_status
+            .lock()
+            .ok()
+            .and_then(|s| hsr_gacha_api::phase_label(&s.phase))
+    }
+
     fn ensure_server_thread(&mut self) {
         let need_spawn = match &self.server_thread {
             None => true,
@@ -130,12 +151,19 @@ impl LauncherApp {
 
 impl eframe::App for LauncherApp {
     fn update(&mut self, ctx: &egui::Context, _frame: &mut eframe::Frame) {
+        self.poll_resource_sync(ctx);
+        let sync_label = self.resource_sync_label();
+
         egui::CentralPanel::default().show(ctx, |ui| {
             ui.vertical_centered(|ui| {
                 ui.heading("崩坏：星穹铁道抽卡分析");
                 ui.label(
                     egui::RichText::new(format!("v{}", hsr_gacha_api::APP_VERSION)).small().weak(),
                 );
+                if let Some(text) = sync_label {
+                    ui.add_space(6.0);
+                    ui.label(egui::RichText::new(text).small().weak());
+                }
                 ui.add_space(12.0);
                 // vertical_centered + top_down(Center) 会把子项在交叉轴上拉满整宽，horizontal 仍从左排布，看起来不居中。
                 // 用「可测宽度 + 左右对称留白」强制整行在窗口内水平居中。
@@ -221,9 +249,12 @@ fn main() -> eframe::Result<()> {
     }
 
     let app_title = format!("崩坏：星穹铁道抽卡分析 v{}", hsr_gacha_api::APP_VERSION);
+    let project_root = hsr_gacha_api::paths::project_root();
+    let sync_handle = hsr_gacha_api::start_background_sync(project_root);
+    let sync_status = sync_handle.status();
     let opts = eframe::NativeOptions {
         viewport: egui::ViewportBuilder::default()
-            .with_inner_size([520.0, 220.0])
+            .with_inner_size([520.0, 250.0])
             .with_title(&app_title),
         ..Default::default()
     };
@@ -235,6 +266,8 @@ fn main() -> eframe::Result<()> {
             Ok(Box::new(LauncherApp {
                 url: "http://127.0.0.1:8000/".to_string(),
                 status: String::new(),
+                sync_status,
+                _sync_handle: sync_handle,
                 server_thread: None,
             }))
         }),

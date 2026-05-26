@@ -22,6 +22,11 @@ fn looks_like_project_root(p: &Path) -> bool {
         || p.join("dist").join("index.html").is_file()
 }
 
+/// `cargo run` 等从 `backend-rust/target/` 启动时为 true；分发包 exe 为 false。
+pub fn is_dev_launcher_exe(exe: &Path) -> bool {
+    is_exe_from_this_crate_target(exe)
+}
+
 /// 可执行文件是否由本机当前仓库的 `target/` 产出（`cargo run` / 测试用）。
 /// 分发给其他路径时，exe 不在此 `target` 下，应使用 exe 旁目录为根。
 fn is_exe_from_this_crate_target(exe: &Path) -> bool {
