@@ -1,10 +1,89 @@
 [
 	{
+		"version": "4.3.2",
+		"items": [
+			{
+				"itemId": 1501,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/e1358ba8e10b49b6ac72ef9a8a5ef110.png",
+				"itemType": "Character",
+				"name": "火花",
+				"nameEn": "火花",
+				"damageType": "2",
+				"element": "fire",
+				"rankType": 5,
+				"avatarBaseType": "9",
+				"weaponType": "elation"
+			},
+			{
+				"itemId": 1414,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/dde54be0f836697bf46b19c8a937804e.png",
+				"itemType": "Character",
+				"name": "丹恒•腾荒",
+				"nameEn": "丹恒•腾荒",
+				"damageType": "1",
+				"element": "physical",
+				"rankType": 5,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			},
+			{
+				"itemId": 1413,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/c39b892736b7f2f6d7816d2e7696f227.png",
+				"itemType": "Character",
+				"name": "长夜月",
+				"nameEn": "长夜月",
+				"damageType": "4",
+				"element": "ice",
+				"rankType": 5,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
+				"itemId": 1223,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/10787d569092ef5368e9390ea38a80bd.png",
+				"itemType": "Character",
+				"name": "貊泽",
+				"nameEn": "貊泽",
+				"damageType": "8",
+				"element": "lightning",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 1215,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/8d9a19c581c6d49632a9a8c7439aefe4.png",
+				"itemType": "Character",
+				"name": "寒鸦",
+				"nameEn": "寒鸦",
+				"damageType": "1",
+				"element": "physical",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 1103,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/e686e8eb0999d5e600c5fd40ba2a56cc.png",
+				"itemType": "Character",
+				"name": "希露瓦",
+				"nameEn": "希露瓦",
+				"damageType": "8",
+				"element": "lightning",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			}
+		],
+		"start": "2026-07-15 06:30:00",
+		"end": "2026-08-05 11:59:00"
+	},
+	{
 		"version": "4.3.1",
 		"items": [
 			{
 				"itemId": 1415,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a880fd7c3d35c8254d508e224dae2004.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a630a76ae45a1ef920a630254731ec07.png",
 				"itemType": "Character",
 				"name": "昔涟",
 				"nameEn": "昔涟",
@@ -16,7 +95,7 @@
 			},
 			{
 				"itemId": 1408,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/7d318b257430358b04e719a6714d86c0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/64e8c7ff7b5c9bf6420b8f3d55913a05.png",
 				"itemType": "Character",
 				"name": "白厄",
 				"nameEn": "白厄",
@@ -28,7 +107,7 @@
 			},
 			{
 				"itemId": 1207,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/4a64f1e8d573e89a7a697503d345a532.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/04065056aed932e3bc679a31d62f8a17.png",
 				"itemType": "Character",
 				"name": "驭空",
 				"nameEn": "驭空",
@@ -40,7 +119,7 @@
 			},
 			{
 				"itemId": 1224,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/3dec4f322fdf068d61bd837c6b58fa2e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/35e109485b63fd67445a822af46a95de.png",
 				"itemType": "Character",
 				"name": "三月七",
 				"nameEn": "三月七",
@@ -52,7 +131,7 @@
 			},
 			{
 				"itemId": 1008,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/6dc0970c48b04c777bf12629b8f4edd3.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/119ae3e6ec885e7194af3c328d458258.png",
 				"itemType": "Character",
 				"name": "阿兰",
 				"nameEn": "阿兰",
@@ -71,7 +150,7 @@
 		"items": [
 			{
 				"itemId": 1505,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/cf4ddb725c2120a249aa883728a562f5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/ccdd86a006bfb5e02eda04c8b10e8fc2.png",
 				"itemType": "Character",
 				"name": "绯英",
 				"nameEn": "绯英",
@@ -83,7 +162,7 @@
 			},
 			{
 				"itemId": 1403,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/6d4c07fa8602822f99052f797de4d017.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/ff7b88db8d9b0f8834d4530e7d761964.png",
 				"itemType": "Character",
 				"name": "缇宝",
 				"nameEn": "缇宝",
@@ -95,7 +174,7 @@
 			},
 			{
 				"itemId": 1313,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/25dbbbc5878d215e01fff773534ace25.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/2d389d56cdb040137d2a7d2ba86777b3.png",
 				"itemType": "Character",
 				"name": "星期日",
 				"nameEn": "星期日",
@@ -107,7 +186,7 @@
 			},
 			{
 				"itemId": 1220,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/137c51b75711463c66c34c87c53a1395.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/37137d2f5fd830bb8834df7603758d51.png",
 				"itemType": "Character",
 				"name": "飞霄",
 				"nameEn": "飞霄",
@@ -119,7 +198,7 @@
 			},
 			{
 				"itemId": 1210,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/93a2fb14bb4d7b75a6c497e9c0a059b6.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/d3d38432213698a77ca18c47c4ecd09b.png",
 				"itemType": "Character",
 				"name": "桂乃芬",
 				"nameEn": "桂乃芬",
@@ -131,7 +210,7 @@
 			},
 			{
 				"itemId": 1110,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a346633fa96274a138ae4426e8121ff5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a5673971df468319fc69d5968a01b4c5.png",
 				"itemType": "Character",
 				"name": "玲可",
 				"nameEn": "玲可",
@@ -143,7 +222,7 @@
 			},
 			{
 				"itemId": 1206,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/b3a76bdac53dbd51e0fc4548baf1cfed.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/7a9a7ee4c0b2eec426cf09c651a35b32.png",
 				"itemType": "Character",
 				"name": "素裳",
 				"nameEn": "素裳",
@@ -162,7 +241,7 @@
 		"items": [
 			{
 				"itemId": 1506,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/9edeaad1b283a01d5e3b85b362eeac2d.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/05a395d898e67cbfa96becc13ebb6640.png",
 				"itemType": "Character",
 				"name": "银狼LV.999",
 				"nameEn": "银狼LV.999",
@@ -174,7 +253,7 @@
 			},
 			{
 				"itemId": 1321,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/7b43de0facc42d4c967b7d8773bc641f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/24dae3a73ed4f6c1094a750c43e111e9.png",
 				"itemType": "Character",
 				"name": "大丽花",
 				"nameEn": "大丽花",
@@ -186,7 +265,7 @@
 			},
 			{
 				"itemId": 1407,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/0b80e2c12cbad2bc96cd8d9b6f76b95a.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/744fab5754c5d7428308908540d8c174.png",
 				"itemType": "Character",
 				"name": "遐蝶",
 				"nameEn": "遐蝶",
@@ -198,7 +277,7 @@
 			},
 			{
 				"itemId": 1310,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/c8fdeb59e68f509309f8f01503d8dc9c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/aff92c11bebd5cd18248fcc32f1643e6.png",
 				"itemType": "Character",
 				"name": "流萤",
 				"nameEn": "流萤",
@@ -210,7 +289,7 @@
 			},
 			{
 				"itemId": 1301,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d01d91b1665f5c60fee2d7892e6b6c74.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a92729c9d9ca79d92ca530e1921c4336.png",
 				"itemType": "Character",
 				"name": "加拉赫",
 				"nameEn": "加拉赫",
@@ -222,7 +301,7 @@
 			},
 			{
 				"itemId": 1214,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/3b3ee0eaa51723bffb7e745c2b88991c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a90f5b313941d0145be7ac836b497f75.png",
 				"itemType": "Character",
 				"name": "雪衣",
 				"nameEn": "雪衣",
@@ -234,7 +313,7 @@
 			},
 			{
 				"itemId": 1109,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/542570c6300a57050d3ac2bd9e1f5107.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/4624248581d5c8db71fdf5c9a3d2e29b.png",
 				"itemType": "Character",
 				"name": "虎克",
 				"nameEn": "虎克",
@@ -253,7 +332,7 @@
 		"items": [
 			{
 				"itemId": 1504,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/cf246a98e76d6b0e0446ac77408943f7.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/c9f8741a6b17bffa43616e3636a90b52.png",
 				"itemType": "Character",
 				"name": "不死途",
 				"nameEn": "不死途",
@@ -265,7 +344,7 @@
 			},
 			{
 				"itemId": 1315,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/2efb8d3267342a03038b5d5baa99b928.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/44bd068cb53160dafed0b6ac30a6a9ec.png",
 				"itemType": "Character",
 				"name": "波提欧",
 				"nameEn": "波提欧",
@@ -277,7 +356,7 @@
 			},
 			{
 				"itemId": 1223,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d9eb37ea51e392428442c17ab2de77a7.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/10787d569092ef5368e9390ea38a80bd.png",
 				"itemType": "Character",
 				"name": "貊泽",
 				"nameEn": "貊泽",
@@ -289,7 +368,7 @@
 			},
 			{
 				"itemId": 1312,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d4d086972a41e3f2e8b712667fb37257.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/26a120d9622f800568b8b5b6c7a6db4f.png",
 				"itemType": "Character",
 				"name": "米沙",
 				"nameEn": "米沙",
@@ -301,7 +380,7 @@
 			},
 			{
 				"itemId": 1009,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/fc9209f0c815aee7f67f41d669d33eb0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/eb64ac7c0c2e7abb7d6c52fce9f39f37.png",
 				"itemType": "Character",
 				"name": "艾丝妲",
 				"nameEn": "艾丝妲",
@@ -320,7 +399,7 @@
 		"items": [
 			{
 				"itemId": 1504,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/cf246a98e76d6b0e0446ac77408943f7.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/c9f8741a6b17bffa43616e3636a90b52.png",
 				"itemType": "Character",
 				"name": "不死途",
 				"nameEn": "不死途",
@@ -332,7 +411,7 @@
 			},
 			{
 				"itemId": 1409,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/4459630552fa374281787a9e8b8153ce.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/499e918c6e7c88b16088467b3474de1a.png",
 				"itemType": "Character",
 				"name": "风堇",
 				"nameEn": "风堇",
@@ -344,7 +423,7 @@
 			},
 			{
 				"itemId": 1223,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d9eb37ea51e392428442c17ab2de77a7.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/10787d569092ef5368e9390ea38a80bd.png",
 				"itemType": "Character",
 				"name": "貊泽",
 				"nameEn": "貊泽",
@@ -356,7 +435,7 @@
 			},
 			{
 				"itemId": 1312,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d4d086972a41e3f2e8b712667fb37257.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/26a120d9622f800568b8b5b6c7a6db4f.png",
 				"itemType": "Character",
 				"name": "米沙",
 				"nameEn": "米沙",
@@ -368,7 +447,7 @@
 			},
 			{
 				"itemId": 1009,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/fc9209f0c815aee7f67f41d669d33eb0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/eb64ac7c0c2e7abb7d6c52fce9f39f37.png",
 				"itemType": "Character",
 				"name": "艾丝妲",
 				"nameEn": "艾丝妲",
@@ -387,7 +466,7 @@
 		"items": [
 			{
 				"itemId": 1502,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/4f824e1ae55486d99dc94371a602ee6e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/b7e8314e417de796285b2a71d15bce4f.png",
 				"itemType": "Character",
 				"name": "爻光",
 				"nameEn": "爻光",
@@ -399,7 +478,7 @@
 			},
 			{
 				"itemId": 1501,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/5ee74ada4c2cc11d91b6ee7b92f5104f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/e1358ba8e10b49b6ac72ef9a8a5ef110.png",
 				"itemType": "Character",
 				"name": "火花",
 				"nameEn": "火花",
@@ -411,7 +490,7 @@
 			},
 			{
 				"itemId": 1412,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/bf3901934e9210717a46c6a69155d9a5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/d5b477528f1a647b9e03f16eaf51d0c3.png",
 				"itemType": "Character",
 				"name": "刻律德菈",
 				"nameEn": "刻律德菈",
@@ -423,7 +502,7 @@
 			},
 			{
 				"itemId": 1317,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/318e1dbbb4ded6b349e52bb67f95cba8.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/0c16aabd118d3bc10c98100f459ef992.png",
 				"itemType": "Character",
 				"name": "乱破",
 				"nameEn": "乱破",
@@ -435,7 +514,7 @@
 			},
 			{
 				"itemId": 1306,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/5225826f7e04a4ffb9680e094e4af1e5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/aaf653dd8827bd47f4e7c224fd524615.png",
 				"itemType": "Character",
 				"name": "花火",
 				"nameEn": "花火",
@@ -447,7 +526,7 @@
 			},
 			{
 				"itemId": 1106,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/f28b762da7dd4f893f085ff09050e328.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/c9438873d2ce2b79c53cc7dee2b29235.png",
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
@@ -459,7 +538,7 @@
 			},
 			{
 				"itemId": 1215,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/65015ab9ef8769c6c0b1c8bbf0954f98.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/8d9a19c581c6d49632a9a8c7439aefe4.png",
 				"itemType": "Character",
 				"name": "寒鸦",
 				"nameEn": "寒鸦",
@@ -471,7 +550,7 @@
 			},
 			{
 				"itemId": 1201,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/5ab74a2b7299f3bb65757ed202f25b21.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/4b1e67e50d3dc414282fa4167b282110.png",
 				"itemType": "Character",
 				"name": "青雀",
 				"nameEn": "青雀",
@@ -490,7 +569,7 @@
 		"items": [
 			{
 				"itemId": 1502,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/4f824e1ae55486d99dc94371a602ee6e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/b7e8314e417de796285b2a71d15bce4f.png",
 				"itemType": "Character",
 				"name": "爻光",
 				"nameEn": "爻光",
@@ -502,7 +581,7 @@
 			},
 			{
 				"itemId": 1413,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/4afcdb24ffbb3dd954617ba4318b0639.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/c39b892736b7f2f6d7816d2e7696f227.png",
 				"itemType": "Character",
 				"name": "长夜月",
 				"nameEn": "长夜月",
@@ -514,7 +593,7 @@
 			},
 			{
 				"itemId": 1410,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/8dea8052fed6948d240265e03417c6cc.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/6eaa9e99a0efdeffef5b737070d27d7e.png",
 				"itemType": "Character",
 				"name": "海瑟音",
 				"nameEn": "海瑟音",
@@ -526,7 +605,7 @@
 			},
 			{
 				"itemId": 1307,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d9c9a9af4fc7fd748f5a0172f89bfa6d.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/504bed20c8b2d3d4090a07231a99118b.png",
 				"itemType": "Character",
 				"name": "黑天鹅",
 				"nameEn": "黑天鹅",
@@ -538,7 +617,7 @@
 			},
 			{
 				"itemId": 1106,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/f28b762da7dd4f893f085ff09050e328.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/c9438873d2ce2b79c53cc7dee2b29235.png",
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
@@ -550,7 +629,7 @@
 			},
 			{
 				"itemId": 1215,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/65015ab9ef8769c6c0b1c8bbf0954f98.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/8d9a19c581c6d49632a9a8c7439aefe4.png",
 				"itemType": "Character",
 				"name": "寒鸦",
 				"nameEn": "寒鸦",
@@ -562,7 +641,7 @@
 			},
 			{
 				"itemId": 1201,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/5ab74a2b7299f3bb65757ed202f25b21.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/4b1e67e50d3dc414282fa4167b282110.png",
 				"itemType": "Character",
 				"name": "青雀",
 				"nameEn": "青雀",
@@ -581,7 +660,7 @@
 		"items": [
 			{
 				"itemId": 1402,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/aed706672ab35ac6ce0afa614c6fef4a.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/baa13f32212d0efea10e786d44c362d2.png",
 				"itemType": "Character",
 				"name": "阿格莱雅",
 				"nameEn": "阿格莱雅",
@@ -593,7 +672,7 @@
 			},
 			{
 				"itemId": 1313,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/25dbbbc5878d215e01fff773534ace25.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/2d389d56cdb040137d2a7d2ba86777b3.png",
 				"itemType": "Character",
 				"name": "星期日",
 				"nameEn": "星期日",
@@ -605,7 +684,7 @@
 			},
 			{
 				"itemId": 1202,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/eb35105004de8fd60523d395bfdcd6a0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/92b202664b9509b65c7415a1aa84f537.png",
 				"itemType": "Character",
 				"name": "停云",
 				"nameEn": "停云",
@@ -617,7 +696,7 @@
 			},
 			{
 				"itemId": 1207,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/4a64f1e8d573e89a7a697503d345a532.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/04065056aed932e3bc679a31d62f8a17.png",
 				"itemType": "Character",
 				"name": "驭空",
 				"nameEn": "驭空",
@@ -629,7 +708,7 @@
 			},
 			{
 				"itemId": 1002,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/4b354a0a4eb4817cf73ec7555f8de783.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/9eb56b0fa317c1d51cc50a0289df018a.png",
 				"itemType": "Character",
 				"name": "丹恒",
 				"nameEn": "丹恒",
@@ -648,7 +727,7 @@
 		"items": [
 			{
 				"itemId": 1225,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a9a67d50de1c8c607dd8adfa8020f431.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/8499b5fd0f863a0276d4d3556945e49a.png",
 				"itemType": "Character",
 				"name": "忘归人",
 				"nameEn": "忘归人",
@@ -660,7 +739,7 @@
 			},
 			{
 				"itemId": 1222,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/3856c905994069fd65874280e7ff1562.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a862551f7fa0656312a545f9b346a230.png",
 				"itemType": "Character",
 				"name": "灵砂",
 				"nameEn": "灵砂",
@@ -672,7 +751,7 @@
 			},
 			{
 				"itemId": 1105,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/248b6e991dfe33702b1cd74bd6e8cd2b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/6f469bbdb7ce54779e763f81fa52b3d2.png",
 				"itemType": "Character",
 				"name": "娜塔莎",
 				"nameEn": "娜塔莎",
@@ -684,7 +763,7 @@
 			},
 			{
 				"itemId": 1108,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/49aa6ff8fcdfcede6c99ecac12bd4b45.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/9456a0f92799d512d7c65b5109161aa2.png",
 				"itemType": "Character",
 				"name": "桑博",
 				"nameEn": "桑博",
@@ -696,7 +775,7 @@
 			},
 			{
 				"itemId": 1008,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/6dc0970c48b04c777bf12629b8f4edd3.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/119ae3e6ec885e7194af3c328d458258.png",
 				"itemType": "Character",
 				"name": "阿兰",
 				"nameEn": "阿兰",
@@ -715,7 +794,7 @@
 		"items": [
 			{
 				"itemId": 1321,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/7b43de0facc42d4c967b7d8773bc641f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/24dae3a73ed4f6c1094a750c43e111e9.png",
 				"itemType": "Character",
 				"name": "大丽花",
 				"nameEn": "大丽花",
@@ -727,7 +806,7 @@
 			},
 			{
 				"itemId": 1310,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/c8fdeb59e68f509309f8f01503d8dc9c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/aff92c11bebd5cd18248fcc32f1643e6.png",
 				"itemType": "Character",
 				"name": "流萤",
 				"nameEn": "流萤",
@@ -739,7 +818,7 @@
 			},
 			{
 				"itemId": 1301,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d01d91b1665f5c60fee2d7892e6b6c74.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a92729c9d9ca79d92ca530e1921c4336.png",
 				"itemType": "Character",
 				"name": "加拉赫",
 				"nameEn": "加拉赫",
@@ -751,7 +830,7 @@
 			},
 			{
 				"itemId": 1111,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/5b2e6a09a7dd4af7d5d4cce839d9af5f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/fa0f6d90e85c7908ef8e7ca2eabdd737.png",
 				"itemType": "Character",
 				"name": "卢卡",
 				"nameEn": "卢卡",
@@ -763,7 +842,7 @@
 			},
 			{
 				"itemId": 1224,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/3dec4f322fdf068d61bd837c6b58fa2e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/35e109485b63fd67445a822af46a95de.png",
 				"itemType": "Character",
 				"name": "三月七",
 				"nameEn": "三月七",
@@ -782,7 +861,7 @@
 		"items": [
 			{
 				"itemId": 1415,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a880fd7c3d35c8254d508e224dae2004.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a630a76ae45a1ef920a630254731ec07.png",
 				"itemType": "Character",
 				"name": "昔涟",
 				"nameEn": "昔涟",
@@ -794,7 +873,7 @@
 			},
 			{
 				"itemId": 1408,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/7d318b257430358b04e719a6714d86c0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/64e8c7ff7b5c9bf6420b8f3d55913a05.png",
 				"itemType": "Character",
 				"name": "白厄",
 				"nameEn": "白厄",
@@ -806,7 +885,7 @@
 			},
 			{
 				"itemId": 1406,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/1e4fbbf3d2d72703e1d04b46adc4328b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/365293f9ac9ae5b7d5d02891dceae88f.png",
 				"itemType": "Character",
 				"name": "赛飞儿",
 				"nameEn": "赛飞儿",
@@ -818,7 +897,7 @@
 			},
 			{
 				"itemId": 1404,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/fe1eeac0734f4f536699ef291b126282.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/24aa623acc0e3aff80e16de27aaa8c52.png",
 				"itemType": "Character",
 				"name": "万敌",
 				"nameEn": "万敌",
@@ -830,7 +909,7 @@
 			},
 			{
 				"itemId": 1223,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d9eb37ea51e392428442c17ab2de77a7.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/10787d569092ef5368e9390ea38a80bd.png",
 				"itemType": "Character",
 				"name": "貊泽",
 				"nameEn": "貊泽",
@@ -842,7 +921,7 @@
 			},
 			{
 				"itemId": 1110,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a346633fa96274a138ae4426e8121ff5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a5673971df468319fc69d5968a01b4c5.png",
 				"itemType": "Character",
 				"name": "玲可",
 				"nameEn": "玲可",
@@ -854,7 +933,7 @@
 			},
 			{
 				"itemId": 1106,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/f28b762da7dd4f893f085ff09050e328.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/c9438873d2ce2b79c53cc7dee2b29235.png",
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
@@ -873,7 +952,7 @@
 		"items": [
 			{
 				"itemId": 1415,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a880fd7c3d35c8254d508e224dae2004.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a630a76ae45a1ef920a630254731ec07.png",
 				"itemType": "Character",
 				"name": "昔涟",
 				"nameEn": "昔涟",
@@ -885,7 +964,7 @@
 			},
 			{
 				"itemId": 1409,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/4459630552fa374281787a9e8b8153ce.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/499e918c6e7c88b16088467b3474de1a.png",
 				"itemType": "Character",
 				"name": "风堇",
 				"nameEn": "风堇",
@@ -897,7 +976,7 @@
 			},
 			{
 				"itemId": 1407,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/0b80e2c12cbad2bc96cd8d9b6f76b95a.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/744fab5754c5d7428308908540d8c174.png",
 				"itemType": "Character",
 				"name": "遐蝶",
 				"nameEn": "遐蝶",
@@ -909,7 +988,7 @@
 			},
 			{
 				"itemId": 1403,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/6d4c07fa8602822f99052f797de4d017.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/ff7b88db8d9b0f8834d4530e7d761964.png",
 				"itemType": "Character",
 				"name": "缇宝",
 				"nameEn": "缇宝",
@@ -921,7 +1000,7 @@
 			},
 			{
 				"itemId": 1223,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d9eb37ea51e392428442c17ab2de77a7.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/10787d569092ef5368e9390ea38a80bd.png",
 				"itemType": "Character",
 				"name": "貊泽",
 				"nameEn": "貊泽",
@@ -933,7 +1012,7 @@
 			},
 			{
 				"itemId": 1110,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a346633fa96274a138ae4426e8121ff5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a5673971df468319fc69d5968a01b4c5.png",
 				"itemType": "Character",
 				"name": "玲可",
 				"nameEn": "玲可",
@@ -945,7 +1024,7 @@
 			},
 			{
 				"itemId": 1106,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/f28b762da7dd4f893f085ff09050e328.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/c9438873d2ce2b79c53cc7dee2b29235.png",
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
@@ -964,7 +1043,7 @@
 		"items": [
 			{
 				"itemId": 1414,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d4643f6b758c03ac5bbb1c9ee28b4f4e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/dde54be0f836697bf46b19c8a937804e.png",
 				"itemType": "Character",
 				"name": "丹恒•腾荒",
 				"nameEn": "丹恒•腾荒",
@@ -976,7 +1055,7 @@
 			},
 			{
 				"itemId": 1405,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/9b9330374b47f57fbe85f662b058ceb5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/6723bceddd892186106976b39c00e589.png",
 				"itemType": "Character",
 				"name": "那刻夏",
 				"nameEn": "那刻夏",
@@ -988,7 +1067,7 @@
 			},
 			{
 				"itemId": 1206,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/b3a76bdac53dbd51e0fc4548baf1cfed.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/7a9a7ee4c0b2eec426cf09c651a35b32.png",
 				"itemType": "Character",
 				"name": "素裳",
 				"nameEn": "素裳",
@@ -1000,7 +1079,7 @@
 			},
 			{
 				"itemId": 1215,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/65015ab9ef8769c6c0b1c8bbf0954f98.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/8d9a19c581c6d49632a9a8c7439aefe4.png",
 				"itemType": "Character",
 				"name": "寒鸦",
 				"nameEn": "寒鸦",
@@ -1012,7 +1091,7 @@
 			},
 			{
 				"itemId": 1103,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/98cd1efb19ab89daee518a4ac5f7b04c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/e686e8eb0999d5e600c5fd40ba2a56cc.png",
 				"itemType": "Character",
 				"name": "希露瓦",
 				"nameEn": "希露瓦",
@@ -1031,7 +1110,7 @@
 		"items": [
 			{
 				"itemId": 1413,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/4afcdb24ffbb3dd954617ba4318b0639.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/c39b892736b7f2f6d7816d2e7696f227.png",
 				"itemType": "Character",
 				"name": "长夜月",
 				"nameEn": "长夜月",
@@ -1043,7 +1122,7 @@
 			},
 			{
 				"itemId": 1401,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/cb19bc39920370309b3aceff744e8651.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/7bdf055645f738084484ef140afbd734.png",
 				"itemType": "Character",
 				"name": "大黑塔",
 				"nameEn": "大黑塔",
@@ -1055,7 +1134,7 @@
 			},
 			{
 				"itemId": 1312,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d4d086972a41e3f2e8b712667fb37257.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/26a120d9622f800568b8b5b6c7a6db4f.png",
 				"itemType": "Character",
 				"name": "米沙",
 				"nameEn": "米沙",
@@ -1067,7 +1146,7 @@
 			},
 			{
 				"itemId": 1210,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/93a2fb14bb4d7b75a6c497e9c0a059b6.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/d3d38432213698a77ca18c47c4ecd09b.png",
 				"itemType": "Character",
 				"name": "桂乃芬",
 				"nameEn": "桂乃芬",
@@ -1079,7 +1158,7 @@
 			},
 			{
 				"itemId": 1214,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/3b3ee0eaa51723bffb7e745c2b88991c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a90f5b313941d0145be7ac836b497f75.png",
 				"itemType": "Character",
 				"name": "雪衣",
 				"nameEn": "雪衣",
@@ -1098,7 +1177,7 @@
 		"items": [
 			{
 				"itemId": 1412,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/bf3901934e9210717a46c6a69155d9a5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/d5b477528f1a647b9e03f16eaf51d0c3.png",
 				"itemType": "Character",
 				"name": "刻律德菈",
 				"nameEn": "刻律德菈",
@@ -1110,7 +1189,7 @@
 			},
 			{
 				"itemId": 1006,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/36eb72296ed1b078e64614c4c702cb06.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/448d8bf18a47ccc1de6e79069650ab9f.png",
 				"itemType": "Character",
 				"name": "银狼",
 				"nameEn": "银狼",
@@ -1122,7 +1201,7 @@
 			},
 			{
 				"itemId": 1108,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/49aa6ff8fcdfcede6c99ecac12bd4b45.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/9456a0f92799d512d7c65b5109161aa2.png",
 				"itemType": "Character",
 				"name": "桑博",
 				"nameEn": "桑博",
@@ -1134,7 +1213,7 @@
 			},
 			{
 				"itemId": 1201,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/5ab74a2b7299f3bb65757ed202f25b21.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/4b1e67e50d3dc414282fa4167b282110.png",
 				"itemType": "Character",
 				"name": "青雀",
 				"nameEn": "青雀",
@@ -1146,7 +1225,7 @@
 			},
 			{
 				"itemId": 1002,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/4b354a0a4eb4817cf73ec7555f8de783.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/9eb56b0fa317c1d51cc50a0289df018a.png",
 				"itemType": "Character",
 				"name": "丹恒",
 				"nameEn": "丹恒",
@@ -1165,7 +1244,7 @@
 		"items": [
 			{
 				"itemId": 1410,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/8dea8052fed6948d240265e03417c6cc.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/6eaa9e99a0efdeffef5b737070d27d7e.png",
 				"itemType": "Character",
 				"name": "海瑟音",
 				"nameEn": "海瑟音",
@@ -1177,7 +1256,7 @@
 			},
 			{
 				"itemId": 1005,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/8113f2756523d9d611912456014ed8c1.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/47872d11adcfd60711490151934f5f14.png",
 				"itemType": "Character",
 				"name": "卡芙卡",
 				"nameEn": "卡芙卡",
@@ -1189,7 +1268,7 @@
 			},
 			{
 				"itemId": 1009,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/fc9209f0c815aee7f67f41d669d33eb0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/eb64ac7c0c2e7abb7d6c52fce9f39f37.png",
 				"itemType": "Character",
 				"name": "艾丝妲",
 				"nameEn": "艾丝妲",
@@ -1201,7 +1280,7 @@
 			},
 			{
 				"itemId": 1008,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/6dc0970c48b04c777bf12629b8f4edd3.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/119ae3e6ec885e7194af3c328d458258.png",
 				"itemType": "Character",
 				"name": "阿兰",
 				"nameEn": "阿兰",
@@ -1213,7 +1292,7 @@
 			},
 			{
 				"itemId": 1109,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/542570c6300a57050d3ac2bd9e1f5107.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/4624248581d5c8db71fdf5c9a3d2e29b.png",
 				"itemType": "Character",
 				"name": "虎克",
 				"nameEn": "虎克",
@@ -1232,7 +1311,7 @@
 		"items": [
 			{
 				"itemId": 1310,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/c8fdeb59e68f509309f8f01503d8dc9c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/aff92c11bebd5cd18248fcc32f1643e6.png",
 				"itemType": "Character",
 				"name": "流萤",
 				"nameEn": "流萤",
@@ -1244,7 +1323,7 @@
 			},
 			{
 				"itemId": 1212,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/91b88ea8f0d6530713b3288efd47996c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/71f627c480f391bf4c3c4883973f6e43.png",
 				"itemType": "Character",
 				"name": "镜流",
 				"nameEn": "镜流",
@@ -1256,7 +1335,7 @@
 			},
 			{
 				"itemId": 1205,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a4cbf44365a4a18dbf5f72be92027682.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/03490422304aca820c4d91e2fcc064aa.png",
 				"itemType": "Character",
 				"name": "刃",
 				"nameEn": "刃",
@@ -1268,7 +1347,7 @@
 			},
 			{
 				"itemId": 1215,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/65015ab9ef8769c6c0b1c8bbf0954f98.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/8d9a19c581c6d49632a9a8c7439aefe4.png",
 				"itemType": "Character",
 				"name": "寒鸦",
 				"nameEn": "寒鸦",
@@ -1280,7 +1359,7 @@
 			},
 			{
 				"itemId": 1110,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a346633fa96274a138ae4426e8121ff5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a5673971df468319fc69d5968a01b4c5.png",
 				"itemType": "Character",
 				"name": "玲可",
 				"nameEn": "玲可",
@@ -1292,7 +1371,7 @@
 			},
 			{
 				"itemId": 1111,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/5b2e6a09a7dd4af7d5d4cce839d9af5f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/fa0f6d90e85c7908ef8e7ca2eabdd737.png",
 				"itemType": "Character",
 				"name": "卢卡",
 				"nameEn": "卢卡",
@@ -1311,7 +1390,7 @@
 		"items": [
 			{
 				"itemId": 1014,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/cdd2e6e61e312de58c1e7dadbde45863.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/bc91bafefb601350d91b45fc7d9c0edc.png",
 				"itemType": "Character",
 				"name": "Saber",
 				"nameEn": "Saber",
@@ -1323,7 +1402,7 @@
 			},
 			{
 				"itemId": 1015,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/0aebb8e851feb9a6f1178c850910942e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/f14de3a790ef8e22f2cf605629de1c89.png",
 				"itemType": "Character",
 				"name": "Archer",
 				"nameEn": "Archer",
@@ -1342,7 +1421,7 @@
 		"items": [
 			{
 				"itemId": 1408,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/7d318b257430358b04e719a6714d86c0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/64e8c7ff7b5c9bf6420b8f3d55913a05.png",
 				"itemType": "Character",
 				"name": "白厄",
 				"nameEn": "白厄",
@@ -1354,7 +1433,7 @@
 			},
 			{
 				"itemId": 1403,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/6d4c07fa8602822f99052f797de4d017.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/ff7b88db8d9b0f8834d4530e7d761964.png",
 				"itemType": "Character",
 				"name": "缇宝",
 				"nameEn": "缇宝",
@@ -1366,7 +1445,7 @@
 			},
 			{
 				"itemId": 1313,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/25dbbbc5878d215e01fff773534ace25.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/2d389d56cdb040137d2a7d2ba86777b3.png",
 				"itemType": "Character",
 				"name": "星期日",
 				"nameEn": "星期日",
@@ -1378,7 +1457,7 @@
 			},
 			{
 				"itemId": 1306,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/5225826f7e04a4ffb9680e094e4af1e5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/aaf653dd8827bd47f4e7c224fd524615.png",
 				"itemType": "Character",
 				"name": "花火",
 				"nameEn": "花火",
@@ -1390,7 +1469,7 @@
 			},
 			{
 				"itemId": 1202,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/eb35105004de8fd60523d395bfdcd6a0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/92b202664b9509b65c7415a1aa84f537.png",
 				"itemType": "Character",
 				"name": "停云",
 				"nameEn": "停云",
@@ -1402,7 +1481,7 @@
 			},
 			{
 				"itemId": 1224,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/3dec4f322fdf068d61bd837c6b58fa2e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/35e109485b63fd67445a822af46a95de.png",
 				"itemType": "Character",
 				"name": "三月七",
 				"nameEn": "三月七",
@@ -1414,7 +1493,7 @@
 			},
 			{
 				"itemId": 1207,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/4a64f1e8d573e89a7a697503d345a532.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/04065056aed932e3bc679a31d62f8a17.png",
 				"itemType": "Character",
 				"name": "驭空",
 				"nameEn": "驭空",
@@ -1433,7 +1512,7 @@
 		"items": [
 			{
 				"itemId": 1406,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/1e4fbbf3d2d72703e1d04b46adc4328b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/365293f9ac9ae5b7d5d02891dceae88f.png",
 				"itemType": "Character",
 				"name": "赛飞儿",
 				"nameEn": "赛飞儿",
@@ -1445,7 +1524,7 @@
 			},
 			{
 				"itemId": 1402,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/aed706672ab35ac6ce0afa614c6fef4a.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/baa13f32212d0efea10e786d44c362d2.png",
 				"itemType": "Character",
 				"name": "阿格莱雅",
 				"nameEn": "阿格莱雅",
@@ -1457,7 +1536,7 @@
 			},
 			{
 				"itemId": 1201,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/5ab74a2b7299f3bb65757ed202f25b21.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/4b1e67e50d3dc414282fa4167b282110.png",
 				"itemType": "Character",
 				"name": "青雀",
 				"nameEn": "青雀",
@@ -1469,7 +1548,7 @@
 			},
 			{
 				"itemId": 1214,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/3b3ee0eaa51723bffb7e745c2b88991c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a90f5b313941d0145be7ac836b497f75.png",
 				"itemType": "Character",
 				"name": "雪衣",
 				"nameEn": "雪衣",
@@ -1481,7 +1560,7 @@
 			},
 			{
 				"itemId": 1206,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/b3a76bdac53dbd51e0fc4548baf1cfed.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/7a9a7ee4c0b2eec426cf09c651a35b32.png",
 				"itemType": "Character",
 				"name": "素裳",
 				"nameEn": "素裳",
@@ -1500,7 +1579,7 @@
 		"items": [
 			{
 				"itemId": 1409,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/4459630552fa374281787a9e8b8153ce.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/499e918c6e7c88b16088467b3474de1a.png",
 				"itemType": "Character",
 				"name": "风堇",
 				"nameEn": "风堇",
@@ -1512,7 +1591,7 @@
 			},
 			{
 				"itemId": 1401,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/cb19bc39920370309b3aceff744e8651.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/7bdf055645f738084484ef140afbd734.png",
 				"itemType": "Character",
 				"name": "大黑塔",
 				"nameEn": "大黑塔",
@@ -1524,7 +1603,7 @@
 			},
 			{
 				"itemId": 1312,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d4d086972a41e3f2e8b712667fb37257.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/26a120d9622f800568b8b5b6c7a6db4f.png",
 				"itemType": "Character",
 				"name": "米沙",
 				"nameEn": "米沙",
@@ -1536,7 +1615,7 @@
 			},
 			{
 				"itemId": 1103,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/98cd1efb19ab89daee518a4ac5f7b04c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/e686e8eb0999d5e600c5fd40ba2a56cc.png",
 				"itemType": "Character",
 				"name": "希露瓦",
 				"nameEn": "希露瓦",
@@ -1548,7 +1627,7 @@
 			},
 			{
 				"itemId": 1105,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/248b6e991dfe33702b1cd74bd6e8cd2b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/6f469bbdb7ce54779e763f81fa52b3d2.png",
 				"itemType": "Character",
 				"name": "娜塔莎",
 				"nameEn": "娜塔莎",
@@ -1567,7 +1646,7 @@
 		"items": [
 			{
 				"itemId": 1405,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/9b9330374b47f57fbe85f662b058ceb5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/6723bceddd892186106976b39c00e589.png",
 				"itemType": "Character",
 				"name": "那刻夏",
 				"nameEn": "那刻夏",
@@ -1579,7 +1658,7 @@
 			},
 			{
 				"itemId": 1305,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/b676e5db4deca0b5835474d2b9f85fd0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/f351f504cb36ed203d959f1773749c8c.png",
 				"itemType": "Character",
 				"name": "真理医生",
 				"nameEn": "真理医生",
@@ -1591,7 +1670,7 @@
 			},
 			{
 				"itemId": 1002,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/4b354a0a4eb4817cf73ec7555f8de783.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/9eb56b0fa317c1d51cc50a0289df018a.png",
 				"itemType": "Character",
 				"name": "丹恒",
 				"nameEn": "丹恒",
@@ -1603,7 +1682,7 @@
 			},
 			{
 				"itemId": 1103,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/98cd1efb19ab89daee518a4ac5f7b04c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/e686e8eb0999d5e600c5fd40ba2a56cc.png",
 				"itemType": "Character",
 				"name": "希露瓦",
 				"nameEn": "希露瓦",
@@ -1615,7 +1694,7 @@
 			},
 			{
 				"itemId": 1223,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d9eb37ea51e392428442c17ab2de77a7.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/10787d569092ef5368e9390ea38a80bd.png",
 				"itemType": "Character",
 				"name": "貊泽",
 				"nameEn": "貊泽",
@@ -1634,7 +1713,7 @@
 		"items": [
 			{
 				"itemId": 1407,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/0b80e2c12cbad2bc96cd8d9b6f76b95a.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/744fab5754c5d7428308908540d8c174.png",
 				"itemType": "Character",
 				"name": "遐蝶",
 				"nameEn": "遐蝶",
@@ -1646,7 +1725,7 @@
 			},
 			{
 				"itemId": 1225,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a9a67d50de1c8c607dd8adfa8020f431.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/8499b5fd0f863a0276d4d3556945e49a.png",
 				"itemType": "Character",
 				"name": "忘归人",
 				"nameEn": "忘归人",
@@ -1658,7 +1737,7 @@
 			},
 			{
 				"itemId": 1218,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/ee1184b33b6615973f79333291b1cfd5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/686423fb0d2faf8b17331b8a7cccd586.png",
 				"itemType": "Character",
 				"name": "椒丘",
 				"nameEn": "椒丘",
@@ -1670,7 +1749,7 @@
 			},
 			{
 				"itemId": 1308,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/32efcb9506785b0233f1399e7e74261b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/08bfcd24c74ff40bf76d573b96cebd3b.png",
 				"itemType": "Character",
 				"name": "黄泉",
 				"nameEn": "黄泉",
@@ -1682,7 +1761,7 @@
 			},
 			{
 				"itemId": 1106,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/f28b762da7dd4f893f085ff09050e328.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/c9438873d2ce2b79c53cc7dee2b29235.png",
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
@@ -1694,7 +1773,7 @@
 			},
 			{
 				"itemId": 1301,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d01d91b1665f5c60fee2d7892e6b6c74.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a92729c9d9ca79d92ca530e1921c4336.png",
 				"itemType": "Character",
 				"name": "加拉赫",
 				"nameEn": "加拉赫",
@@ -1706,7 +1785,7 @@
 			},
 			{
 				"itemId": 1110,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a346633fa96274a138ae4426e8121ff5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a5673971df468319fc69d5968a01b4c5.png",
 				"itemType": "Character",
 				"name": "玲可",
 				"nameEn": "玲可",
@@ -1725,7 +1804,7 @@
 		"items": [
 			{
 				"itemId": 1404,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/fe1eeac0734f4f536699ef291b126282.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/24aa623acc0e3aff80e16de27aaa8c52.png",
 				"itemType": "Character",
 				"name": "万敌",
 				"nameEn": "万敌",
@@ -1737,7 +1816,7 @@
 			},
 			{
 				"itemId": 1217,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a2f18e9dd74da7d5e5f3765882c43449.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/504124c92eb9c57b76081f465c5174ad.png",
 				"itemType": "Character",
 				"name": "藿藿",
 				"nameEn": "藿藿",
@@ -1749,7 +1828,7 @@
 			},
 			{
 				"itemId": 1008,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/6dc0970c48b04c777bf12629b8f4edd3.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/119ae3e6ec885e7194af3c328d458258.png",
 				"itemType": "Character",
 				"name": "阿兰",
 				"nameEn": "阿兰",
@@ -1761,7 +1840,7 @@
 			},
 			{
 				"itemId": 1214,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/3b3ee0eaa51723bffb7e745c2b88991c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a90f5b313941d0145be7ac836b497f75.png",
 				"itemType": "Character",
 				"name": "雪衣",
 				"nameEn": "雪衣",
@@ -1773,7 +1852,7 @@
 			},
 			{
 				"itemId": 1105,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/248b6e991dfe33702b1cd74bd6e8cd2b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/6f469bbdb7ce54779e763f81fa52b3d2.png",
 				"itemType": "Character",
 				"name": "娜塔莎",
 				"nameEn": "娜塔莎",
@@ -1792,7 +1871,7 @@
 		"items": [
 			{
 				"itemId": 1403,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/6d4c07fa8602822f99052f797de4d017.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/ff7b88db8d9b0f8834d4530e7d761964.png",
 				"itemType": "Character",
 				"name": "缇宝",
 				"nameEn": "缇宝",
@@ -1804,7 +1883,7 @@
 			},
 			{
 				"itemId": 1221,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/43db03b3755a68d6efc8e6f37ae713ec.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/acf17f7e9ef3f5ab41272cc3171fe286.png",
 				"itemType": "Character",
 				"name": "云璃",
 				"nameEn": "云璃",
@@ -1816,7 +1895,7 @@
 			},
 			{
 				"itemId": 1110,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a346633fa96274a138ae4426e8121ff5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a5673971df468319fc69d5968a01b4c5.png",
 				"itemType": "Character",
 				"name": "玲可",
 				"nameEn": "玲可",
@@ -1828,7 +1907,7 @@
 			},
 			{
 				"itemId": 1109,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/542570c6300a57050d3ac2bd9e1f5107.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/4624248581d5c8db71fdf5c9a3d2e29b.png",
 				"itemType": "Character",
 				"name": "虎克",
 				"nameEn": "虎克",
@@ -1840,7 +1919,7 @@
 			},
 			{
 				"itemId": 1210,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/93a2fb14bb4d7b75a6c497e9c0a059b6.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/d3d38432213698a77ca18c47c4ecd09b.png",
 				"itemType": "Character",
 				"name": "桂乃芬",
 				"nameEn": "桂乃芬",
@@ -1859,7 +1938,7 @@
 		"items": [
 			{
 				"itemId": 1402,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/aed706672ab35ac6ce0afa614c6fef4a.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/baa13f32212d0efea10e786d44c362d2.png",
 				"itemType": "Character",
 				"name": "阿格莱雅",
 				"nameEn": "阿格莱雅",
@@ -1871,7 +1950,7 @@
 			},
 			{
 				"itemId": 1315,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/2efb8d3267342a03038b5d5baa99b928.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/44bd068cb53160dafed0b6ac30a6a9ec.png",
 				"itemType": "Character",
 				"name": "波提欧",
 				"nameEn": "波提欧",
@@ -1883,7 +1962,7 @@
 			},
 			{
 				"itemId": 1309,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/55afa6f201c9ff0b6cd2d4fca2c3cec0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/e419f2d6e0bd550b79fd6735ff4b6e4b.png",
 				"itemType": "Character",
 				"name": "知更鸟",
 				"nameEn": "知更鸟",
@@ -1895,7 +1974,7 @@
 			},
 			{
 				"itemId": 1006,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/36eb72296ed1b078e64614c4c702cb06.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/448d8bf18a47ccc1de6e79069650ab9f.png",
 				"itemType": "Character",
 				"name": "银狼",
 				"nameEn": "银狼",
@@ -1907,7 +1986,7 @@
 			},
 			{
 				"itemId": 1202,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/eb35105004de8fd60523d395bfdcd6a0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/92b202664b9509b65c7415a1aa84f537.png",
 				"itemType": "Character",
 				"name": "停云",
 				"nameEn": "停云",
@@ -1919,7 +1998,7 @@
 			},
 			{
 				"itemId": 1215,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/65015ab9ef8769c6c0b1c8bbf0954f98.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/8d9a19c581c6d49632a9a8c7439aefe4.png",
 				"itemType": "Character",
 				"name": "寒鸦",
 				"nameEn": "寒鸦",
@@ -1931,7 +2010,7 @@
 			},
 			{
 				"itemId": 1206,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/b3a76bdac53dbd51e0fc4548baf1cfed.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/7a9a7ee4c0b2eec426cf09c651a35b32.png",
 				"itemType": "Character",
 				"name": "素裳",
 				"nameEn": "素裳",
@@ -1950,7 +2029,7 @@
 		"items": [
 			{
 				"itemId": 1401,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/cb19bc39920370309b3aceff744e8651.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/7bdf055645f738084484ef140afbd734.png",
 				"itemType": "Character",
 				"name": "大黑塔",
 				"nameEn": "大黑塔",
@@ -1962,7 +2041,7 @@
 			},
 			{
 				"itemId": 1222,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/3856c905994069fd65874280e7ff1562.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a862551f7fa0656312a545f9b346a230.png",
 				"itemType": "Character",
 				"name": "灵砂",
 				"nameEn": "灵砂",
@@ -1974,7 +2053,7 @@
 			},
 			{
 				"itemId": 1220,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/137c51b75711463c66c34c87c53a1395.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/37137d2f5fd830bb8834df7603758d51.png",
 				"itemType": "Character",
 				"name": "飞霄",
 				"nameEn": "飞霄",
@@ -1986,7 +2065,7 @@
 			},
 			{
 				"itemId": 1314,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/2febd76f96242a3659542b4963103a7b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a3a30c7f9cdd7df36d6d3d6cc3a4fdf8.png",
 				"itemType": "Character",
 				"name": "翡翠",
 				"nameEn": "翡翠",
@@ -1998,7 +2077,7 @@
 			},
 			{
 				"itemId": 1105,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/248b6e991dfe33702b1cd74bd6e8cd2b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/6f469bbdb7ce54779e763f81fa52b3d2.png",
 				"itemType": "Character",
 				"name": "娜塔莎",
 				"nameEn": "娜塔莎",
@@ -2010,7 +2089,7 @@
 			},
 			{
 				"itemId": 1009,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/fc9209f0c815aee7f67f41d669d33eb0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/eb64ac7c0c2e7abb7d6c52fce9f39f37.png",
 				"itemType": "Character",
 				"name": "艾丝妲",
 				"nameEn": "艾丝妲",
@@ -2022,7 +2101,7 @@
 			},
 			{
 				"itemId": 1223,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d9eb37ea51e392428442c17ab2de77a7.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/10787d569092ef5368e9390ea38a80bd.png",
 				"itemType": "Character",
 				"name": "貊泽",
 				"nameEn": "貊泽",
@@ -2041,7 +2120,7 @@
 		"items": [
 			{
 				"itemId": 1225,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a9a67d50de1c8c607dd8adfa8020f431.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/8499b5fd0f863a0276d4d3556945e49a.png",
 				"itemType": "Character",
 				"name": "忘归人",
 				"nameEn": "忘归人",
@@ -2053,7 +2132,7 @@
 			},
 			{
 				"itemId": 1310,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/c8fdeb59e68f509309f8f01503d8dc9c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/aff92c11bebd5cd18248fcc32f1643e6.png",
 				"itemType": "Character",
 				"name": "流萤",
 				"nameEn": "流萤",
@@ -2065,7 +2144,7 @@
 			},
 			{
 				"itemId": 1301,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d01d91b1665f5c60fee2d7892e6b6c74.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a92729c9d9ca79d92ca530e1921c4336.png",
 				"itemType": "Character",
 				"name": "加拉赫",
 				"nameEn": "加拉赫",
@@ -2077,7 +2156,7 @@
 			},
 			{
 				"itemId": 1207,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/4a64f1e8d573e89a7a697503d345a532.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/04065056aed932e3bc679a31d62f8a17.png",
 				"itemType": "Character",
 				"name": "驭空",
 				"nameEn": "驭空",
@@ -2089,7 +2168,7 @@
 			},
 			{
 				"itemId": 1312,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d4d086972a41e3f2e8b712667fb37257.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/26a120d9622f800568b8b5b6c7a6db4f.png",
 				"itemType": "Character",
 				"name": "米沙",
 				"nameEn": "米沙",
@@ -2108,7 +2187,7 @@
 		"items": [
 			{
 				"itemId": 1313,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/25dbbbc5878d215e01fff773534ace25.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/2d389d56cdb040137d2a7d2ba86777b3.png",
 				"itemType": "Character",
 				"name": "星期日",
 				"nameEn": "星期日",
@@ -2120,7 +2199,7 @@
 			},
 			{
 				"itemId": 1204,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/f0d274ba75f6ec6082fd179b163ba37c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/227c5e68a63d602696bd4386ce6c80ab.png",
 				"itemType": "Character",
 				"name": "景元",
 				"nameEn": "景元",
@@ -2132,7 +2211,7 @@
 			},
 			{
 				"itemId": 1201,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/5ab74a2b7299f3bb65757ed202f25b21.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/4b1e67e50d3dc414282fa4167b282110.png",
 				"itemType": "Character",
 				"name": "青雀",
 				"nameEn": "青雀",
@@ -2144,7 +2223,7 @@
 			},
 			{
 				"itemId": 1008,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/6dc0970c48b04c777bf12629b8f4edd3.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/119ae3e6ec885e7194af3c328d458258.png",
 				"itemType": "Character",
 				"name": "阿兰",
 				"nameEn": "阿兰",
@@ -2156,7 +2235,7 @@
 			},
 			{
 				"itemId": 1202,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/eb35105004de8fd60523d395bfdcd6a0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/92b202664b9509b65c7415a1aa84f537.png",
 				"itemType": "Character",
 				"name": "停云",
 				"nameEn": "停云",
@@ -2175,7 +2254,7 @@
 		"items": [
 			{
 				"itemId": 1308,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/32efcb9506785b0233f1399e7e74261b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/08bfcd24c74ff40bf76d573b96cebd3b.png",
 				"itemType": "Character",
 				"name": "黄泉",
 				"nameEn": "黄泉",
@@ -2187,7 +2266,7 @@
 			},
 			{
 				"itemId": 1304,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d55ee208926f730670cd241af2c1a785.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/64fa13a00c2ee301a429aa318d245592.png",
 				"itemType": "Character",
 				"name": "砂金",
 				"nameEn": "砂金",
@@ -2199,7 +2278,7 @@
 			},
 			{
 				"itemId": 1224,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/3dec4f322fdf068d61bd837c6b58fa2e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/35e109485b63fd67445a822af46a95de.png",
 				"itemType": "Character",
 				"name": "三月七",
 				"nameEn": "三月七",
@@ -2211,7 +2290,7 @@
 			},
 			{
 				"itemId": 1106,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/f28b762da7dd4f893f085ff09050e328.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/c9438873d2ce2b79c53cc7dee2b29235.png",
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
@@ -2223,7 +2302,7 @@
 			},
 			{
 				"itemId": 1108,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/49aa6ff8fcdfcede6c99ecac12bd4b45.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/9456a0f92799d512d7c65b5109161aa2.png",
 				"itemType": "Character",
 				"name": "桑博",
 				"nameEn": "桑博",
@@ -2242,7 +2321,7 @@
 		"items": [
 			{
 				"itemId": 1317,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/318e1dbbb4ded6b349e52bb67f95cba8.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/0c16aabd118d3bc10c98100f459ef992.png",
 				"itemType": "Character",
 				"name": "乱破",
 				"nameEn": "乱破",
@@ -2254,7 +2333,7 @@
 			},
 			{
 				"itemId": 1213,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/114b258fa5beabe5c4529af44a04ab02.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/3cacd14a977553b07df26012078f5a9d.png",
 				"itemType": "Character",
 				"name": "丹恒•饮月",
 				"nameEn": "丹恒•饮月",
@@ -2266,7 +2345,7 @@
 			},
 			{
 				"itemId": 1110,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a346633fa96274a138ae4426e8121ff5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a5673971df468319fc69d5968a01b4c5.png",
 				"itemType": "Character",
 				"name": "玲可",
 				"nameEn": "玲可",
@@ -2278,7 +2357,7 @@
 			},
 			{
 				"itemId": 1214,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/3b3ee0eaa51723bffb7e745c2b88991c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a90f5b313941d0145be7ac836b497f75.png",
 				"itemType": "Character",
 				"name": "雪衣",
 				"nameEn": "雪衣",
@@ -2290,7 +2369,7 @@
 			},
 			{
 				"itemId": 1207,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/4a64f1e8d573e89a7a697503d345a532.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/04065056aed932e3bc679a31d62f8a17.png",
 				"itemType": "Character",
 				"name": "驭空",
 				"nameEn": "驭空",
@@ -2309,7 +2388,7 @@
 		"items": [
 			{
 				"itemId": 1222,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/3856c905994069fd65874280e7ff1562.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a862551f7fa0656312a545f9b346a230.png",
 				"itemType": "Character",
 				"name": "灵砂",
 				"nameEn": "灵砂",
@@ -2321,7 +2400,7 @@
 			},
 			{
 				"itemId": 1112,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d72410444b77eb70160946f29ed81749.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/8560cee83103535d754f71f2ae48e519.png",
 				"itemType": "Character",
 				"name": "托帕&账账",
 				"nameEn": "托帕&账账",
@@ -2333,7 +2412,7 @@
 			},
 			{
 				"itemId": 1312,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d4d086972a41e3f2e8b712667fb37257.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/26a120d9622f800568b8b5b6c7a6db4f.png",
 				"itemType": "Character",
 				"name": "米沙",
 				"nameEn": "米沙",
@@ -2345,7 +2424,7 @@
 			},
 			{
 				"itemId": 1105,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/248b6e991dfe33702b1cd74bd6e8cd2b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/6f469bbdb7ce54779e763f81fa52b3d2.png",
 				"itemType": "Character",
 				"name": "娜塔莎",
 				"nameEn": "娜塔莎",
@@ -2357,7 +2436,7 @@
 			},
 			{
 				"itemId": 1210,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/93a2fb14bb4d7b75a6c497e9c0a059b6.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/d3d38432213698a77ca18c47c4ecd09b.png",
 				"itemType": "Character",
 				"name": "桂乃芬",
 				"nameEn": "桂乃芬",
@@ -2376,7 +2455,7 @@
 		"items": [
 			{
 				"itemId": 1220,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/137c51b75711463c66c34c87c53a1395.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/37137d2f5fd830bb8834df7603758d51.png",
 				"itemType": "Character",
 				"name": "飞霄",
 				"nameEn": "飞霄",
@@ -2388,7 +2467,7 @@
 			},
 			{
 				"itemId": 1005,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/8113f2756523d9d611912456014ed8c1.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/47872d11adcfd60711490151934f5f14.png",
 				"itemType": "Character",
 				"name": "卡芙卡",
 				"nameEn": "卡芙卡",
@@ -2400,7 +2479,7 @@
 			},
 			{
 				"itemId": 1307,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d9c9a9af4fc7fd748f5a0172f89bfa6d.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/504bed20c8b2d3d4090a07231a99118b.png",
 				"itemType": "Character",
 				"name": "黑天鹅",
 				"nameEn": "黑天鹅",
@@ -2412,7 +2491,7 @@
 			},
 			{
 				"itemId": 1309,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/55afa6f201c9ff0b6cd2d4fca2c3cec0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/e419f2d6e0bd550b79fd6735ff4b6e4b.png",
 				"itemType": "Character",
 				"name": "知更鸟",
 				"nameEn": "知更鸟",
@@ -2424,7 +2503,7 @@
 			},
 			{
 				"itemId": 1223,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d9eb37ea51e392428442c17ab2de77a7.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/10787d569092ef5368e9390ea38a80bd.png",
 				"itemType": "Character",
 				"name": "貊泽",
 				"nameEn": "貊泽",
@@ -2436,7 +2515,7 @@
 			},
 			{
 				"itemId": 1009,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/fc9209f0c815aee7f67f41d669d33eb0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/eb64ac7c0c2e7abb7d6c52fce9f39f37.png",
 				"itemType": "Character",
 				"name": "艾丝妲",
 				"nameEn": "艾丝妲",
@@ -2448,7 +2527,7 @@
 			},
 			{
 				"itemId": 1111,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/5b2e6a09a7dd4af7d5d4cce839d9af5f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/fa0f6d90e85c7908ef8e7ca2eabdd737.png",
 				"itemType": "Character",
 				"name": "卢卡",
 				"nameEn": "卢卡",
@@ -2467,7 +2546,7 @@
 		"items": [
 			{
 				"itemId": 1218,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/ee1184b33b6615973f79333291b1cfd5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/686423fb0d2faf8b17331b8a7cccd586.png",
 				"itemType": "Character",
 				"name": "椒丘",
 				"nameEn": "椒丘",
@@ -2479,7 +2558,7 @@
 			},
 			{
 				"itemId": 1306,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/5225826f7e04a4ffb9680e094e4af1e5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/aaf653dd8827bd47f4e7c224fd524615.png",
 				"itemType": "Character",
 				"name": "花火",
 				"nameEn": "花火",
@@ -2491,7 +2570,7 @@
 			},
 			{
 				"itemId": 1109,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/542570c6300a57050d3ac2bd9e1f5107.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/4624248581d5c8db71fdf5c9a3d2e29b.png",
 				"itemType": "Character",
 				"name": "虎克",
 				"nameEn": "虎克",
@@ -2503,7 +2582,7 @@
 			},
 			{
 				"itemId": 1210,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/93a2fb14bb4d7b75a6c497e9c0a059b6.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/d3d38432213698a77ca18c47c4ecd09b.png",
 				"itemType": "Character",
 				"name": "桂乃芬",
 				"nameEn": "桂乃芬",
@@ -2515,7 +2594,7 @@
 			},
 			{
 				"itemId": 1008,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/6dc0970c48b04c777bf12629b8f4edd3.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/119ae3e6ec885e7194af3c328d458258.png",
 				"itemType": "Character",
 				"name": "阿兰",
 				"nameEn": "阿兰",
@@ -2534,7 +2613,7 @@
 		"items": [
 			{
 				"itemId": 1221,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/43db03b3755a68d6efc8e6f37ae713ec.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/acf17f7e9ef3f5ab41272cc3171fe286.png",
 				"itemType": "Character",
 				"name": "云璃",
 				"nameEn": "云璃",
@@ -2546,7 +2625,7 @@
 			},
 			{
 				"itemId": 1217,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a2f18e9dd74da7d5e5f3765882c43449.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/504124c92eb9c57b76081f465c5174ad.png",
 				"itemType": "Character",
 				"name": "藿藿",
 				"nameEn": "藿藿",
@@ -2558,7 +2637,7 @@
 			},
 			{
 				"itemId": 1215,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/65015ab9ef8769c6c0b1c8bbf0954f98.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/8d9a19c581c6d49632a9a8c7439aefe4.png",
 				"itemType": "Character",
 				"name": "寒鸦",
 				"nameEn": "寒鸦",
@@ -2570,7 +2649,7 @@
 			},
 			{
 				"itemId": 1207,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/4a64f1e8d573e89a7a697503d345a532.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/04065056aed932e3bc679a31d62f8a17.png",
 				"itemType": "Character",
 				"name": "驭空",
 				"nameEn": "驭空",
@@ -2582,7 +2661,7 @@
 			},
 			{
 				"itemId": 1110,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a346633fa96274a138ae4426e8121ff5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a5673971df468319fc69d5968a01b4c5.png",
 				"itemType": "Character",
 				"name": "玲可",
 				"nameEn": "玲可",
@@ -2601,7 +2680,7 @@
 		"items": [
 			{
 				"itemId": 1314,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/2febd76f96242a3659542b4963103a7b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a3a30c7f9cdd7df36d6d3d6cc3a4fdf8.png",
 				"itemType": "Character",
 				"name": "翡翠",
 				"nameEn": "翡翠",
@@ -2613,7 +2692,7 @@
 			},
 			{
 				"itemId": 1302,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/70e076909e0d17b290ab552296c39a23.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/d22a48cc96a006587e9ce79ef0b388aa.png",
 				"itemType": "Character",
 				"name": "银枝",
 				"nameEn": "银枝",
@@ -2625,7 +2704,7 @@
 			},
 			{
 				"itemId": 1103,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/98cd1efb19ab89daee518a4ac5f7b04c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/e686e8eb0999d5e600c5fd40ba2a56cc.png",
 				"itemType": "Character",
 				"name": "希露瓦",
 				"nameEn": "希露瓦",
@@ -2637,7 +2716,7 @@
 			},
 			{
 				"itemId": 1105,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/248b6e991dfe33702b1cd74bd6e8cd2b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/6f469bbdb7ce54779e763f81fa52b3d2.png",
 				"itemType": "Character",
 				"name": "娜塔莎",
 				"nameEn": "娜塔莎",
@@ -2649,7 +2728,7 @@
 			},
 			{
 				"itemId": 1009,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/fc9209f0c815aee7f67f41d669d33eb0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/eb64ac7c0c2e7abb7d6c52fce9f39f37.png",
 				"itemType": "Character",
 				"name": "艾丝妲",
 				"nameEn": "艾丝妲",
@@ -2668,7 +2747,7 @@
 		"items": [
 			{
 				"itemId": 1310,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/c8fdeb59e68f509309f8f01503d8dc9c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/aff92c11bebd5cd18248fcc32f1643e6.png",
 				"itemType": "Character",
 				"name": "流萤",
 				"nameEn": "流萤",
@@ -2680,7 +2759,7 @@
 			},
 			{
 				"itemId": 1303,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/8d9ba2fed6e41b3b9a0ec5708e09a873.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/3c2a74853dda2c256931eb4805935974.png",
 				"itemType": "Character",
 				"name": "阮•梅",
 				"nameEn": "阮•梅",
@@ -2692,7 +2771,7 @@
 			},
 			{
 				"itemId": 1301,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d01d91b1665f5c60fee2d7892e6b6c74.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a92729c9d9ca79d92ca530e1921c4336.png",
 				"itemType": "Character",
 				"name": "加拉赫",
 				"nameEn": "加拉赫",
@@ -2704,7 +2783,7 @@
 			},
 			{
 				"itemId": 1312,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d4d086972a41e3f2e8b712667fb37257.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/26a120d9622f800568b8b5b6c7a6db4f.png",
 				"itemType": "Character",
 				"name": "米沙",
 				"nameEn": "米沙",
@@ -2716,7 +2795,7 @@
 			},
 			{
 				"itemId": 1214,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/3b3ee0eaa51723bffb7e745c2b88991c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a90f5b313941d0145be7ac836b497f75.png",
 				"itemType": "Character",
 				"name": "雪衣",
 				"nameEn": "雪衣",
@@ -2735,7 +2814,7 @@
 		"items": [
 			{
 				"itemId": 1315,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/2efb8d3267342a03038b5d5baa99b928.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/44bd068cb53160dafed0b6ac30a6a9ec.png",
 				"itemType": "Character",
 				"name": "波提欧",
 				"nameEn": "波提欧",
@@ -2747,7 +2826,7 @@
 			},
 			{
 				"itemId": 1208,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/e45264f362415646972bb7d87856bc4f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/2edfcce5a2282adb43dd09c98df4107f.png",
 				"itemType": "Character",
 				"name": "符玄",
 				"nameEn": "符玄",
@@ -2759,7 +2838,7 @@
 			},
 			{
 				"itemId": 1106,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/f28b762da7dd4f893f085ff09050e328.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/c9438873d2ce2b79c53cc7dee2b29235.png",
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
@@ -2771,7 +2850,7 @@
 			},
 			{
 				"itemId": 1111,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/5b2e6a09a7dd4af7d5d4cce839d9af5f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/fa0f6d90e85c7908ef8e7ca2eabdd737.png",
 				"itemType": "Character",
 				"name": "卢卡",
 				"nameEn": "卢卡",
@@ -2783,7 +2862,7 @@
 			},
 			{
 				"itemId": 1109,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/542570c6300a57050d3ac2bd9e1f5107.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/4624248581d5c8db71fdf5c9a3d2e29b.png",
 				"itemType": "Character",
 				"name": "虎克",
 				"nameEn": "虎克",
@@ -2802,7 +2881,7 @@
 		"items": [
 			{
 				"itemId": 1309,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/55afa6f201c9ff0b6cd2d4fca2c3cec0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/e419f2d6e0bd550b79fd6735ff4b6e4b.png",
 				"itemType": "Character",
 				"name": "知更鸟",
 				"nameEn": "知更鸟",
@@ -2814,7 +2893,7 @@
 			},
 			{
 				"itemId": 1112,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d72410444b77eb70160946f29ed81749.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/8560cee83103535d754f71f2ae48e519.png",
 				"itemType": "Character",
 				"name": "托帕&账账",
 				"nameEn": "托帕&账账",
@@ -2826,7 +2905,7 @@
 			},
 			{
 				"itemId": 1224,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/3dec4f322fdf068d61bd837c6b58fa2e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/35e109485b63fd67445a822af46a95de.png",
 				"itemType": "Character",
 				"name": "三月七",
 				"nameEn": "三月七",
@@ -2838,7 +2917,7 @@
 			},
 			{
 				"itemId": 1215,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/65015ab9ef8769c6c0b1c8bbf0954f98.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/8d9a19c581c6d49632a9a8c7439aefe4.png",
 				"itemType": "Character",
 				"name": "寒鸦",
 				"nameEn": "寒鸦",
@@ -2850,7 +2929,7 @@
 			},
 			{
 				"itemId": 1214,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/3b3ee0eaa51723bffb7e745c2b88991c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a90f5b313941d0145be7ac836b497f75.png",
 				"itemType": "Character",
 				"name": "雪衣",
 				"nameEn": "雪衣",
@@ -2869,7 +2948,7 @@
 		"items": [
 			{
 				"itemId": 1304,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d55ee208926f730670cd241af2c1a785.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/64fa13a00c2ee301a429aa318d245592.png",
 				"itemType": "Character",
 				"name": "砂金",
 				"nameEn": "砂金",
@@ -2881,7 +2960,7 @@
 			},
 			{
 				"itemId": 1212,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/91b88ea8f0d6530713b3288efd47996c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/71f627c480f391bf4c3c4883973f6e43.png",
 				"itemType": "Character",
 				"name": "镜流",
 				"nameEn": "镜流",
@@ -2893,7 +2972,7 @@
 			},
 			{
 				"itemId": 1110,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a346633fa96274a138ae4426e8121ff5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a5673971df468319fc69d5968a01b4c5.png",
 				"itemType": "Character",
 				"name": "玲可",
 				"nameEn": "玲可",
@@ -2905,7 +2984,7 @@
 			},
 			{
 				"itemId": 1111,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/5b2e6a09a7dd4af7d5d4cce839d9af5f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/fa0f6d90e85c7908ef8e7ca2eabdd737.png",
 				"itemType": "Character",
 				"name": "卢卡",
 				"nameEn": "卢卡",
@@ -2917,7 +2996,7 @@
 			},
 			{
 				"itemId": 1103,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/98cd1efb19ab89daee518a4ac5f7b04c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/e686e8eb0999d5e600c5fd40ba2a56cc.png",
 				"itemType": "Character",
 				"name": "希露瓦",
 				"nameEn": "希露瓦",
@@ -2936,7 +3015,7 @@
 		"items": [
 			{
 				"itemId": 1308,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/32efcb9506785b0233f1399e7e74261b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/08bfcd24c74ff40bf76d573b96cebd3b.png",
 				"itemType": "Character",
 				"name": "黄泉",
 				"nameEn": "黄泉",
@@ -2948,7 +3027,7 @@
 			},
 			{
 				"itemId": 1203,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/2f34f7682ed29cbd6159bf9c98a4a3e2.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/dbe445481b54d4456236e4d901f05a54.png",
 				"itemType": "Character",
 				"name": "罗刹",
 				"nameEn": "罗刹",
@@ -2960,7 +3039,7 @@
 			},
 			{
 				"itemId": 1301,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d01d91b1665f5c60fee2d7892e6b6c74.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a92729c9d9ca79d92ca530e1921c4336.png",
 				"itemType": "Character",
 				"name": "加拉赫",
 				"nameEn": "加拉赫",
@@ -2972,7 +3051,7 @@
 			},
 			{
 				"itemId": 1106,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/f28b762da7dd4f893f085ff09050e328.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/c9438873d2ce2b79c53cc7dee2b29235.png",
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
@@ -2984,7 +3063,7 @@
 			},
 			{
 				"itemId": 1002,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/4b354a0a4eb4817cf73ec7555f8de783.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/9eb56b0fa317c1d51cc50a0289df018a.png",
 				"itemType": "Character",
 				"name": "丹恒",
 				"nameEn": "丹恒",
@@ -3003,7 +3082,7 @@
 		"items": [
 			{
 				"itemId": 1306,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/5225826f7e04a4ffb9680e094e4af1e5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/aaf653dd8827bd47f4e7c224fd524615.png",
 				"itemType": "Character",
 				"name": "花火",
 				"nameEn": "花火",
@@ -3015,7 +3094,7 @@
 			},
 			{
 				"itemId": 1204,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/f0d274ba75f6ec6082fd179b163ba37c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/227c5e68a63d602696bd4386ce6c80ab.png",
 				"itemType": "Character",
 				"name": "景元",
 				"nameEn": "景元",
@@ -3027,7 +3106,7 @@
 			},
 			{
 				"itemId": 1108,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/49aa6ff8fcdfcede6c99ecac12bd4b45.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/9456a0f92799d512d7c65b5109161aa2.png",
 				"itemType": "Character",
 				"name": "桑博",
 				"nameEn": "桑博",
@@ -3039,7 +3118,7 @@
 			},
 			{
 				"itemId": 1201,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/5ab74a2b7299f3bb65757ed202f25b21.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/4b1e67e50d3dc414282fa4167b282110.png",
 				"itemType": "Character",
 				"name": "青雀",
 				"nameEn": "青雀",
@@ -3051,7 +3130,7 @@
 			},
 			{
 				"itemId": 1215,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/65015ab9ef8769c6c0b1c8bbf0954f98.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/8d9a19c581c6d49632a9a8c7439aefe4.png",
 				"itemType": "Character",
 				"name": "寒鸦",
 				"nameEn": "寒鸦",
@@ -3070,7 +3149,7 @@
 		"items": [
 			{
 				"itemId": 1307,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d9c9a9af4fc7fd748f5a0172f89bfa6d.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/504bed20c8b2d3d4090a07231a99118b.png",
 				"itemType": "Character",
 				"name": "黑天鹅",
 				"nameEn": "黑天鹅",
@@ -3082,7 +3161,7 @@
 			},
 			{
 				"itemId": 1213,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/114b258fa5beabe5c4529af44a04ab02.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/3cacd14a977553b07df26012078f5a9d.png",
 				"itemType": "Character",
 				"name": "丹恒•饮月",
 				"nameEn": "丹恒•饮月",
@@ -3094,7 +3173,7 @@
 			},
 			{
 				"itemId": 1312,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d4d086972a41e3f2e8b712667fb37257.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/26a120d9622f800568b8b5b6c7a6db4f.png",
 				"itemType": "Character",
 				"name": "米沙",
 				"nameEn": "米沙",
@@ -3106,7 +3185,7 @@
 			},
 			{
 				"itemId": 1202,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/eb35105004de8fd60523d395bfdcd6a0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/92b202664b9509b65c7415a1aa84f537.png",
 				"itemType": "Character",
 				"name": "停云",
 				"nameEn": "停云",
@@ -3118,7 +3197,7 @@
 			},
 			{
 				"itemId": 1210,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/93a2fb14bb4d7b75a6c497e9c0a059b6.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/d3d38432213698a77ca18c47c4ecd09b.png",
 				"itemType": "Character",
 				"name": "桂乃芬",
 				"nameEn": "桂乃芬",
@@ -3137,7 +3216,7 @@
 		"items": [
 			{
 				"itemId": 1305,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/b676e5db4deca0b5835474d2b9f85fd0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/f351f504cb36ed203d959f1773749c8c.png",
 				"itemType": "Character",
 				"name": "真理医生",
 				"nameEn": "真理医生",
@@ -3149,7 +3228,7 @@
 			},
 			{
 				"itemId": 1005,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/8113f2756523d9d611912456014ed8c1.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/47872d11adcfd60711490151934f5f14.png",
 				"itemType": "Character",
 				"name": "卡芙卡",
 				"nameEn": "卡芙卡",
@@ -3161,7 +3240,7 @@
 			},
 			{
 				"itemId": 1206,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/b3a76bdac53dbd51e0fc4548baf1cfed.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/7a9a7ee4c0b2eec426cf09c651a35b32.png",
 				"itemType": "Character",
 				"name": "素裳",
 				"nameEn": "素裳",
@@ -3173,7 +3252,7 @@
 			},
 			{
 				"itemId": 1105,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/248b6e991dfe33702b1cd74bd6e8cd2b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/6f469bbdb7ce54779e763f81fa52b3d2.png",
 				"itemType": "Character",
 				"name": "娜塔莎",
 				"nameEn": "娜塔莎",
@@ -3185,7 +3264,7 @@
 			},
 			{
 				"itemId": 1109,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/542570c6300a57050d3ac2bd9e1f5107.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/4624248581d5c8db71fdf5c9a3d2e29b.png",
 				"itemType": "Character",
 				"name": "虎克",
 				"nameEn": "虎克",
@@ -3204,7 +3283,7 @@
 		"items": [
 			{
 				"itemId": 1303,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/8d9ba2fed6e41b3b9a0ec5708e09a873.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/3c2a74853dda2c256931eb4805935974.png",
 				"itemType": "Character",
 				"name": "阮•梅",
 				"nameEn": "阮•梅",
@@ -3216,7 +3295,7 @@
 			},
 			{
 				"itemId": 1205,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a4cbf44365a4a18dbf5f72be92027682.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/03490422304aca820c4d91e2fcc064aa.png",
 				"itemType": "Character",
 				"name": "刃",
 				"nameEn": "刃",
@@ -3228,7 +3307,7 @@
 			},
 			{
 				"itemId": 1214,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/3b3ee0eaa51723bffb7e745c2b88991c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a90f5b313941d0145be7ac836b497f75.png",
 				"itemType": "Character",
 				"name": "雪衣",
 				"nameEn": "雪衣",
@@ -3240,7 +3319,7 @@
 			},
 			{
 				"itemId": 1224,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/3dec4f322fdf068d61bd837c6b58fa2e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/35e109485b63fd67445a822af46a95de.png",
 				"itemType": "Character",
 				"name": "三月七",
 				"nameEn": "三月七",
@@ -3252,7 +3331,7 @@
 			},
 			{
 				"itemId": 1202,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/eb35105004de8fd60523d395bfdcd6a0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/92b202664b9509b65c7415a1aa84f537.png",
 				"itemType": "Character",
 				"name": "停云",
 				"nameEn": "停云",
@@ -3271,7 +3350,7 @@
 		"items": [
 			{
 				"itemId": 1302,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/70e076909e0d17b290ab552296c39a23.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/d22a48cc96a006587e9ce79ef0b388aa.png",
 				"itemType": "Character",
 				"name": "银枝",
 				"nameEn": "银枝",
@@ -3283,7 +3362,7 @@
 			},
 			{
 				"itemId": 1006,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/36eb72296ed1b078e64614c4c702cb06.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/448d8bf18a47ccc1de6e79069650ab9f.png",
 				"itemType": "Character",
 				"name": "银狼",
 				"nameEn": "银狼",
@@ -3295,7 +3374,7 @@
 			},
 			{
 				"itemId": 1215,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/65015ab9ef8769c6c0b1c8bbf0954f98.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/8d9a19c581c6d49632a9a8c7439aefe4.png",
 				"itemType": "Character",
 				"name": "寒鸦",
 				"nameEn": "寒鸦",
@@ -3307,7 +3386,7 @@
 			},
 			{
 				"itemId": 1110,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a346633fa96274a138ae4426e8121ff5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a5673971df468319fc69d5968a01b4c5.png",
 				"itemType": "Character",
 				"name": "玲可",
 				"nameEn": "玲可",
@@ -3319,7 +3398,7 @@
 			},
 			{
 				"itemId": 1009,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/fc9209f0c815aee7f67f41d669d33eb0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/eb64ac7c0c2e7abb7d6c52fce9f39f37.png",
 				"itemType": "Character",
 				"name": "艾丝妲",
 				"nameEn": "艾丝妲",
@@ -3338,7 +3417,7 @@
 		"items": [
 			{
 				"itemId": 1217,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a2f18e9dd74da7d5e5f3765882c43449.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/504124c92eb9c57b76081f465c5174ad.png",
 				"itemType": "Character",
 				"name": "藿藿",
 				"nameEn": "藿藿",
@@ -3350,7 +3429,7 @@
 			},
 			{
 				"itemId": 1002,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/4b354a0a4eb4817cf73ec7555f8de783.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/9eb56b0fa317c1d51cc50a0289df018a.png",
 				"itemType": "Character",
 				"name": "丹恒",
 				"nameEn": "丹恒",
@@ -3362,7 +3441,7 @@
 			},
 			{
 				"itemId": 1008,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/6dc0970c48b04c777bf12629b8f4edd3.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/119ae3e6ec885e7194af3c328d458258.png",
 				"itemType": "Character",
 				"name": "阿兰",
 				"nameEn": "阿兰",
@@ -3374,7 +3453,7 @@
 			},
 			{
 				"itemId": 1103,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/98cd1efb19ab89daee518a4ac5f7b04c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/e686e8eb0999d5e600c5fd40ba2a56cc.png",
 				"itemType": "Character",
 				"name": "希露瓦",
 				"nameEn": "希露瓦",
@@ -3393,7 +3472,7 @@
 		"items": [
 			{
 				"itemId": 1112,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/d72410444b77eb70160946f29ed81749.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/8560cee83103535d754f71f2ae48e519.png",
 				"itemType": "Character",
 				"name": "托帕&账账",
 				"nameEn": "托帕&账账",
@@ -3405,7 +3484,7 @@
 			},
 			{
 				"itemId": 1102,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/ca580e2074cf4f09bab5ecc1b7c5454e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/4b3b8197fc277dbab02362c7c167ccfd.png",
 				"itemType": "Character",
 				"name": "希儿",
 				"nameEn": "希儿",
@@ -3417,7 +3496,7 @@
 			},
 			{
 				"itemId": 1210,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/93a2fb14bb4d7b75a6c497e9c0a059b6.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/d3d38432213698a77ca18c47c4ecd09b.png",
 				"itemType": "Character",
 				"name": "桂乃芬",
 				"nameEn": "桂乃芬",
@@ -3429,7 +3508,7 @@
 			},
 			{
 				"itemId": 1111,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/5b2e6a09a7dd4af7d5d4cce839d9af5f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/fa0f6d90e85c7908ef8e7ca2eabdd737.png",
 				"itemType": "Character",
 				"name": "卢卡",
 				"nameEn": "卢卡",
@@ -3441,7 +3520,7 @@
 			},
 			{
 				"itemId": 1206,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/b3a76bdac53dbd51e0fc4548baf1cfed.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/7a9a7ee4c0b2eec426cf09c651a35b32.png",
 				"itemType": "Character",
 				"name": "素裳",
 				"nameEn": "素裳",
@@ -3460,7 +3539,7 @@
 		"items": [
 			{
 				"itemId": 1212,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/91b88ea8f0d6530713b3288efd47996c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/71f627c480f391bf4c3c4883973f6e43.png",
 				"itemType": "Character",
 				"name": "镜流",
 				"nameEn": "镜流",
@@ -3472,7 +3551,7 @@
 			},
 			{
 				"itemId": 1202,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/eb35105004de8fd60523d395bfdcd6a0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/92b202664b9509b65c7415a1aa84f537.png",
 				"itemType": "Character",
 				"name": "停云",
 				"nameEn": "停云",
@@ -3484,7 +3563,7 @@
 			},
 			{
 				"itemId": 1201,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/5ab74a2b7299f3bb65757ed202f25b21.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/4b1e67e50d3dc414282fa4167b282110.png",
 				"itemType": "Character",
 				"name": "青雀",
 				"nameEn": "青雀",
@@ -3496,7 +3575,7 @@
 			},
 			{
 				"itemId": 1108,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/49aa6ff8fcdfcede6c99ecac12bd4b45.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/9456a0f92799d512d7c65b5109161aa2.png",
 				"itemType": "Character",
 				"name": "桑博",
 				"nameEn": "桑博",
@@ -3515,7 +3594,7 @@
 		"items": [
 			{
 				"itemId": 1208,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/e45264f362415646972bb7d87856bc4f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/2edfcce5a2282adb43dd09c98df4107f.png",
 				"itemType": "Character",
 				"name": "符玄",
 				"nameEn": "符玄",
@@ -3527,7 +3606,7 @@
 			},
 			{
 				"itemId": 1110,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a346633fa96274a138ae4426e8121ff5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a5673971df468319fc69d5968a01b4c5.png",
 				"itemType": "Character",
 				"name": "玲可",
 				"nameEn": "玲可",
@@ -3539,7 +3618,7 @@
 			},
 			{
 				"itemId": 1109,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/542570c6300a57050d3ac2bd9e1f5107.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/4624248581d5c8db71fdf5c9a3d2e29b.png",
 				"itemType": "Character",
 				"name": "虎克",
 				"nameEn": "虎克",
@@ -3551,7 +3630,7 @@
 			},
 			{
 				"itemId": 1106,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/f28b762da7dd4f893f085ff09050e328.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/c9438873d2ce2b79c53cc7dee2b29235.png",
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
@@ -3570,7 +3649,7 @@
 		"items": [
 			{
 				"itemId": 1213,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/114b258fa5beabe5c4529af44a04ab02.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/3cacd14a977553b07df26012078f5a9d.png",
 				"itemType": "Character",
 				"name": "丹恒•饮月",
 				"nameEn": "丹恒•饮月",
@@ -3582,7 +3661,7 @@
 			},
 			{
 				"itemId": 1207,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/4a64f1e8d573e89a7a697503d345a532.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/04065056aed932e3bc679a31d62f8a17.png",
 				"itemType": "Character",
 				"name": "驭空",
 				"nameEn": "驭空",
@@ -3594,7 +3673,7 @@
 			},
 			{
 				"itemId": 1009,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/fc9209f0c815aee7f67f41d669d33eb0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/eb64ac7c0c2e7abb7d6c52fce9f39f37.png",
 				"itemType": "Character",
 				"name": "艾丝妲",
 				"nameEn": "艾丝妲",
@@ -3606,7 +3685,7 @@
 			},
 			{
 				"itemId": 1224,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/3dec4f322fdf068d61bd837c6b58fa2e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/35e109485b63fd67445a822af46a95de.png",
 				"itemType": "Character",
 				"name": "三月七",
 				"nameEn": "三月七",
@@ -3625,7 +3704,7 @@
 		"items": [
 			{
 				"itemId": 1005,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/8113f2756523d9d611912456014ed8c1.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/47872d11adcfd60711490151934f5f14.png",
 				"itemType": "Character",
 				"name": "卡芙卡",
 				"nameEn": "卡芙卡",
@@ -3637,7 +3716,7 @@
 			},
 			{
 				"itemId": 1111,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/5b2e6a09a7dd4af7d5d4cce839d9af5f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/fa0f6d90e85c7908ef8e7ca2eabdd737.png",
 				"itemType": "Character",
 				"name": "卢卡",
 				"nameEn": "卢卡",
@@ -3649,7 +3728,7 @@
 			},
 			{
 				"itemId": 1108,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/49aa6ff8fcdfcede6c99ecac12bd4b45.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/9456a0f92799d512d7c65b5109161aa2.png",
 				"itemType": "Character",
 				"name": "桑博",
 				"nameEn": "桑博",
@@ -3661,7 +3740,7 @@
 			},
 			{
 				"itemId": 1103,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/98cd1efb19ab89daee518a4ac5f7b04c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/e686e8eb0999d5e600c5fd40ba2a56cc.png",
 				"itemType": "Character",
 				"name": "希露瓦",
 				"nameEn": "希露瓦",
@@ -3680,7 +3759,7 @@
 		"items": [
 			{
 				"itemId": 1205,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/a4cbf44365a4a18dbf5f72be92027682.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/03490422304aca820c4d91e2fcc064aa.png",
 				"itemType": "Character",
 				"name": "刃",
 				"nameEn": "刃",
@@ -3692,7 +3771,7 @@
 			},
 			{
 				"itemId": 1008,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/6dc0970c48b04c777bf12629b8f4edd3.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/119ae3e6ec885e7194af3c328d458258.png",
 				"itemType": "Character",
 				"name": "阿兰",
 				"nameEn": "阿兰",
@@ -3704,7 +3783,7 @@
 			},
 			{
 				"itemId": 1105,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/248b6e991dfe33702b1cd74bd6e8cd2b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/6f469bbdb7ce54779e763f81fa52b3d2.png",
 				"itemType": "Character",
 				"name": "娜塔莎",
 				"nameEn": "娜塔莎",
@@ -3716,7 +3795,7 @@
 			},
 			{
 				"itemId": 1206,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/b3a76bdac53dbd51e0fc4548baf1cfed.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/7a9a7ee4c0b2eec426cf09c651a35b32.png",
 				"itemType": "Character",
 				"name": "素裳",
 				"nameEn": "素裳",
@@ -3735,7 +3814,7 @@
 		"items": [
 			{
 				"itemId": 1203,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/2f34f7682ed29cbd6159bf9c98a4a3e2.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/dbe445481b54d4456236e4d901f05a54.png",
 				"itemType": "Character",
 				"name": "罗刹",
 				"nameEn": "罗刹",
@@ -3747,7 +3826,7 @@
 			},
 			{
 				"itemId": 1207,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/4a64f1e8d573e89a7a697503d345a532.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/04065056aed932e3bc679a31d62f8a17.png",
 				"itemType": "Character",
 				"name": "驭空",
 				"nameEn": "驭空",
@@ -3759,7 +3838,7 @@
 			},
 			{
 				"itemId": 1106,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/f28b762da7dd4f893f085ff09050e328.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/c9438873d2ce2b79c53cc7dee2b29235.png",
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
@@ -3771,7 +3850,7 @@
 			},
 			{
 				"itemId": 1201,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/5ab74a2b7299f3bb65757ed202f25b21.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/4b1e67e50d3dc414282fa4167b282110.png",
 				"itemType": "Character",
 				"name": "青雀",
 				"nameEn": "青雀",
@@ -3790,7 +3869,7 @@
 		"items": [
 			{
 				"itemId": 1006,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/36eb72296ed1b078e64614c4c702cb06.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/448d8bf18a47ccc1de6e79069650ab9f.png",
 				"itemType": "Character",
 				"name": "银狼",
 				"nameEn": "银狼",
@@ -3802,7 +3881,7 @@
 			},
 			{
 				"itemId": 1002,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/4b354a0a4eb4817cf73ec7555f8de783.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/9eb56b0fa317c1d51cc50a0289df018a.png",
 				"itemType": "Character",
 				"name": "丹恒",
 				"nameEn": "丹恒",
@@ -3814,7 +3893,7 @@
 			},
 			{
 				"itemId": 1009,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/fc9209f0c815aee7f67f41d669d33eb0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/eb64ac7c0c2e7abb7d6c52fce9f39f37.png",
 				"itemType": "Character",
 				"name": "艾丝妲",
 				"nameEn": "艾丝妲",
@@ -3826,7 +3905,7 @@
 			},
 			{
 				"itemId": 1103,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/98cd1efb19ab89daee518a4ac5f7b04c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/e686e8eb0999d5e600c5fd40ba2a56cc.png",
 				"itemType": "Character",
 				"name": "希露瓦",
 				"nameEn": "希露瓦",
@@ -3845,7 +3924,7 @@
 		"items": [
 			{
 				"itemId": 1204,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/f0d274ba75f6ec6082fd179b163ba37c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/227c5e68a63d602696bd4386ce6c80ab.png",
 				"itemType": "Character",
 				"name": "景元",
 				"nameEn": "景元",
@@ -3857,7 +3936,7 @@
 			},
 			{
 				"itemId": 1202,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/eb35105004de8fd60523d395bfdcd6a0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/92b202664b9509b65c7415a1aa84f537.png",
 				"itemType": "Character",
 				"name": "停云",
 				"nameEn": "停云",
@@ -3869,7 +3948,7 @@
 			},
 			{
 				"itemId": 1206,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/b3a76bdac53dbd51e0fc4548baf1cfed.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/7a9a7ee4c0b2eec426cf09c651a35b32.png",
 				"itemType": "Character",
 				"name": "素裳",
 				"nameEn": "素裳",
@@ -3881,7 +3960,7 @@
 			},
 			{
 				"itemId": 1224,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/3dec4f322fdf068d61bd837c6b58fa2e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/35e109485b63fd67445a822af46a95de.png",
 				"itemType": "Character",
 				"name": "三月七",
 				"nameEn": "三月七",
@@ -3900,7 +3979,7 @@
 		"items": [
 			{
 				"itemId": 1102,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/ca580e2074cf4f09bab5ecc1b7c5454e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/4b3b8197fc277dbab02362c7c167ccfd.png",
 				"itemType": "Character",
 				"name": "希儿",
 				"nameEn": "希儿",
@@ -3912,7 +3991,7 @@
 			},
 			{
 				"itemId": 1105,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/248b6e991dfe33702b1cd74bd6e8cd2b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/6f469bbdb7ce54779e763f81fa52b3d2.png",
 				"itemType": "Character",
 				"name": "娜塔莎",
 				"nameEn": "娜塔莎",
@@ -3924,7 +4003,7 @@
 			},
 			{
 				"itemId": 1109,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/542570c6300a57050d3ac2bd9e1f5107.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/4624248581d5c8db71fdf5c9a3d2e29b.png",
 				"itemType": "Character",
 				"name": "虎克",
 				"nameEn": "虎克",
@@ -3936,7 +4015,7 @@
 			},
 			{
 				"itemId": 1106,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0a0ae/f28b762da7dd4f893f085ff09050e328.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/c9438873d2ce2b79c53cc7dee2b29235.png",
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
