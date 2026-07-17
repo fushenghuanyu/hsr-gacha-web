@@ -181,17 +181,41 @@ fn git_blob_sha(content: &[u8]) -> String {
     format!("{:x}", hasher.finalize())
 }
 
-/// 开发态（`cargo run` 的 target 二进制）或显式跳过时不同步。
-pub fn should_run_resource_sync() -> bool {
+/// 跳过自动同步的原因（用于状态文案）。
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+pub enum ResourceSyncSkipReason {
+    Env,
+    DevMode,
+    UserDisabled,
+}
+
+impl ResourceSyncSkipReason {
+    fn message(self) -> String {
+        match self {
+            Self::Env => format!("已跳过资源同步（{SKIP_ENV}=1）"),
+            Self::DevMode => "开发模式，已跳过远程资源同步".into(),
+            Self::UserDisabled => "已关闭启动时自动同步远程资源".into(),
+        }
+    }
+}
+
+/// 若不应自动同步则返回原因。
+pub fn resource_sync_skip_reason() -> Option<ResourceSyncSkipReason> {
     if std::env::var(SKIP_ENV).ok().as_deref() == Some("1") {
-        return false;
+        return Some(ResourceSyncSkipReason::Env);
     }
     if let Ok(exe) = std::env::current_exe() {
         if crate::paths::is_dev_launcher_exe(&exe) {
-            return false;
+            return Some(ResourceSyncSkipReason::DevMode);
         }
     }
-    true
+    let settings = crate::launcher_settings::load_launcher_settings(&crate::paths::user_data_dir(
+        &crate::paths::project_root(),
+    ));
+    if !settings.auto_sync_resources {
+        return Some(ResourceSyncSkipReason::UserDisabled);
+    }
+    None
 }
 
 fn http_client() -> Result<Client, SyncError> {
@@ -534,11 +558,11 @@ fn prune_empty_dirs(root: &Path) {
 pub fn start_background_sync(project_root: PathBuf) -> ResourceSyncHandle {
     let status = Arc::new(Mutex::new(ResourceSyncStatus::default()));
 
-    if !should_run_resource_sync() {
+    if let Some(reason) = resource_sync_skip_reason() {
         set_phase(
             &status,
             ResourceSyncPhase::Skipped {
-                message: "开发模式或未启用自动同步".into(),
+                message: reason.message(),
             },
         );
         return ResourceSyncHandle {

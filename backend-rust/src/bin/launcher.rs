@@ -89,6 +89,8 @@ fn try_load_cjk_font_bytes() -> Option<(String, Vec<u8>)> {
 struct LauncherApp {
     url: String,
     status: String,
+    auto_sync_resources: bool,
+    show_restart_dialog: bool,
     sync_status: Arc<Mutex<hsr_gacha_api::ResourceSyncStatus>>,
     _sync_handle: hsr_gacha_api::ResourceSyncHandle,
     /// 后台 Tokio 服务线程；若已结束则下次点击会重新拉起。
@@ -195,6 +197,38 @@ impl eframe::App for LauncherApp {
                         self.status = "已复制到剪贴板".to_string();
                     }
                 });
+                ui.add_space(8.0);
+                let check_text = "启动时自动同步远程资源";
+                let check_w = egui::WidgetText::from(check_text)
+                    .into_galley(ui, None, f32::INFINITY, egui::TextStyle::Body)
+                    .size()
+                    .x
+                    + ui.spacing().icon_width
+                    + ui.spacing().icon_spacing;
+                let check_lead = ((ui.available_width() - check_w) * 0.5).max(0.0);
+                ui.horizontal(|ui| {
+                    ui.add_space(check_lead);
+                    if ui
+                        .checkbox(&mut self.auto_sync_resources, check_text)
+                        .changed()
+                    {
+                        let settings = hsr_gacha_api::LauncherSettings {
+                            auto_sync_resources: self.auto_sync_resources,
+                        };
+                        let ud = hsr_gacha_api::paths::user_data_dir(
+                            &hsr_gacha_api::paths::project_root(),
+                        );
+                        match hsr_gacha_api::save_launcher_settings(&ud, &settings) {
+                            Ok(()) => {
+                                self.show_restart_dialog = true;
+                                self.status = "设置已保存".to_string();
+                            }
+                            Err(e) => {
+                                self.status = format!("保存设置失败：{e}");
+                            }
+                        }
+                    }
+                });
                 ui.add_space(12.0);
                 let open_clicked = ui.scope(|ui| {
                     let mut style = (**ui.style()).clone();
@@ -231,6 +265,22 @@ impl eframe::App for LauncherApp {
                 }
             });
         });
+
+        if self.show_restart_dialog {
+            egui::Window::new("提示")
+                .collapsible(false)
+                .resizable(false)
+                .anchor(egui::Align2::CENTER_CENTER, [0.0, 0.0])
+                .show(ctx, |ui| {
+                    ui.label("设置已保存，重新启动程序后生效");
+                    ui.add_space(8.0);
+                    ui.vertical_centered(|ui| {
+                        if ui.button("确定").clicked() {
+                            self.show_restart_dialog = false;
+                        }
+                    });
+                });
+        }
     }
 }
 
@@ -250,11 +300,14 @@ fn main() -> eframe::Result<()> {
 
     let app_title = format!("崩坏：星穹铁道抽卡分析 v{}", hsr_gacha_api::APP_VERSION);
     let project_root = hsr_gacha_api::paths::project_root();
+    let user_data_dir = hsr_gacha_api::paths::user_data_dir(&project_root);
+    let settings = hsr_gacha_api::load_launcher_settings(&user_data_dir);
+    let auto_sync_resources = settings.auto_sync_resources;
     let sync_handle = hsr_gacha_api::start_background_sync(project_root);
     let sync_status = sync_handle.status();
     let opts = eframe::NativeOptions {
         viewport: egui::ViewportBuilder::default()
-            .with_inner_size([520.0, 250.0])
+            .with_inner_size([520.0, 300.0])
             .with_title(&app_title),
         ..Default::default()
     };
@@ -266,6 +319,8 @@ fn main() -> eframe::Result<()> {
             Ok(Box::new(LauncherApp {
                 url: "http://127.0.0.1:8000/".to_string(),
                 status: String::new(),
+                auto_sync_resources,
+                show_restart_dialog: false,
                 sync_status,
                 _sync_handle: sync_handle,
                 server_thread: None,
