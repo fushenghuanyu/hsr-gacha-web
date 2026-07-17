@@ -1,6 +1,171 @@
 [
 	{
-		"version": "4.3.2",
+		"version": "4.5.1",
+		"items": [
+			{
+				"itemId": 1412,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/d5b477528f1a647b9e03f16eaf51d0c3.png",
+				"itemType": "Character",
+				"name": "刻律德菈",
+				"nameEn": "刻律德菈",
+				"damageType": "16",
+				"element": "wind",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 1405,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/6723bceddd892186106976b39c00e589.png",
+				"itemType": "Character",
+				"name": "那刻夏",
+				"nameEn": "那刻夏",
+				"damageType": "16",
+				"element": "wind",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 1304,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/64fa13a00c2ee301a429aa318d245592.png",
+				"itemType": "Character",
+				"name": "砂金",
+				"nameEn": "砂金",
+				"damageType": "64",
+				"element": "imaginary",
+				"rankType": 5,
+				"avatarBaseType": "6",
+				"weaponType": "preservation"
+			},
+			{
+				"itemId": 1223,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/10787d569092ef5368e9390ea38a80bd.png",
+				"itemType": "Character",
+				"name": "貊泽",
+				"nameEn": "貊泽",
+				"damageType": "8",
+				"element": "lightning",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 1215,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/8d9a19c581c6d49632a9a8c7439aefe4.png",
+				"itemType": "Character",
+				"name": "寒鸦",
+				"nameEn": "寒鸦",
+				"damageType": "1",
+				"element": "physical",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 1103,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/e686e8eb0999d5e600c5fd40ba2a56cc.png",
+				"itemType": "Character",
+				"name": "希露瓦",
+				"nameEn": "希露瓦",
+				"damageType": "8",
+				"element": "lightning",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			}
+		],
+		"start": "2026-08-05 12:00:00",
+		"end": "2026-08-25 15:00:00"
+	},
+	{
+		"version": "1.0.2",
+		"items": [
+			{
+				"itemId": 1509,
+				"imageUrl": "/hkrpg/pre_webtool_cn/item_icon_ufe9lc/f867bd314fbceb3c02663407adc97aef.png",
+				"itemType": "Character",
+				"name": "吉尔伽美什",
+				"nameEn": "吉尔伽美什",
+				"damageType": "8",
+				"element": "lightning",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 1508,
+				"imageUrl": "/hkrpg/pre_webtool_cn/item_icon_ufe9lc/441652b78f2d36a3945e1f818c4c1da6.png",
+				"itemType": "Character",
+				"name": "远坂凛",
+				"nameEn": "远坂凛",
+				"damageType": "32",
+				"element": "quantum",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			}
+		],
+		"start": "2026-07-24 12:00:00",
+		"end": "长期"
+	},
+	{
+		"version": "4.4.2",
+		"items": [
+			{
+				"itemId": 1510,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/3c7b74bfd7a6462639245b1662f0bc7b.png",
+				"itemType": "Character",
+				"name": "姬子•启行",
+				"nameEn": "姬子•启行",
+				"damageType": "2",
+				"element": "fire",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 1223,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/10787d569092ef5368e9390ea38a80bd.png",
+				"itemType": "Character",
+				"name": "貊泽",
+				"nameEn": "貊泽",
+				"damageType": "8",
+				"element": "lightning",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 1215,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/8d9a19c581c6d49632a9a8c7439aefe4.png",
+				"itemType": "Character",
+				"name": "寒鸦",
+				"nameEn": "寒鸦",
+				"damageType": "1",
+				"element": "physical",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 1103,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/e686e8eb0999d5e600c5fd40ba2a56cc.png",
+				"itemType": "Character",
+				"name": "希露瓦",
+				"nameEn": "希露瓦",
+				"damageType": "8",
+				"element": "lightning",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			}
+		],
+		"start": "2026-07-15 10:00:00",
+		"end": "2026-08-25 15:00:00"
+	},
+	{
+		"version": "4.4.1",
 		"items": [
 			{
 				"itemId": 1501,
@@ -79,8 +244,20 @@
 		"end": "2026-08-05 11:59:00"
 	},
 	{
-		"version": "4.3.1",
+		"version": "4.3.2",
 		"items": [
+			{
+				"itemId": 1408,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/64e8c7ff7b5c9bf6420b8f3d55913a05.png",
+				"itemType": "Character",
+				"name": "白厄",
+				"nameEn": "白厄",
+				"damageType": "1",
+				"element": "physical",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
 			{
 				"itemId": 1415,
 				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/a630a76ae45a1ef920a630254731ec07.png",
@@ -94,14 +271,14 @@
 				"weaponType": "remembrance"
 			},
 			{
-				"itemId": 1408,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/64e8c7ff7b5c9bf6420b8f3d55913a05.png",
+				"itemId": 1008,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/119ae3e6ec885e7194af3c328d458258.png",
 				"itemType": "Character",
-				"name": "白厄",
-				"nameEn": "白厄",
-				"damageType": "1",
-				"element": "physical",
-				"rankType": 5,
+				"name": "阿兰",
+				"nameEn": "阿兰",
+				"damageType": "8",
+				"element": "lightning",
+				"rankType": 4,
 				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
@@ -116,34 +293,77 @@
 				"rankType": 4,
 				"avatarBaseType": "4",
 				"weaponType": "harmony"
-			},
-			{
-				"itemId": 1224,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/35e109485b63fd67445a822af46a95de.png",
-				"itemType": "Character",
-				"name": "三月七",
-				"nameEn": "三月七",
-				"damageType": "64",
-				"element": "imaginary",
-				"rankType": 4,
-				"avatarBaseType": "2",
-				"weaponType": "the_Hunt"
-			},
-			{
-				"itemId": 1008,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/119ae3e6ec885e7194af3c328d458258.png",
-				"itemType": "Character",
-				"name": "阿兰",
-				"nameEn": "阿兰",
-				"damageType": "8",
-				"element": "lightning",
-				"rankType": 4,
-				"avatarBaseType": "1",
-				"weaponType": "destruction"
 			}
 		],
 		"start": "2026-06-24 12:00:00",
 		"end": "2026-07-14 15:00:00"
+	},
+	{
+		"version": "4.3.1",
+		"items": [
+			{
+				"itemId": 1502,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/b7e8314e417de796285b2a71d15bce4f.png",
+				"itemType": "Character",
+				"name": "爻光",
+				"nameEn": "爻光",
+				"damageType": "1",
+				"element": "physical",
+				"rankType": 5,
+				"avatarBaseType": "9",
+				"weaponType": "elation"
+			},
+			{
+				"itemId": 1507,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/3359cabf740d0cd6903228b68412b804.png",
+				"itemType": "Character",
+				"name": "千冶•刃",
+				"nameEn": "千冶•刃",
+				"damageType": "2",
+				"element": "fire",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 1108,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/9456a0f92799d512d7c65b5109161aa2.png",
+				"itemType": "Character",
+				"name": "桑博",
+				"nameEn": "桑博",
+				"damageType": "16",
+				"element": "wind",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 1111,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/fa0f6d90e85c7908ef8e7ca2eabdd737.png",
+				"itemType": "Character",
+				"name": "卢卡",
+				"nameEn": "卢卡",
+				"damageType": "1",
+				"element": "physical",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "nihility"
+			},
+			{
+				"itemId": 1202,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/92b202664b9509b65c7415a1aa84f537.png",
+				"itemType": "Character",
+				"name": "停云",
+				"nameEn": "停云",
+				"damageType": "8",
+				"element": "lightning",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			}
+		],
+		"start": "2026-06-01 10:00:00",
+		"end": "2026-06-24 11:59:00"
 	},
 	{
 		"version": "4.2.2",
