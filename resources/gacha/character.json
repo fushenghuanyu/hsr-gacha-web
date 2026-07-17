@@ -1,5 +1,60 @@
 [
 	{
+		"version": "4.4.3",
+		"items": [
+			{
+				"itemId": 1510,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/3c7b74bfd7a6462639245b1662f0bc7b.png",
+				"itemType": "Character",
+				"name": "姬子•启行",
+				"nameEn": "姬子•启行",
+				"damageType": "2",
+				"element": "fire",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 1223,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/10787d569092ef5368e9390ea38a80bd.png",
+				"itemType": "Character",
+				"name": "貊泽",
+				"nameEn": "貊泽",
+				"damageType": "8",
+				"element": "lightning",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 1215,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/8d9a19c581c6d49632a9a8c7439aefe4.png",
+				"itemType": "Character",
+				"name": "寒鸦",
+				"nameEn": "寒鸦",
+				"damageType": "1",
+				"element": "physical",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 1103,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/e686e8eb0999d5e600c5fd40ba2a56cc.png",
+				"itemType": "Character",
+				"name": "希露瓦",
+				"nameEn": "希露瓦",
+				"damageType": "8",
+				"element": "lightning",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			}
+		],
+		"start": "2026-07-15 10:00:00",
+		"end": "2026-08-25 15:00:00"
+	},
+	{
 		"version": "4.4.1",
 		"items": [
 			{
@@ -77,6 +132,61 @@
 		],
 		"start": "2026-07-15 06:30:00",
 		"end": "2026-08-05 11:59:00"
+	},
+	{
+		"version": "4.4.3",
+		"items": [
+			{
+				"itemId": 1510,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/3c7b74bfd7a6462639245b1662f0bc7b.png",
+				"itemType": "Character",
+				"name": "姬子•启行",
+				"nameEn": "姬子•启行",
+				"damageType": "2",
+				"element": "fire",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 1223,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/10787d569092ef5368e9390ea38a80bd.png",
+				"itemType": "Character",
+				"name": "貊泽",
+				"nameEn": "貊泽",
+				"damageType": "8",
+				"element": "lightning",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 1215,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/8d9a19c581c6d49632a9a8c7439aefe4.png",
+				"itemType": "Character",
+				"name": "寒鸦",
+				"nameEn": "寒鸦",
+				"damageType": "1",
+				"element": "physical",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 1103,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/e686e8eb0999d5e600c5fd40ba2a56cc.png",
+				"itemType": "Character",
+				"name": "希露瓦",
+				"nameEn": "希露瓦",
+				"damageType": "8",
+				"element": "lightning",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			}
+		],
+		"start": "2026-07-15 06:30:00",
+		"end": "2026-08-25 15:00:00"
 	},
 	{
 		"version": "4.3.2",

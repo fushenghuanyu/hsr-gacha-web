@@ -1,5 +1,52 @@
 [
 	{
+		"version": "4.4.3",
+		"items": [
+			{
+				"itemId": 23060,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/06fb2605bdac133f9690e022cfbfe0d8.png",
+				"itemType": "Weapon",
+				"name": "当一颗星照亮夜空",
+				"nameEn": "当一颗星照亮夜空",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21045,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/649b9b44b0956aa60e9e9cdc81ad1d10.png",
+				"itemType": "Weapon",
+				"name": "谐乐静默之后",
+				"nameEn": "谐乐静默之后",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21019,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/50dd91e9a3893c8b392aa232b26f2141.png",
+				"itemType": "Weapon",
+				"name": "在蓝天下",
+				"nameEn": "在蓝天下",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21006,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/45e86aa736ce3a4e1d6975f97f1cc2aa.png",
+				"itemType": "Weapon",
+				"name": "「我」的诞生",
+				"nameEn": "「我」的诞生",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			}
+		],
+		"start": "2026-07-15 10:00:00",
+		"end": "2026-08-25 15:00:00"
+	},
+	{
 		"version": "4.4.1",
 		"items": [
 			{
@@ -65,6 +112,53 @@
 		],
 		"start": "2026-07-15 06:30:00",
 		"end": "2026-08-05 11:59:00"
+	},
+	{
+		"version": "4.4.3",
+		"items": [
+			{
+				"itemId": 23060,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/06fb2605bdac133f9690e022cfbfe0d8.png",
+				"itemType": "Weapon",
+				"name": "当一颗星照亮夜空",
+				"nameEn": "当一颗星照亮夜空",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21045,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/649b9b44b0956aa60e9e9cdc81ad1d10.png",
+				"itemType": "Weapon",
+				"name": "谐乐静默之后",
+				"nameEn": "谐乐静默之后",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21019,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/50dd91e9a3893c8b392aa232b26f2141.png",
+				"itemType": "Weapon",
+				"name": "在蓝天下",
+				"nameEn": "在蓝天下",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 21006,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua5ece/45e86aa736ce3a4e1d6975f97f1cc2aa.png",
+				"itemType": "Weapon",
+				"name": "「我」的诞生",
+				"nameEn": "「我」的诞生",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			}
+		],
+		"start": "2026-07-15 06:30:00",
+		"end": "2026-08-25 15:00:00"
 	},
 	{
 		"version": "4.3.2",
