@@ -1,4 +1,4 @@
-import { mergeGachaResult } from "./mergeGachaResult.js";
+import { finalizeGachaResult, mergeGachaResult } from "./mergeGachaResult.js";
 import { fetchUserDataBootstrap, persistUserData } from "./api.js";
 
 function emptyState() {
@@ -19,13 +19,16 @@ export async function loadLocalState() {
   }
 }
 
-export async function saveAccountResult(result, source) {
+export async function saveAccountResult(result, source, { normalizedHistory } = {}) {
   const state = await loadLocalState();
   const uid = `${result?.uid || ""}`.trim();
   if (!uid) return state;
 
   const previous = state.accounts[uid];
-  const mergedResult = previous?.result ? mergeGachaResult(previous.result, result) : result;
+  let mergedResult = previous?.result ? mergeGachaResult(previous.result, result) : result;
+  if (Array.isArray(normalizedHistory)) {
+    mergedResult = finalizeGachaResult(mergedResult, normalizedHistory);
+  }
 
   state.accounts[uid] = {
     uid,

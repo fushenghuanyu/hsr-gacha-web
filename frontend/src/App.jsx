@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { fetchGachaData, fetchGachaDataAuto, fetchHistoryData } from "./api";
-import { buildOverview, buildPoolSummary, parseUigfToResult } from "./uigf";
+import { parseUigfToResult } from "./uigf";
 import {
   loadLocalState,
   saveAccountResult,
@@ -10,7 +10,8 @@ import {
   mergeOrderWithData,
   mergeOrderWithRest,
 } from "./localStore";
-import { annotateUpByHistory, normalizeHistoryRows } from "./poolHistory";
+import { finalizeGachaResult } from "./mergeGachaResult";
+import { normalizeHistoryRows } from "./poolHistory";
 
 const typeNameMap = {
   "11": "角色活动跃迁",
@@ -368,20 +369,16 @@ export default function App() {
   }, [accountMap]);
 
   const applyResult = async (data, source) => {
-    const withHistory = {
-      ...data,
-      records: annotateUpByHistory(data?.records || [], normalizedHistory),
-    };
-    withHistory.overview = buildOverview(withHistory.records);
-    withHistory.pool_summary = buildPoolSummary(withHistory.records);
-
-    const next = await saveAccountResult(withHistory, source);
-    const uid = `${withHistory?.uid || ""}`.trim();
-    const finalResult = uid && next.accounts?.[uid]?.result ? next.accounts[uid].result : withHistory;
+    const next = await saveAccountResult(data, source, { normalizedHistory });
+    const uid = `${data?.uid || ""}`.trim();
+    const finalResult =
+      uid && next.accounts?.[uid]?.result
+        ? next.accounts[uid].result
+        : finalizeGachaResult(data, normalizedHistory);
     setResult(finalResult);
     setAccountMap(next.accounts || {});
     setHistoryLogs(next.history || []);
-    setSelectedUid(`${withHistory.uid}`);
+    setSelectedUid(`${data?.uid || ""}`);
   };
 
   useEffect(() => {
@@ -412,15 +409,9 @@ export default function App() {
           nextAccounts[uid] = account;
           continue;
         }
-        const records = annotateUpByHistory(baseResult.records, normalizedHistory);
         nextAccounts[uid] = {
           ...account,
-          result: {
-            ...baseResult,
-            records,
-            overview: buildOverview(records),
-            pool_summary: buildPoolSummary(records),
-          },
+          result: finalizeGachaResult(baseResult, normalizedHistory),
         };
       }
       setAccountMap(nextAccounts);

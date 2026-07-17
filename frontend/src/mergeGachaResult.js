@@ -1,4 +1,17 @@
+import { annotateUpByHistory } from "./poolHistory.js";
 import { buildOverview, buildPoolSummary } from "./uigf.js";
+
+/** 对完整记录列表重新标注 UP 并生成 overview / pool_summary */
+export function finalizeGachaResult(result, normalizedHistory) {
+  if (!result) return result;
+  const records = annotateUpByHistory(result.records || [], normalizedHistory);
+  return {
+    ...result,
+    records,
+    overview: buildOverview(records),
+    pool_summary: buildPoolSummary(records),
+  };
+}
 
 /**
  * 与 star-rail-warp-export mergeData 中 mergeList 一致：先拼接 [本次, 本地]，
@@ -78,8 +91,6 @@ export function mergeGachaResult(local, incoming) {
     uid: incoming.uid,
     warp_url: incoming.warp_url != null && incoming.warp_url !== "" ? incoming.warp_url : local.warp_url,
     records: mergedRecords,
-    overview: buildOverview(mergedRecords),
-    pool_summary: buildPoolSummary(mergedRecords),
     logs: mergeLog ? [mergeLog, ...baseLogs] : baseLogs,
   };
 }
